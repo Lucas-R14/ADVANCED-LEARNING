@@ -1,0 +1,8 @@
+/* CSS HEX */
+ --bossanova: #54346b;
+--gold-sand: #e2c388;
+--snuff: #e7ddec;
+--sandrift: #b18f87;
+--opium: #917175;
+--mamba: #95809f;
+--rum: #7c6c8a;
