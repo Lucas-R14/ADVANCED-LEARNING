@@ -1,77 +1,79 @@
 # Advanced Learning
 
-## Sobre o Projeto
+## About the Project
 
-Advanced Learning é um site educacional desenvolvido para uma instituição de ensino focada em cursos de liderança, proficiência linguística e formação profissional. O site foi projetado para apresentar a instituição, seus cursos e valores de forma atrativa e profissional.
+Advanced Learning is an educational website developed for an educational institution focused on leadership courses, language proficiency, and professional training. The site was designed to present the institution, its courses, and values in an attractive and professional manner.
 
-## Estrutura de Arquivos
+## File Structure
 
 ```
 /
-├── index.html              # Página inicial
-├── about.html              # Página Sobre Nós
-├── programmes.html         # Página de Programas de Estudo
-├── public/                 # Recursos públicos
-│   ├── assets/             # Arquivos CSS
-│   │   ├── home.css        # Estilos da página inicial
-│   │   └── about.css       # Estilos da página Sobre Nós
-│   └── images/             # Imagens do site
-└── README.md               # Documentação do projeto
+├── index.html              # Home page
+├── src/                    # Source files
+│   └── pages/              # Website pages
+│       ├── about.html      # About Us page
+│       └── programmes.html # Study Programs page
+├── public/                 # Public resources
+│   ├── assets/             # CSS files
+│   │   ├── home.css        # Home page styles
+│   │   └── about.css       # About Us page styles
+│   └── images/             # Website images
+└── README.md               # Project documentation
 ```
 
-## Páginas Desenvolvidas
+## Developed Pages
 
-1. **Página Inicial (index.html)**
-   - Cabeçalho com navegação
-   - Carrossel de imagens na seção hero
-   - Seção de boas-vindas
-   - Exibição dos programas educacionais
-   - Seção de experiência de aprendizagem
-   - Seção de acreditação
-   - Seção de notícias
-   - Modal de login para o portal do estudante
+1. **Home Page (index.html)**
+   - Header with navigation
+   - Image carousel in the hero section
+   - Welcome section
+   - Display of educational programs
+   - Learning experience section
+   - Accreditation section
+   - News section
+   - Student portal login modal
 
-2. **Página Sobre Nós (about.html)**
-   - Banner da página
-   - Seção de Missão e Visão
-   - Visão geral institucional
-   - Status de acreditação
-   - Governança e estrutura
-   - Equipe de liderança
-   - Resumo do plano estratégico
-   - Código de ética
-   - Parcerias e afiliações
+2. **About Us Page (src/pages/about.html)**
+   - Page banner
+   - Mission and Vision section
+   - Institutional overview
+   - Accreditation status
+   - Governance and structure
+   - Leadership team
+   - Strategic plan summary
+   - Code of ethics
+   - Partnerships and affiliations
 
-3. **Página de Programas de Estudo (programmes.html)**
-   - Banner da página
-   - Introdução aos programas educacionais
-   - Sistema de filtragem por categoria
-   - Detalhes completos de cada curso:
-     - Diploma in Developing Leadership (MQF Nível 5)
-     - Award in Courier Services (MQF Nível 1)
-     - Award in Foundations of English for Foreigners (MQF Nível 1)
-     - Award in Foundations of Maltese for Foreigners (MQF Nível 1)
-   - Estrutura detalhada dos programas
-   - Resultados de aprendizagem
-   - Requisitos de entrada
-   - Carga horária e créditos
+3. **Study Programs Page (src/pages/programmes.html)**
+   - Page banner
+   - Introduction to educational programs
+   - Category filtering system
+   - Complete details of each course:
+     - Diploma in Developing Leadership (MQF Level 5)
+     - Award in Courier Services (MQF Level 1)
+     - Award in Foundations of English for Foreigners (MQF Level 1)
+     - Award in Foundations of Maltese for Foreigners (MQF Level 1)
+   - Detailed program structure
+   - Learning outcomes
+   - Entry requirements
+   - Learning hours and credits
 
-## Como Executar o Projeto
+## How to Run the Project
 
-1. Clone este repositório para sua máquina local
-2. Abra o arquivo `index.html` em qualquer navegador moderno
-3. Navegue pelo site usando os links do menu
+1. Clone this repository to your local machine
+2. Open the `index.html` file in any modern browser
+3. Navigate the site using the menu links
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- Font Awesome (para ícones)
+- Font Awesome (for icons)
 
-## Recursos Planejados para Futuras Atualizações
+## Features Planned for Future Updates
 
-- Implementação das páginas adicionais conforme o escopo:
+- Implementation of additional pages according to scope:
   - Admissions
   - Learning Experience
   - Student Support
@@ -80,10 +82,10 @@ Advanced Learning é um site educacional desenvolvido para uma instituição de 
   - News & Updates
   - Contact Us
   - Student Portal / LMS Login
-- Integração com sistema de gerenciamento de conteúdo
-- Implementação de formulários funcionais
-- Otimização para SEO
+- Integration with content management system
+- Implementation of functional forms
+- SEO optimization
 
-## Direitos de Autor
+## Copyright
 
-© 2025 Advanced Learning. Todos os direitos reservados.
+© 2025 Advanced Learning. All rights reserved.
