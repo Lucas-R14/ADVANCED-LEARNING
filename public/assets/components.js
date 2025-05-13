@@ -38,6 +38,13 @@ function loadComponent(url, targetElement) {
 
 // Function to initialize all components on the page
 function initializeComponents() {
+    // Load common script if it's not already loaded
+    if (!document.querySelector('script[src*="common.js"]')) {
+        const commonScript = document.createElement('script');
+        commonScript.src = '../../public/assets/common.js';
+        document.body.appendChild(commonScript);
+    }
+    
     // Load header
     const headerContainer = document.getElementById('header-container');
     if (headerContainer) {
