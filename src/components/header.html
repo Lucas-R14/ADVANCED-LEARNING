@@ -1,0 +1,55 @@
+<header>
+    <div class="container header-content">
+        <a href="../../index.html"><img src="../../public/images/AdvancedLearning.png" alt="Advanced Learning Logo" class="logo"></a>
+        <nav>
+            <button class="mobile-menu-btn">☰</button>
+            <ul>
+                <li><a href="../../index.html" id="nav-home">Home</a></li>
+                <li><a href="about.html" id="nav-about">About Us</a></li>
+                <li><a href="programmes.html" id="nav-programmes">Programmes</a></li>
+                <li><a href="#" id="nav-admissions">Admissions</a></li>
+                <li><a href="#" id="nav-support">Student Support</a></li>
+                <li><a href="contact.html" id="nav-contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<!-- Page Banner -->
+<section class="page-banner">
+    <div class="overlay"></div>
+    <div class="container">
+        <h1 id="page-title">Page Title</h1>
+        <div class="breadcrumbs">
+            <a href="../../index.html">Home</a> > <span id="breadcrumb-current">Current Page</span>
+        </div>
+    </div>
+</section>
+
+<script>
+    // Function to set active navigation link
+    function setActiveNavLink(pageId) {
+        document.querySelectorAll('nav a').forEach(link => {
+            link.classList.remove('active');
+        });
+        
+        const activeLink = document.getElementById(pageId);
+        if (activeLink) {
+            activeLink.classList.add('active');
+        }
+    }
+    
+    // Function to set page title and breadcrumb
+    function setPageTitleAndBreadcrumb(title, breadcrumb) {
+        const pageTitle = document.getElementById('page-title');
+        const breadcrumbCurrent = document.getElementById('breadcrumb-current');
+        
+        if (pageTitle) {
+            pageTitle.textContent = title;
+        }
+        
+        if (breadcrumbCurrent) {
+            breadcrumbCurrent.textContent = breadcrumb;
+        }
+    }
+</script> 

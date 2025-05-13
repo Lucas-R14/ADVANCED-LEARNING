@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="../../public/assets/home.css">
     <link rel="stylesheet" href="../../public/assets/about.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Component loader script -->
+    <script src="../../public/assets/components.js"></script>
     <style>
         /* Estilos específicos para a página de programas */
         .programme-detail {
@@ -208,22 +210,8 @@
     </style>
 </head>
 <body>
-    <header>
-        <div class="container header-content">
-            <a href="../../index.html"><img src="../../public/images/AdvancedLearning.png" alt="Advanced Learning Logo" class="logo"></a>
-            <nav>
-                <button class="mobile-menu-btn">☰</button>
-                <ul>
-                    <li><a href="../../index.html">Home</a></li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="programmes.html" class="active">Programmes</a></li>
-                    <li><a href="#">Admissions</a></li>
-                    <li><a href="#">Student Support</a></li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+    <!-- Header Component Container -->
+    <div id="header-container"></div>
 
     <!-- Page Banner -->
     <section class="page-banner">
@@ -595,58 +583,8 @@
         </div>
     </section>
 
-    <footer>
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-column">
-                    <h3>Advanced Learning</h3>
-                    <p>Transforming lives through quality education.</p>
-                    <div class="social-icons">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="footer-column">
-                    <h3>Quick Links</h3>
-                    <ul class="footer-links">
-                        <li><a href="../../index.html">Home</a></li>
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="programmes.html">Programmes</a></li>
-                        <li><a href="#">Admissions</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                </div>
-                <div class="footer-column">
-                    <h3>Programmes</h3>
-                    <ul class="footer-links">
-                        <li><a href="programmes.html">Basic Courier Service</a></li>
-                        <li><a href="programmes.html">Foundations of English</a></li>
-                        <li><a href="programmes.html">Foundations of Maltese</a></li>
-                        <li><a href="programmes.html">Diploma in Leadership</a></li>
-                        <li><a href="programmes.html">View All Programmes</a></li>
-                    </ul>
-                </div>
-                <div class="footer-column">
-                    <h3>Contact</h3>
-                    <ul class="footer-links contact-info">
-                        <li><i class="fas fa-map-marker-alt"></i> 123 Education Street, Malta</li>
-                        <li><i class="fas fa-phone"></i> <a href="tel:+35612345678">+356 1234 5678</a></li>
-                        <li><i class="fas fa-envelope"></i> <a href="mailto:contact@advancedlearning.com">contact@advancedlearning.com</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <p>&copy; 2025 Advanced Learning. All rights reserved.</p>
-                <ul class="footer-legal">
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="#">Cookie Policy</a></li>
-                </ul>
-            </div>
-        </div>
-    </footer>
+    <!-- Footer Component Container -->
+    <div id="footer-container"></div>
 
     <!-- External JavaScript file -->
     <script src="../../public/assets/programmes.js"></script>
