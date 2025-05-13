@@ -1,63 +1,4 @@
-/* Estilos para tela de loading */
-.loading-screen {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: var(--bossanova);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-    transition: opacity 0.5s ease, visibility 0.5s ease;
-}
-
-.loading-screen.fade-out {
-    opacity: 0;
-    visibility: hidden;
-}
-
-.loader {
-    text-align: center;
-}
-
-.loader-logo {
-    width: 150px;
-    height: auto;
-    border: 3px solid white;
-    padding: 4px;
-    animation: pulse 1.5s infinite ease-in-out;
-}
-
-.loader-text {
-    color: var(--gold-sand);
-    margin-top: 20px;
-    font-size: 1.2rem;
-    animation: fadeInOut 1.5s infinite ease-in-out;
-}
-
-@keyframes pulse {
-    0% {
-        transform: scale(1);
-        box-shadow: 0 0 0 0 rgba(226, 195, 136, 0.7);
-    }
-    70% {
-        transform: scale(1.05);
-        box-shadow: 0 0 0 15px rgba(226, 195, 136, 0);
-    }
-    100% {
-        transform: scale(1);
-        box-shadow: 0 0 0 0 rgba(226, 195, 136, 0);
-    }
-}
-
-@keyframes fadeInOut {
-    0%, 100% { opacity: 0.5; }
-    50% { opacity: 1; }
-}
-
-/* Definição das cores principais do tema */
+/* Main theme color definitions */
 :root {
     --bossanova: #54346b;
     --gold-sand: #e2c388;
@@ -68,7 +9,7 @@
     --rum: #7c6c8a;
 }
 
-/* Estilos básicos e reset */
+/* Basic styles and reset */
 * {
     margin: 0;
     padding: 0;
@@ -81,7 +22,7 @@ body {
     color: var(--bossanova);
 }
 
-/* Cabeçalho e navegação */
+/* Header and navigation */
 header {
     background-color: var(--bossanova);
     padding: 1rem;
@@ -148,7 +89,7 @@ nav a.active::after {
     cursor: pointer;
 }
 
-/* Carrossel de imagens na seção hero */
+/* Hero image carousel section */
 .hero-carousel {
     position: relative;
     overflow: hidden;
@@ -281,7 +222,7 @@ nav a.active::after {
     background: var(--gold-sand);
 }
 
-/* Estilos de botões */
+/* Button styles */
 .btn {
     display: inline-block;
     padding: 0.8rem 1.5rem;
@@ -317,7 +258,7 @@ nav a.active::after {
     margin-right: 0.5rem;
 }
 
-/* Seção de boas-vindas */
+/* Welcome section */
 .welcome {
     padding: 5rem 0;
     background-color: white;
@@ -357,7 +298,7 @@ nav a.active::after {
     margin-top: 2rem;
 }
 
-/* Seção de programas em destaque */
+/* Featured programmes section */
 .featured-programmes {
     padding: 5rem 0;
     background-color: var(--snuff);
@@ -379,17 +320,30 @@ nav a.active::after {
 
 .programme-cards {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
     margin-bottom: 2rem;
+    padding: 0 1rem;
 }
 
+.programme-card {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    padding: 1.8rem;
+    position: relative;
+    opacity: 1;
+    transform: translateY(0);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    /* Use flexbox for better layout control */
+    display: flex;
+    flex-direction: column;
+    min-height: 420px;
+}
 
 .programme-card.featured {
     border: 2px solid var(--gold-sand);
-    transform: scale(1.03);
 }
-
 
 .programme-badge {
     position: absolute;
@@ -397,9 +351,9 @@ nav a.active::after {
     right: 0;
     background-color: var(--rum);
     color: white;
-    padding: 0.5rem 1rem;
+    padding: 0.4rem 0.8rem;
     font-size: 0.8rem;
-    border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 8px;
 }
 
 .programme-badge.featured {
@@ -407,34 +361,67 @@ nav a.active::after {
 }
 
 .programme-card h3 {
-    margin: 1rem 0;
+    margin: 0.5rem 0 1rem 0;
     color: var(--bossanova);
     font-size: 1.4rem;
+    font-weight: 600;
 }
 
 .programme-credits {
     color: var(--opium);
     font-weight: bold;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
 }
 
+.programme-card .card-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 120px; /* Make space for the programme details and button */
+}
+
+/* Allow the description to have natural height */
 .programme-desc {
     color: #555;
-    margin-bottom: 1.5rem;
     line-height: 1.6;
+    min-height: 60px;
 }
 
 .programme-details {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 1.5rem;
     color: #777;
     font-size: 0.9rem;
+    min-height: 1.5rem;
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    position: absolute;
+    bottom: 90px;
+    left: 1.8rem;
+    right: 1.8rem;
 }
 
 .programme-details i {
     margin-right: 0.5rem;
     color: var(--bossanova);
+}
+
+/* Learn More button styling */
+.programme-card .btn {
+    border-radius: 50px;
+    font-size: 0.95rem;
+    display: inline-block;
+    padding: 0.6rem 1.4rem;
+    min-width: 140px;
+    text-align: center;
+}
+
+.programme-card.featured .btn {
+    background-color: var(--gold-sand);
+    color: var(--bossanova);
+    border: none;
 }
 
 .view-all-container {
@@ -465,7 +452,7 @@ nav a.active::after {
     transform: translateX(5px);
 }
 
-/* Seção de experiência de aprendizagem */
+/* Learning experience section */
 .learning-experience {
     padding: 5rem 0;
     background-color: white;
@@ -501,8 +488,9 @@ nav a.active::after {
     display: flex;
     align-items: flex-start;
     margin-bottom: 1.5rem;
-    opacity: 0;
-    transform: translateY(20px);
+    /* Start visible but slightly offset for animation */
+    opacity: 0.9;
+    transform: translateY(10px);
     transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
@@ -547,7 +535,7 @@ nav a.active::after {
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
-/* Seção de acreditação */
+/* Accreditation section */
 .accreditation {
     padding: 5rem 0;
     background-color: var(--snuff);
@@ -620,7 +608,7 @@ nav a.active::after {
     font-style: italic;
 }
 
-/* Seção sobre nós */
+/* About us section */
 .about {
     padding: 5rem 0;
     background-color: white;
@@ -665,7 +653,7 @@ nav a.active::after {
     transform: scale(1.05);
 }
 
-/* Seção de notícias e atualizações */
+/* News and updates section */
 .news-updates {
     padding: 5rem 0;
     background-color: var(--snuff);
@@ -683,15 +671,16 @@ nav a.active::after {
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-    /* Initial state - hidden and translated down */
-    opacity: 0;
-    transform: translateY(20px);
-    /* Single transition property */
-    transition: opacity 0.5s ease, transform 0.5s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    padding: 1.5rem;
+    position: relative;
+    /* Always fully visible by default */
+    opacity: 1;
+    transform: translateY(0);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* When card becomes visible */
+/* When card becomes visible - only used for animation, not visibility */
 .programme-card.visible, .news-card.visible {
     opacity: 1;
     transform: translateY(0);
@@ -701,6 +690,7 @@ nav a.active::after {
 .programme-card:hover, .news-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+    opacity: 1;
 }
 
 .news-image {
@@ -774,7 +764,7 @@ nav a.active::after {
     transform: translateX(5px);
 }
 
-/* Seção de chamada para ação */
+/* Call to action section */
 .cta-section {
     padding: 5rem 0;
     background: linear-gradient(to right, var(--bossanova), var(--rum));
@@ -806,7 +796,7 @@ nav a.active::after {
     flex-wrap: wrap;
 }
 
-/* Rodapé */
+/* Footer */
 footer {
     background-color: var(--bossanova);
     color: var(--snuff);
@@ -921,7 +911,7 @@ footer {
     color: var(--gold-sand);
 }
 
-/* Modal de login para o portal do estudante */
+/* Student portal login modal */
 .login-modal {
     display: none;
     position: fixed;
@@ -1022,7 +1012,7 @@ footer {
     text-decoration: underline;
 }
 
-/* Estilos responsivos para diferentes tamanhos de tela */
+/* Responsive styles for different screen sizes */
 @media (max-width: 992px) {
     .experience-content {
         flex-direction: column;
@@ -1126,4 +1116,35 @@ footer {
     .carousel-btn.next {
         right: 10px;
     }
+}
+
+/* Specific button styling for programme cards */
+.programme-card .btn.outline-btn {
+    border-radius: 50px;
+    border: 1px solid var(--bossanova);
+    padding: 0.6rem 1.5rem;
+    display: inline-block;
+    font-size: 0.95rem;
+    font-weight: normal;
+}
+
+.programme-card .btn.primary-btn {
+    border-radius: 50px;
+    background-color: var(--gold-sand);
+    color: var(--bossanova);
+    padding: 0.6rem 1.5rem;
+    display: inline-block;
+    font-size: 0.95rem;
+    font-weight: normal;
+    border: none;
+}
+
+.programme-card .card-footer {
+    margin-top: auto;
+    padding-top: 0.5rem;
+    position: absolute;
+    bottom: 1.8rem;
+    left: 1.8rem;
+    right: 1.8rem;
+    text-align: center;
 } 

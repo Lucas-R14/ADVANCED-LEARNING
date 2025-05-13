@@ -105,10 +105,14 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    // Get all elements that need animation
-    const animatedElements = document.querySelectorAll('.programme-card, .news-card, .experience-feature');
+    // Make all programme cards and news cards visible immediately
+    document.querySelectorAll('.programme-card, .news-card').forEach(card => {
+        card.classList.add('visible');
+    });
     
-    // Function to check if an element is in viewport
+    // Add visible class to experience features when they're scrolled into view
+    const experienceFeatures = document.querySelectorAll('.experience-feature');
+    
     function isInViewport(element) {
         const rect = element.getBoundingClientRect();
         return (
@@ -117,23 +121,17 @@ document.addEventListener('DOMContentLoaded', function() {
         );
     }
     
-    // Function to add visible class to elements in viewport
-    function checkVisibility() {
-        animatedElements.forEach((element, index) => {
-            if (isInViewport(element) && !element.classList.contains('visible')) {
-                // Add delay based on element index for staggered animation
+    function checkFeaturesVisibility() {
+        experienceFeatures.forEach((feature, index) => {
+            if (isInViewport(feature) && !feature.classList.contains('visible')) {
                 setTimeout(() => {
-                    element.classList.add('visible');
-                    console.log('Added visible class to', element); // Debug log
+                    feature.classList.add('visible');
                 }, index * 150);
             }
         });
     }
     
-    // Check visibility on load and scroll
-    checkVisibility();
-    window.addEventListener('scroll', checkVisibility);
-    
-    // Force check visibility after a short delay (for any edge cases)
-    setTimeout(checkVisibility, 500);
+    // Check features visibility on scroll
+    checkFeaturesVisibility();
+    window.addEventListener('scroll', checkFeaturesVisibility);
 }); 

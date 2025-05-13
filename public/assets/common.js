@@ -1,6 +1,6 @@
-// Funcionalidades comuns para todas as páginas
+// Common functionality for all pages
 document.addEventListener('DOMContentLoaded', function() {
-    // Funcionalidade do menu mobile
+    // Mobile menu functionality
     const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
     const navMenu = document.querySelector('nav ul');
     
@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
             navMenu.classList.toggle('active');
         });
         
-        // Fecha o menu ao clicar em um link
+        // Close menu when clicking a link
         const navLinks = document.querySelectorAll('nav a');
         navLinks.forEach(link => {
             link.addEventListener('click', function() {
@@ -18,12 +18,12 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
     
-    // Rolagem suave para links internos
+    // Smooth scrolling for internal links
     document.querySelectorAll('a[href^="#"]:not([href="#"])').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             const targetId = this.getAttribute('href');
             
-            // Ignora links de modal ou outros especiais
+            // Ignore modal links or other special links
             if (targetId === '#loginModal' || targetId.startsWith('#modal')) return;
             
             const targetElement = document.querySelector(targetId);
