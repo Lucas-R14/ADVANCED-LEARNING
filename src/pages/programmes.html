@@ -376,57 +376,6 @@
     <!-- Footer Component Container -->
     <div id="footer-container"></div>
 
-    <!-- Script for programme filters -->
-    <script>
-        // Wait for the page to fully load
-        window.addEventListener('load', function() {
-            console.log("Page fully loaded, initializing filters");
-            setupFilters();
-        });
-
-        function setupFilters() {
-            // Select all filter buttons and programme items
-            const filterButtons = document.querySelectorAll('.filter-btn');
-            const programmeItems = document.querySelectorAll('.programme-detail');
-            
-            console.log("setupFilters - Buttons found:", filterButtons.length);
-            console.log("setupFilters - Items found:", programmeItems.length);
-            
-            // Add click event to each button
-            filterButtons.forEach(button => {
-                button.addEventListener('click', function() {
-                    // Remove active class from all buttons
-                    filterButtons.forEach(btn => btn.classList.remove('active'));
-                    
-                    // Add active class to clicked button
-                    this.classList.add('active');
-                    
-                    // Get filter from data-filter attribute
-                    const filter = this.getAttribute('data-filter');
-                    console.log("Selected filter:", filter);
-                    
-                    // Filter items
-                    programmeItems.forEach(item => {
-                        const categories = item.getAttribute('data-category').split(' ');
-                        console.log("Item:", item.querySelector('h2').textContent, "Categories:", categories);
-                        
-                        if (filter === 'all') {
-                            item.style.display = 'block';
-                        } else {
-                            if (categories.includes(filter)) {
-                                item.style.display = 'block';
-                            } else {
-                                item.style.display = 'none';
-                            }
-                        }
-                    });
-                });
-            });
-            
-            console.log("Filters configured successfully");
-        }
-    </script>
-    
     <!-- External JavaScript file -->
     <script src="../../public/assets/programmes.js"></script>
 </body>

@@ -384,33 +384,12 @@ nav a.active::after {
     margin-bottom: 2rem;
 }
 
-.programme-card {
-    background-color: white;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    padding: 2rem;
-    position: relative;
-    opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
-}
-
-.programme-card.visible {
-    opacity: 1;
-    transform: translateY(0);
-}
 
 .programme-card.featured {
     border: 2px solid var(--gold-sand);
     transform: scale(1.03);
 }
 
-.programme-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-}
 
 .programme-badge {
     position: absolute;
@@ -699,24 +678,29 @@ nav a.active::after {
     margin-bottom: 2rem;
 }
 
-.news-card {
+/* Programme Card & News Card base styles */
+.programme-card, .news-card {
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-    transition: transform 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    /* Initial state - hidden and translated down */
     opacity: 0;
     transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
+    /* Single transition property */
+    transition: opacity 0.5s ease, transform 0.5s ease, box-shadow 0.3s ease;
 }
 
-.news-card.visible {
+/* When card becomes visible */
+.programme-card.visible, .news-card.visible {
     opacity: 1;
     transform: translateY(0);
 }
 
-.news-card:hover {
-    transform: translateY(-10px);
+/* Hover effects */
+.programme-card:hover, .news-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
 }
 
 .news-image {
