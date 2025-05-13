@@ -1,6 +1,6 @@
 Programes/*
-./programme_requirements.txt
-./extract_requirements.py
-./extract_requirements_v2.py
-./extract_requirements_v3.py
+programme_requirements.txt
+extract_requirements.py
+extract_requirements_v2.py
+extract_requirements_v3.py
 .windsurf/*
