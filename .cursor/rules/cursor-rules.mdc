@@ -1,0 +1,35 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# cursor rules location
+
+1. HTML Rules
+
+- Do not write CSS inside HTML files.
+- Do not write JavaScript inside HTML files (avoid  and  tags in HTML).
+- Maintain separation of concerns:
+
+2. HTML for structure.
+
+- CSS for styling.
+- JavaScript for behavior.
+- CSS Rules
+
+3. Write CSS in separate .css files.
+
+- Avoid inline CSS (e.g., style="color: red;").
+- Use class names and IDs properly (semantic naming).
+
+4. JavaScript Rules
+
+- Write JavaScript in separate .js files.
+- Use modern JavaScript (ES6+) features whenever possible.
+- Follow clean code principles (functions, naming, etc.).
+
+5. Language Rules
+
+- All text content in HTML, CSS, and JavaScript must be written in English.
+
+- Comments should also be in English.
