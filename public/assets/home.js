@@ -105,21 +105,35 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    // Animation for programme cards
+    // Get all elements that need animation
     const animatedElements = document.querySelectorAll('.programme-card, .news-card, .experience-feature');
     
+    // Function to check if an element is in viewport
+    function isInViewport(element) {
+        const rect = element.getBoundingClientRect();
+        return (
+            rect.top <= (window.innerHeight || document.documentElement.clientHeight) * 0.9 &&
+            rect.bottom >= 0
+        );
+    }
+    
+    // Function to add visible class to elements in viewport
     function checkVisibility() {
-        animatedElements.forEach(element => {
-            const rect = element.getBoundingClientRect();
-            const isVisible = (rect.top <= window.innerHeight * 0.8);
-            
-            if (isVisible) {
-                element.classList.add('visible');
+        animatedElements.forEach((element, index) => {
+            if (isInViewport(element) && !element.classList.contains('visible')) {
+                // Add delay based on element index for staggered animation
+                setTimeout(() => {
+                    element.classList.add('visible');
+                    console.log('Added visible class to', element); // Debug log
+                }, index * 150);
             }
         });
     }
     
-    // Check visibility initially and during scrolling
+    // Check visibility on load and scroll
     checkVisibility();
     window.addEventListener('scroll', checkVisibility);
+    
+    // Force check visibility after a short delay (for any edge cases)
+    setTimeout(checkVisibility, 500);
 }); 
