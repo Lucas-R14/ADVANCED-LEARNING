@@ -4,45 +4,62 @@
     color: var(--bossanova);
 }
 
-/* Page Banner */
+/* Page Banner - Fixed to match other pages with strong overrides */
 .page-banner {
-    position: relative;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80');
-    background-size: cover;
-    background-position: center;
-    color: white;
-    padding: 6rem 0;
-    text-align: center;
-    margin-bottom: 4rem;
-    overflow: hidden;
+    position: relative !important;
+    height: 300px !important;
+    background: linear-gradient(rgba(84, 52, 107, 0.7), rgba(84, 52, 107, 0.7)), 
+        url('https://images.unsplash.com/photo-1531545514256-b1400bc00f31?auto=format&fit=crop&w=1600&q=80') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    color: white !important;
+    display: flex !important;
+    align-items: center !important;
+    margin-bottom: 30px !important;
+    z-index: 5 !important;
+}
+
+.page-banner .overlay {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    background: rgba(84, 52, 107, 0.5) !important;
+    z-index: 1 !important;
+}
+
+.page-banner .container {
+    position: relative !important;
+    z-index: 2 !important;
 }
 
 .page-banner h1 {
-    font-size: 3.5rem;
-    margin-bottom: 1.5rem;
-    font-weight: 700;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    font-size: 3rem !important;
+    color: white !important;
+    margin-bottom: 1rem !important;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
 }
 
 .breadcrumbs {
-    font-size: 1.2rem;
-    color: rgba(255, 255, 255, 0.9);
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    font-size: 1rem !important;
+    color: white !important;
 }
 
 .breadcrumbs a {
-    color: var(--gold-sand);
-    text-decoration: none;
-    transition: color 0.3s ease;
+    color: var(--gold-sand) !important;
+    text-decoration: none !important;
 }
 
 .breadcrumbs a:hover {
-    color: white;
+    text-decoration: underline !important;
 }
 
 /* Support Services Section */
 .support-section {
-    padding: 5rem 0;
+    padding-top: 0 !important; 
+    margin-top: 0 !important;
+    padding-bottom: 5rem;
     background-color: white;
 }
 
@@ -345,11 +362,11 @@
 
 /* Responsive Design */
 @media (max-width: 992px) {
-    .page-banner {
+    .student-banner {
         padding: 5rem 0;
     }
     
-    .page-banner h1 {
+    .student-banner h1 {
         font-size: 2.8rem;
     }
     
@@ -363,11 +380,11 @@
 }
 
 @media (max-width: 768px) {
-    .page-banner {
+    .student-banner {
         padding: 4rem 0;
     }
     
-    .page-banner h1 {
+    .student-banner h1 {
         font-size: 2.2rem;
     }
     
@@ -389,7 +406,7 @@
 }
 
 @media (max-width: 480px) {
-    .page-banner h1 {
+    .student-banner h1 {
         font-size: 1.8rem;
     }
     
@@ -412,7 +429,7 @@
         padding: 1rem;
     }
     
-    .page-banner {
+    .student-banner {
         background: none !important;
         color: #000 !important;
         padding: 1rem 0 !important;

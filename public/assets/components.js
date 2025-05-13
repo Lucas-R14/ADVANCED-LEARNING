@@ -90,6 +90,10 @@ document.addEventListener('componentLoaded', function(e) {
                 setActiveNavLink('nav-admissions');
                 setPageTitleAndBreadcrumb('Admissions', 'Admissions');
                 break;
+            case 'student-support':
+                setActiveNavLink('nav-support');
+                setPageTitleAndBreadcrumb('Student Support Services', 'Student Support');
+                break;
             case 'contact':
                 setActiveNavLink('nav-contact');
                 setPageTitleAndBreadcrumb('Contact Us', 'Contact');

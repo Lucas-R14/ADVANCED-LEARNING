@@ -252,4 +252,10 @@
 
 body, .admissions-page {
     background: var(--light-bg, #f8f4fa);
+}
+
+.admissions-page .page-banner {
+    background-image: linear-gradient(rgba(40, 20, 60, 0.7), rgba(40, 20, 60, 0.7)), url('https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&w=1600&q=80');
+    background-size: cover;
+    background-position: center;
 } 
