@@ -1,0 +1,197 @@
+/* Estilos específicos para a página de programas */
+.programme-detail {
+    padding: 3rem;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 3rem;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+.programme-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.programme-title-group h2 {
+    color: var(--bossanova);
+    margin-bottom: 0.5rem;
+    font-size: 1.8rem;
+}
+
+.programme-level {
+    display: inline-block;
+    background-color: var(--bossanova);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.programme-credits {
+    display: inline-block;
+    background-color: var(--snuff);
+    color: var(--bossanova);
+    padding: 0.3rem 0.8rem;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+}
+
+.programme-meta {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.meta-item i {
+    color: var(--gold-sand);
+    margin-right: 0.5rem;
+    width: 20px;
+    text-align: center;
+}
+
+.programme-cta {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.section-heading {
+    color: var(--bossanova);
+    margin: 2rem 0 1rem;
+    font-size: 1.4rem;
+    border-bottom: 2px solid var(--snuff);
+    padding-bottom: 0.5rem;
+}
+
+.programme-description p {
+    margin-bottom: 1rem;
+    line-height: 1.7;
+    color: #444;
+}
+
+.learning-outcomes ul, 
+.course-modules ul {
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.learning-outcomes li, 
+.course-modules li {
+    margin-bottom: 0.8rem;
+    line-height: 1.6;
+    color: #444;
+}
+
+.course-breakdown {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.breakdown-item {
+    background-color: var(--snuff);
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+
+.breakdown-item h4 {
+    color: var(--bossanova);
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+}
+
+.breakdown-item h4 i {
+    margin-right: 0.5rem;
+    color: var(--gold-sand);
+}
+
+.breakdown-item p {
+    color: #444;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.breakdown-item span {
+    display: block;
+    color: #666;
+    font-size: 0.9rem;
+    margin-top: 0.3rem;
+}
+
+.requirements-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.requirements-list li {
+    padding-left: 1.5rem;
+    position: relative;
+    margin-bottom: 0.8rem;
+    line-height: 1.6;
+}
+
+.requirements-list li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--gold-sand);
+    font-weight: bold;
+}
+
+.programme-filter {
+    margin-bottom: 2rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    padding: 0.5rem 1rem;
+    background-color: var(--snuff);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--bossanova);
+    transition: all 0.3s ease;
+}
+
+.filter-btn.active {
+    background-color: var(--bossanova);
+    color: white;
+}
+
+.filter-btn:hover:not(.active) {
+    background-color: var(--mamba);
+    color: white;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .programme-header {
+        flex-direction: column;
+    }
+    
+    .programme-cta {
+        margin-top: 1rem;
+    }
+    
+    .programme-meta {
+        gap: 1rem;
+    }
+} 
