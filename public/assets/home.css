@@ -1,3 +1,62 @@
+/* Estilos para tela de loading */
+.loading-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--bossanova);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+.loading-screen.fade-out {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.loader {
+    text-align: center;
+}
+
+.loader-logo {
+    width: 150px;
+    height: auto;
+    border: 3px solid white;
+    padding: 4px;
+    animation: pulse 1.5s infinite ease-in-out;
+}
+
+.loader-text {
+    color: var(--gold-sand);
+    margin-top: 20px;
+    font-size: 1.2rem;
+    animation: fadeInOut 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(226, 195, 136, 0.7);
+    }
+    70% {
+        transform: scale(1.05);
+        box-shadow: 0 0 0 15px rgba(226, 195, 136, 0);
+    }
+    100% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(226, 195, 136, 0);
+    }
+}
+
+@keyframes fadeInOut {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 1; }
+}
+
 /* Definição das cores principais do tema */
 :root {
     --bossanova: #54346b;
