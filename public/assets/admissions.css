@@ -1,0 +1,255 @@
+/* Admissions Page Specific Styles */
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(rgba(40, 20, 60, 0.7), rgba(40, 20, 60, 0.7)), url('https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=1200&q=80');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.hero-section p {
+    font-size: 1.5rem;
+    opacity: 0.9;
+}
+
+/* Admission Section */
+.admission-section {
+    padding: 4rem 0;
+    background: transparent;
+}
+
+.admission-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+.admission-content {
+    width: 100%;
+}
+
+.main-content {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+    padding: 2.5rem 2rem;
+}
+
+.section {
+    margin-bottom: 3rem;
+}
+
+.section h2 {
+    color: var(--bossanova, #5a3472);
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.section h3 {
+    margin-top: 2rem;
+    color: var(--bossanova, #5a3472);
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.requirement-item {
+    margin-bottom: 1.2rem;
+    padding-left: 1.2rem;
+    position: relative;
+}
+.requirement-item:before {
+    content: '•';
+    color: var(--gold-sand, #e7c873);
+    font-size: 1.2rem;
+    position: absolute;
+    left: 0;
+    top: 0.1rem;
+}
+
+.note-box {
+    background: #f8f9fa;
+    border-left: 4px solid var(--bossanova, #5a3472);
+    padding: 1.5rem;
+    margin-top: 2rem;
+    border-radius: 6px;
+}
+
+/* Timeline */
+.timeline {
+    position: relative;
+    margin-left: 1rem;
+    padding-left: 2rem;
+    border-left: 2px solid var(--snuff, #e5e0ee);
+}
+.timeline-item {
+    margin-bottom: 2rem;
+    position: relative;
+    padding-left: 1.5rem;
+}
+.timeline-item:last-child {
+    margin-bottom: 0;
+}
+.timeline-date {
+    font-weight: 600;
+    color: var(--bossanova, #5a3472);
+    margin-bottom: 0.3rem;
+    display: block;
+}
+.timeline-item:before {
+    content: '';
+    position: absolute;
+    left: -2.1rem;
+    top: 0.4rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--bossanova, #5a3472);
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 2px var(--bossanova, #5a3472);
+}
+
+/* Document Checklist */
+.document-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+.document-card {
+    background: #f9f9f9;
+    border-radius: 8px;
+    padding: 1.2rem 1rem;
+    border-left: 4px solid var(--gold-sand, #e7c873);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+}
+.document-card h4 {
+    margin-top: 0;
+    color: var(--bossanova, #5a3472);
+    font-size: 1.1rem;
+}
+.document-card p {
+    margin-bottom: 0;
+    color: #555;
+}
+
+/* FAQ Accordion */
+.faq-item {
+    margin-bottom: 1.2rem;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #faf8fc;
+}
+.faq-question {
+    background: #f3f0f8;
+    padding: 1.1rem 1.5rem;
+    margin: 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    color: var(--bossanova, #5a3472);
+    transition: background 0.3s;
+}
+.faq-question:hover {
+    background: #ece6f3;
+}
+.faq-answer {
+    padding: 1.2rem 1.5rem;
+    background: #fff;
+    display: none;
+}
+.faq-answer p {
+    margin: 0;
+    line-height: 1.7;
+}
+.faq-item.active .faq-answer {
+    display: block;
+}
+.faq-item.active .faq-question i {
+    transform: rotate(180deg);
+    transition: transform 0.3s;
+}
+
+.btn-primary {
+    display: inline-block;
+    background: var(--bossanova, #5a3472);
+    color: #fff;
+    padding: 0.8rem 1.8rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background 0.3s;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+}
+.btn-primary:hover {
+    background: #4a3a6a;
+}
+
+@media (max-width: 600px) {
+    .main-content {
+        padding: 1.2rem 0.5rem;
+    }
+    .document-list {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .admission-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    .admission-sidebar {
+        max-width: 100%;
+        min-width: 0;
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .admission-section {
+        padding: 2rem 0;
+    }
+    .admission-grid {
+        gap: 1.5rem;
+    }
+    .mission-vision {
+        grid-template-columns: 1fr;
+    }
+    .hero-section h1 {
+        font-size: 2.5rem;
+    }
+    .hero-section p {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-section {
+        padding: 60px 0;
+    }
+    .hero-section h1 {
+        font-size: 2rem;
+    }
+    .section {
+        padding: 2rem 0;
+    }
+}
+
+body, .admissions-page {
+    background: var(--light-bg, #f8f4fa);
+} 

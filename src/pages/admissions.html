@@ -4,768 +4,292 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admissions - Advanced Learning</title>
-    <link rel="stylesheet" href="../../public/assets/home.css">
-    <link rel="stylesheet" href="../../public/assets/about.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <style>
-        .admission-section {
-            padding: 5rem 0;
-        }
-        
-        .admission-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 2rem;
-        }
-        
-        .admission-header {
-            text-align: center;
-            margin-bottom: 4rem;
-        }
-        
-        .admission-header h1 {
-            color: var(--bossanova);
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }
-        
-        .admission-content {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        
-        .main-content {
-            background: white;
-            padding: 2.5rem;
-            border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-        }
-        
-        .sidebar-nav h3 {
-            background-color: var(--bossanova);
-            color: white;
-            padding: 1.2rem 1.5rem;
-            margin: 0;
-            font-size: 1.2rem;
-        }
-        
-        .sidebar-nav ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        
-        .sidebar-nav li a {
-            display: block;
-            padding: 1rem 1.5rem;
-            color: #333;
-            text-decoration: none;
-            border-bottom: 1px solid #f0f0f0;
-            transition: all 0.3s ease;
-        }
-        
-        .sidebar-nav li a:hover,
-        .sidebar-nav li a:focus {
-            background-color: #f9f9f9;
-            color: var(--bossanova);
-            padding-left: 2rem;
-        }
-        
-        .section {
-            margin-bottom: 3rem;
-            padding-bottom: 2rem;
-            border-bottom: 1px solid #eee;
-        }
-        
-        .section:last-child {
-            border-bottom: none;
-        }
-        
-        .section h2 {
-            color: var(--bossanova);
-            margin-bottom: 1.5rem;
-            font-size: 1.8rem;
-            position: relative;
-            padding-bottom: 0.8rem;
-        }
-        
-        .section h2:after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 60px;
-            height: 3px;
-            background-color: var(--gold-sand);
-        }
-        
-        .requirement-item {
-            margin-bottom: 1.5rem;
-            padding-left: 1.5rem;
-            position: relative;
-        }
-        
-        .requirement-item:before {
-            content: '•';
-            color: var(--gold-sand);
-            font-size: 1.5rem;
-            position: absolute;
-            left: 0;
-            top: -0.3rem;
-        }
-        
-        .timeline {
-            position: relative;
-            padding-left: 2rem;
-            margin-left: 1rem;
-        }
-        
-        .timeline:before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            bottom: 0;
-            width: 2px;
-            background-color: var(--snuff);
-        }
-        
-        .timeline-item {
-            position: relative;
-            padding-bottom: 2rem;
-            padding-left: 1.5rem;
-        }
-        
-        .timeline-item:last-child {
-            padding-bottom: 0;
-        }
-        
-        .timeline-item:before {
-            content: '';
-            position: absolute;
-            left: -2.5rem;
-            top: 0.3rem;
-            width: 12px;
-            height: 12px;
-            border-radius: 50%;
-            background-color: var(--bossanova);
-            border: 2px solid white;
-            box-shadow: 0 0 0 2px var(--bossanova);
-        }
-        
-        .timeline-date {
-            font-weight: 600;
-            color: var(--bossanova);
-            margin-bottom: 0.5rem;
-            display: block;
-        }
-        
-        .document-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1.5rem;
-        }
-        
-        .document-card {
-            background: #f9f9f9;
-            padding: 1.5rem;
-            border-radius: 8px;
-            border-left: 4px solid var(--gold-sand);
-        }
-        
-        .document-card h4 {
-            margin-top: 0;
-            color: var(--bossanova);
-        }
-        
-        .document-card p {
-            margin-bottom: 0;
-            color: #555;
-        }
-        
-        .faq-item {
-            margin-bottom: 1.5rem;
-            border: 1px solid #eee;
-            border-radius: 8px;
-            overflow: hidden;
-        }
-        
-        .faq-question {
-            background: #f9f9f9;
-            padding: 1.2rem 1.5rem;
-            margin: 0;
-            cursor: pointer;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-weight: 600;
-            color: var(--bossanova);
-            transition: all 0.3s ease;
-        }
-        
-        .faq-question:hover {
-            background: #f0f0f0;
-        }
-        
-        .faq-answer {
-            padding: 1.5rem;
-            background: white;
-            display: none;
-        }
-        
-        .faq-answer p {
-            margin: 0;
-            line-height: 1.7;
-        }
-        
-        .faq-item.active .faq-answer {
-            display: block;
-        }
-        
-        .contact-card {
-            background: white;
-            padding: 2rem;
-            border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-            margin-bottom: 2rem;
-        }
-        
-        .contact-card h3 {
-            color: var(--bossanova);
-            margin-top: 0;
-            margin-bottom: 1.5rem;
-            font-size: 1.5rem;
-        }
-        
-        .contact-info-item {
-            display: flex;
-            align-items: flex-start;
-            margin-bottom: 1.5rem;
-        }
-        
-        .contact-icon {
-            background-color: var(--bossanova);
-            color: white;
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-right: 1rem;
-            flex-shrink: 0;
-        }
-        
-        .contact-text h4 {
-            margin: 0 0 0.3rem 0;
-            color: #333;
-        }
-        
-        .contact-text p, 
-        .contact-text a {
-            margin: 0;
-            color: #555;
-            text-decoration: none;
-        }
-        
-        .contact-text a:hover {
-            color: var(--bossanova);
-            text-decoration: underline;
-        }
-        
-        .btn-primary {
-            display: inline-block;
-            background-color: var(--bossanova);
-            color: white;
-            padding: 0.8rem 1.8rem;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: 500;
-            transition: background-color 0.3s ease;
-            border: none;
-            cursor: pointer;
-            font-size: 1rem;
-        }
-        
-        .btn-primary:hover {
-            background-color: #4a3a6a;
-        }
-        
-        @media (max-width: 768px) {
-            .main-content {
-                padding: 1.5rem;
-            }
-            
-            .document-list {
-                grid-template-columns: 1fr;
-            }
-        }
-        
-        @media (max-width: 576px) {
-            .admission-header h1 {
-                font-size: 2rem;
-            }
-            
-            .section h2 {
-                font-size: 1.5rem;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="../../public/assets/style.css">
+    <link rel="stylesheet" href="../../public/assets/admissions.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-    <header>
-        <div class="container header-content">
-            <a href="../../index.html"><img src="../../public/images/AdvancedLearning.png" alt="Advanced Learning Logo" class="logo"></a>
-            <nav>
-                <button class="mobile-menu-btn">☰</button>
-                <ul>
-                    <li><a href="../../index.html">Home</a></li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="programmes.html">Programmes</a></li>
-                    <li><a href="admissions.html" class="active">Admissions</a></li>
-                    <li><a href="#">Student Support</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+    <div id="header-container"></div>
 
-    <!-- Page Banner -->
-    <section class="page-banner">
-        <div class="overlay"></div>
-        <div class="container">
-            <h1>Admissions</h1>
-            <div class="breadcrumbs">
-                <a href="../../index.html">Home</a> > <span>Admissions</span>
+    <main class="admissions-page">
+        <section class="hero-section">
+            <div class="container">
+                <h1>Welcome to Advanced Learning</h1>
+                <p>Your journey to academic excellence begins here</p>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <section class="admission-section">
-        <div class="admission-container">
-            <div class="admission-content">
-                <div class="main-content">
-                    <section id="entry-requirements" class="section">
-                        <h2>Entry Requirements</h2>
-                        <p>To ensure the best learning experience, we have specific entry requirements for each of our programmes. Below are the detailed requirements for each programme:</p>
-                        
-                        <h3>Diploma in Developing Leaders (MQF Level 5)</h3>
-                        <div class="requirement-item">
-                            <h4>Academic Requirements</h4>
-                            <p>MQF Level 4 qualification or equivalent, or relevant work experience in the field.</p>
-                        </div>
-                        <div class="requirement-item">
-                            <h4>Language Proficiency</h4>
-                            <p>Proficiency in English (both spoken and written) is required.</p>
-                        </div>
-                        <div class="requirement-item">
-                            <h4>Additional Requirements</h4>
-                            <p>Minimum age: 21 years<br>Prior work or volunteer experience is preferred.</p>
-                        </div>
-                        
-                        <h3>Award in Basic Courier Service (MQF Level 1)</h3>
-                        <div class="requirement-item">
-                            <h4>Essential Requirements</h4>
-                            <p>Valid driving or riding licence.</p>
-                        </div>
-                        <div class="requirement-item">
-                            <h4>Language and Skills</h4>
-                            <p>Basic English literacy and digital skills.</p>
-                        </div>
-                        <div class="requirement-item">
-                            <h4>Additional Information</h4>
-                            <p>No prior qualifications required.<br>Ideal for individuals looking to start work in delivery or courier roles.</p>
-                        </div>
-                        
-                        <h3>Award in Foundations of English for Foreigners (MQF Level 1)</h3>
-                        <div class="requirement-item">
-                            <h4>General Requirements</h4>
-                            <p>No previous English qualification required.</p>
-                        </div>
-                        <div class="requirement-item">
-                            <h4>Age Requirement</h4>
-                            <p>Minimum age: 16 years.</p>
-                        </div>
-                        <div class="requirement-item">
-                            <h4>Recommended Skills</h4>
-                            <p>Basic literacy skills preferred.</p>
-                        </div>
-                        
-                        <h3>Award in Foundations of Maltese for Foreigners (MQF Level 1)</h3>
-                        <div class="requirement-item">
-                            <h4>General Requirements</h4>
-                            <p>No prior knowledge of Maltese required.</p>
-                        </div>
-                        <div class="requirement-item">
-                            <h4>Age Requirement</h4>
-                            <p>Minimum age: 16 years.</p>
-                        </div>
-                        <div class="requirement-item">
-                            <h4>Additional Information</h4>
-                            <p>Willingness to participate in class and practice speaking is essential.</p>
-                        </div>
-                        
-                        <div class="note-box" style="background-color: #f8f9fa; border-left: 4px solid var(--bossanova); padding: 1.5rem; margin-top: 2rem;">
-                            <h4>Important Notes:</h4>
-                            <ul style="margin-bottom: 0;">
-                                <li>All applicants may be required to attend an interview or assessment.</li>
-                                <li>Additional documentation may be requested during the application process.</li>
-                                <li>Meeting the minimum requirements does not guarantee admission.</li>
-                                <li>Special consideration may be given to mature students with relevant experience.</li>
-                            </ul>
-                        </div>
-                    </section>
-
-                    <section id="how-to-apply" class="section">
-                        <h2>How to Apply</h2>
-                        <p>Follow these simple steps to apply for your chosen programme at Advanced Learning:</p>
-                        
-                        <div class="timeline">
-                            <div class="timeline-item">
-                                <span class="timeline-date">Step 1</span>
-                                <h4>Choose Your Programme</h4>
-                                <p>Browse our <a href="programmes.html">programmes page</a> and select the course that matches your interests and career goals.</p>
+        <section class="admission-section">
+            <div class="admission-container">
+                <div class="admission-content">
+                    <div class="main-content">
+                        <section id="entry-requirements" class="section">
+                            <h2>Entry Requirements</h2>
+                            <p>To ensure the best learning experience, we have specific entry requirements for each of our programmes. Below are the detailed requirements for each programme:</p>
+                            <h3>Diploma in Developing Leaders (MQF Level 5)</h3>
+                            <div class="requirement-item">
+                                <h4>Academic Requirements</h4>
+                                <p>MQF Level 4 qualification or equivalent, or relevant work experience in the field.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">Step 2</span>
-                                <h4>Check Entry Requirements</h4>
-                                <p>Ensure you meet the academic and language requirements for your chosen programme.</p>
+                            <div class="requirement-item">
+                                <h4>Language Proficiency</h4>
+                                <p>Proficiency in English (both spoken and written) is required.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">Step 3</span>
-                                <h4>Prepare Your Documents</h4>
-                                <p>Gather all required documents as listed in the document checklist section below.</p>
+                            <div class="requirement-item">
+                                <h4>Additional Requirements</h4>
+                                <p>Minimum age: 21 years<br>Prior work or volunteer experience is preferred.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">Step 4</span>
-                                <h4>Submit Your Application</h4>
-                                <p>Complete the online application form and upload all required documents. Alternatively, you can visit our campus to submit your application in person.</p>
+                            <h3>Award in Basic Courier Service (MQF Level 1)</h3>
+                            <div class="requirement-item">
+                                <h4>Essential Requirements</h4>
+                                <p>Valid driving or riding licence.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">Step 5</span>
-                                <h4>Application Review</h4>
-                                <p>Our admissions team will review your application and may contact you for additional information or an interview.</p>
+                            <div class="requirement-item">
+                                <h4>Language and Skills</h4>
+                                <p>Basic English literacy and digital skills.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">Step 6</span>
-                                <h4>Receive Admission Decision</h4>
-                                <p>You will be notified of the admission decision via email within 10-15 working days after submitting a complete application.</p>
+                            <div class="requirement-item">
+                                <h4>Additional Information</h4>
+                                <p>No prior qualifications required.<br>Ideal for individuals looking to start work in delivery or courier roles.</p>
                             </div>
-                        </div>
-                        
-                        <div style="margin-top: 2rem;">
-                            <a href="#" class="btn-primary">Start Your Application</a>
-                        </div>
-                    </section>
-
-                    <section id="admissions-timeline" class="section">
-                        <h2>Admissions Timeline</h2>
-                        <p>Stay on track with our admissions process by following these important dates:</p>
-                        
-                        <div class="timeline">
-                            <div class="timeline-item">
-                                <span class="timeline-date">January 15, 2025</span>
-                                <h4>Application Period Opens</h4>
-                                <p>Begin submitting your applications for the next intake.</p>
+                            <h3>Award in Foundations of English for Foreigners (MQF Level 1)</h3>
+                            <div class="requirement-item">
+                                <h4>General Requirements</h4>
+                                <p>No previous English qualification required.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">March 1, 2025</span>
-                                <h4>Early Application Deadline</h4>
-                                <p>Submit by this date for priority consideration and early admission decisions.</p>
+                            <div class="requirement-item">
+                                <h4>Age Requirement</h4>
+                                <p>Minimum age: 16 years.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">April 15, 2025</span>
-                                <h4>Regular Application Deadline</h4>
-                                <p>Final deadline for all applications for the upcoming intake.</p>
+                            <div class="requirement-item">
+                                <h4>Recommended Skills</h4>
+                                <p>Basic literacy skills preferred.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">May 1-15, 2025</span>
-                                <h4>Admission Decisions Released</h4>
-                                <p>All applicants will be notified of their admission status.</p>
+                            <h3>Award in Foundations of Maltese for Foreigners (MQF Level 1)</h3>
+                            <div class="requirement-item">
+                                <h4>General Requirements</h4>
+                                <p>No prior knowledge of Maltese required.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">June 1, 2025</span>
-                                <h4>Enrollment Confirmation Deadline</h4>
-                                <p>Deadline for accepted students to confirm their enrollment and pay tuition deposits.</p>
+                            <div class="requirement-item">
+                                <h4>Age Requirement</h4>
+                                <p>Minimum age: 16 years.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">September 1, 2025</span>
-                                <h4>Orientation Week</h4>
-                                <p>Welcome events and orientation activities for new students.</p>
+                            <div class="requirement-item">
+                                <h4>Additional Information</h4>
+                                <p>Willingness to participate in class and practice speaking is essential.</p>
                             </div>
-                            
-                            <div class="timeline-item">
-                                <span class="timeline-date">September 8, 2025</span>
-                                <h4>Classes Begin</h4>
-                                <p>First day of the academic year.</p>
+                            <div class="note-box" style="background-color: #f8f9fa; border-left: 4px solid var(--bossanova); padding: 1.5rem; margin-top: 2rem;">
+                                <h4>Important Notes:</h4>
+                                <ul style="margin-bottom: 0;">
+                                    <li>All applicants may be required to attend an interview or assessment.</li>
+                                    <li>Additional documentation may be requested during the application process.</li>
+                                    <li>Meeting the minimum requirements does not guarantee admission.</li>
+                                    <li>Special consideration may be given to mature students with relevant experience.</li>
+                                </ul>
                             </div>
-                        </div>
-                        
-                        <p><em>Note: Dates are subject to change. Please check back regularly for updates.</em></p>
-                    </section>
-
-                    <section id="document-checklist" class="section">
-                        <h2>Document Checklist</h2>
-                        <p>Please prepare the following documents for your application. All documents must be in English or accompanied by certified translations.</p>
-                        
-                        <div class="document-list">
-                            <div class="document-card">
-                                <h4>Completed Application Form</h4>
-                                <p>Fill out all required fields in the online application form.</p>
+                        </section>
+                        <section id="how-to-apply" class="section">
+                            <h2>How to Apply</h2>
+                            <p>Follow these simple steps to apply for your chosen programme at Advanced Learning:</p>
+                            <div class="timeline">
+                                <div class="timeline-item">
+                                    <span class="timeline-date">Step 1</span>
+                                    <h4>Choose Your Programme</h4>
+                                    <p>Browse our <a href="programmes.html">programmes page</a> and select the course that matches your interests and career goals.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">Step 2</span>
+                                    <h4>Check Entry Requirements</h4>
+                                    <p>Ensure you meet the academic and language requirements for your chosen programme.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">Step 3</span>
+                                    <h4>Prepare Your Documents</h4>
+                                    <p>Gather all required documents as listed in the document checklist section below.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">Step 4</span>
+                                    <h4>Submit Your Application</h4>
+                                    <p>Complete the online application form and upload all required documents. Alternatively, you can visit our campus to submit your application in person.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">Step 5</span>
+                                    <h4>Application Review</h4>
+                                    <p>Our admissions team will review your application and may contact you for additional information or an interview.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">Step 6</span>
+                                    <h4>Receive Admission Decision</h4>
+                                    <p>You will be notified of the admission decision via email within 10-15 working days after submitting a complete application.</p>
+                                </div>
                             </div>
-                            
-                            <div class="document-card">
-                                <h4>Proof of Identity</h4>
-                                <p>Clear copy of your passport or national ID card.</p>
+                            <div style="margin-top: 2rem;">
+                                <a href="#" class="btn-primary">Start Your Application</a>
                             </div>
-                            
-                            <div class="document-card">
-                                <h4>Academic Transcripts</h4>
-                                <p>Official transcripts from all previously attended institutions.</p>
+                        </section>
+                        <section id="admissions-timeline" class="section">
+                            <h2>Admissions Timeline</h2>
+                            <p>Stay on track with our admissions process by following these important dates:</p>
+                            <div class="timeline">
+                                <div class="timeline-item">
+                                    <span class="timeline-date">January 15, 2025</span>
+                                    <h4>Application Period Opens</h4>
+                                    <p>Begin submitting your applications for the next intake.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">March 1, 2025</span>
+                                    <h4>Early Application Deadline</h4>
+                                    <p>Submit by this date for priority consideration and early admission decisions.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">April 15, 2025</span>
+                                    <h4>Regular Application Deadline</h4>
+                                    <p>Final deadline for all applications for the upcoming intake.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">May 1-15, 2025</span>
+                                    <h4>Admission Decisions Released</h4>
+                                    <p>All applicants will be notified of their admission status.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">June 1, 2025</span>
+                                    <h4>Enrollment Confirmation Deadline</h4>
+                                    <p>Deadline for accepted students to confirm their enrollment and pay tuition deposits.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">September 1, 2025</span>
+                                    <h4>Orientation Week</h4>
+                                    <p>Welcome events and orientation activities for new students.</p>
+                                </div>
+                                <div class="timeline-item">
+                                    <span class="timeline-date">September 8, 2025</span>
+                                    <h4>Classes Begin</h4>
+                                    <p>First day of the academic year.</p>
+                                </div>
                             </div>
-                            
-                            <div class="document-card">
-                                <h4>Certificates & Diplomas</h4>
-                                <p>Copies of relevant certificates and diplomas.</p>
+                            <p><em>Note: Dates are subject to change. Please check back regularly for updates.</em></p>
+                        </section>
+                        <section id="document-checklist" class="section">
+                            <h2>Document Checklist</h2>
+                            <p>Please prepare the following documents for your application. All documents must be in English or accompanied by certified translations.</p>
+                            <div class="document-list">
+                                <div class="document-card">
+                                    <h4>Completed Application Form</h4>
+                                    <p>Fill out all required fields in the online application form.</p>
+                                </div>
+                                <div class="document-card">
+                                    <h4>Proof of Identity</h4>
+                                    <p>Clear copy of your passport or national ID card.</p>
+                                </div>
+                                <div class="document-card">
+                                    <h4>Academic Transcripts</h4>
+                                    <p>Official transcripts from all previously attended institutions.</p>
+                                </div>
+                                <div class="document-card">
+                                    <h4>Certificates & Diplomas</h4>
+                                    <p>Copies of relevant certificates and diplomas.</p>
+                                </div>
+                                <div class="document-card">
+                                    <h4>English Language Proficiency</h4>
+                                    <p>IELTS, TOEFL, or equivalent test results (if applicable).</p>
+                                </div>
+                                <div class="document-card">
+                                    <h4>CV/Resume</h4>
+                                    <p>Updated CV highlighting your education and work experience.</p>
+                                </div>
+                                <div class="document-card">
+                                    <h4>Personal Statement</h4>
+                                    <p>500-800 words outlining your motivation and goals.</p>
+                                </div>
+                                <div class="document-card">
+                                    <h4>Letters of Recommendation</h4>
+                                    <p>Two letters from academic or professional references.</p>
+                                </div>
+                                <div class="document-card">
+                                    <h4>Passport Photos</h4>
+                                    <p>Two recent passport-sized photographs.</p>
+                                </div>
                             </div>
-                            
-                            <div class="document-card">
-                                <h4>English Language Proficiency</h4>
-                                <p>IELTS, TOEFL, or equivalent test results (if applicable).</p>
+                            <div style="margin-top: 2rem;">
+                                <a href="#" class="btn-primary">Download Document Checklist (PDF)</a>
                             </div>
-                            
-                            <div class="document-card">
-                                <h4>CV/Resume</h4>
-                                <p>Updated CV highlighting your education and work experience.</p>
+                        </section>
+                        <section id="faq" class="section">
+                            <h2>Frequently Asked Questions</h2>
+                            <p>Find answers to common questions about our admissions process below.</p>
+                            <div class="faq-item">
+                                <div class="faq-question">
+                                    What are the language requirements for international students?
+                                    <i class="fas fa-chevron-down"></i>
+                                </div>
+                                <div class="faq-answer">
+                                    <p>International students whose first language is not English must demonstrate English language proficiency. We accept IELTS (minimum 5.5 overall), TOEFL iBT (minimum 70), or equivalent qualifications. Some programmes may have higher language requirements.</p>
+                                </div>
                             </div>
-                            
-                            <div class="document-card">
-                                <h4>Personal Statement</h4>
-                                <p>500-800 words outlining your motivation and goals.</p>
+                            <div class="faq-item">
+                                <div class="faq-question">
+                                    Can I apply for more than one programme?
+                                    <i class="fas fa-chevron-down"></i>
+                                </div>
+                                <div class="faq-answer">
+                                    <p>Yes, you can apply for up to three programmes. Please submit a separate application for each programme and indicate your order of preference. Each application requires its own set of supporting documents.</p>
+                                </div>
                             </div>
-                            
-                            <div class="document-card">
-                                <h4>Letters of Recommendation</h4>
-                                <p>Two letters from academic or professional references.</p>
+                            <div class="faq-item">
+                                <div class="faq-question">
+                                    Is there an application fee?
+                                    <i class="fas fa-chevron-down"></i>
+                                </div>
+                                <div class="faq-answer">
+                                    <p>Yes, there is a non-refundable application fee of €50 for all programmes. This fee covers the administrative costs of processing your application. The fee can be paid online via credit/debit card or through bank transfer.</p>
+                                </div>
                             </div>
-                            
-                            <div class="document-card">
-                                <h4>Passport Photos</h4>
-                                <p>Two recent passport-sized photographs.</p>
+                            <div class="faq-item">
+                                <div class="faq-question">
+                                    How long does the admission process take?
+                                    <i class="fas fa-chevron-down"></i>
+                                </div>
+                                <div class="faq-answer">
+                                    <p>Once we receive your complete application with all required documents, the review process typically takes 10-15 working days. During peak periods, it may take longer. You will be notified via email once a decision has been made on your application.</p>
+                                </div>
                             </div>
-                        </div>
-                        
-                        <div style="margin-top: 2rem;">
-                            <a href="#" class="btn-primary">Download Document Checklist (PDF)</a>
-                        </div>
-                    </section>
-
-                    <section id="faq" class="section">
-                        <h2>Frequently Asked Questions</h2>
-                        <p>Find answers to common questions about our admissions process below.</p>
-                        
-                        <div class="faq-item">
-                            <div class="faq-question">
-                                What are the language requirements for international students?
-                                <i class="fas fa-chevron-down"></i>
+                            <div class="faq-item">
+                                <div class="faq-question">
+                                    What are the tuition fees and payment options?
+                                    <i class="fas fa-chevron-down"></i>
+                                </div>
+                                <div class="faq-answer">
+                                    <p>Tuition fees vary by programme. Detailed fee information can be found on each programme page. We offer several payment options including full payment at the beginning of the programme or installment plans. Some scholarships and financial aid options may be available for eligible students.</p>
+                                </div>
                             </div>
-                            <div class="faq-answer">
-                                <p>International students whose first language is not English must demonstrate English language proficiency. We accept IELTS (minimum 5.5 overall), TOEFL iBT (minimum 70), or equivalent qualifications. Some programmes may have higher language requirements.</p>
+                            <div class="faq-item">
+                                <div class="faq-question">
+                                    Can I defer my admission to a later intake?
+                                    <i class="fas fa-chevron-down"></i>
+                                </div>
+                                <div class="faq-answer">
+                                    <p>Yes, in most cases you can defer your admission to the next available intake. Requests for deferral must be made in writing and are subject to approval. Deferral is typically granted for up to one academic year. Please contact our admissions office for more information.</p>
+                                </div>
                             </div>
-                        </div>
-                        
-                        <div class="faq-item">
-                            <div class="faq-question">
-                                Can I apply for more than one programme?
-                                <i class="fas fa-chevron-down"></i>
+                            <div class="faq-item">
+                                <div class="faq-question">
+                                    What support services are available for international students?
+                                    <i class="fas fa-chevron-down"></i>
+                                </div>
+                                <div class="faq-answer">
+                                    <p>We offer comprehensive support services for international students including airport pickup, accommodation assistance, orientation programmes, academic advising, career counseling, and 24/7 emergency support. Our international student office is available to help with visa applications, health insurance, and any other concerns you may have.</p>
+                                </div>
                             </div>
-                            <div class="faq-answer">
-                                <p>Yes, you can apply for up to three programmes. Please submit a separate application for each programme and indicate your order of preference. Each application requires its own set of supporting documents.</p>
-                            </div>
-                        </div>
-                        
-                        <div class="faq-item">
-                            <div class="faq-question">
-                                Is there an application fee?
-                                <i class="fas fa-chevron-down"></i>
-                            </div>
-                            <div class="faq-answer">
-                                <p>Yes, there is a non-refundable application fee of €50 for all programmes. This fee covers the administrative costs of processing your application. The fee can be paid online via credit/debit card or through bank transfer.</p>
-                            </div>
-                        </div>
-                        
-                        <div class="faq-item">
-                            <div class="faq-question">
-                                How long does the admission process take?
-                                <i class="fas fa-chevron-down"></i>
-                            </div>
-                            <div class="faq-answer">
-                                <p>Once we receive your complete application with all required documents, the review process typically takes 10-15 working days. During peak periods, it may take longer. You will be notified via email once a decision has been made on your application.</p>
-                            </div>
-                        </div>
-                        
-                        <div class="faq-item">
-                            <div class="faq-question">
-                                What are the tuition fees and payment options?
-                                <i class="fas fa-chevron-down"></i>
-                            </div>
-                            <div class="faq-answer">
-                                <p>Tuition fees vary by programme. Detailed fee information can be found on each programme page. We offer several payment options including full payment at the beginning of the programme or installment plans. Some scholarships and financial aid options may be available for eligible students.</p>
-                            </div>
-                        </div>
-                        
-                        <div class="faq-item">
-                            <div class="faq-question">
-                                Can I defer my admission to a later intake?
-                                <i class="fas fa-chevron-down"></i>
-                            </div>
-                            <div class="faq-answer">
-                                <p>Yes, in most cases you can defer your admission to the next available intake. Requests for deferral must be made in writing and are subject to approval. Deferral is typically granted for up to one academic year. Please contact our admissions office for more information.</p>
-                            </div>
-                        </div>
-                        
-                        <div class="faq-item">
-                            <div class="faq-question">
-                                What support services are available for international students?
-                                <i class="fas fa-chevron-down"></i>
-                            </div>
-                            <div class="faq-answer">
-                                <p>We offer comprehensive support services for international students including airport pickup, accommodation assistance, orientation programmes, academic advising, career counseling, and 24/7 emergency support. Our international student office is available to help with visa applications, health insurance, and any other concerns you may have.</p>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <footer>
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-column">
-                    <h3>Advanced Learning</h3>
-                    <p>Transforming lives through quality education.</p>
-                    <div class="social-icons">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        </section>
                     </div>
                 </div>
-                <div class="footer-column">
-                    <h3>Quick Links</h3>
-                    <ul class="footer-links">
-                        <li><a href="../../index.html">Home</a></li>
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="programmes.html">Programmes</a></li>
-                        <li><a href="admissions.html">Admissions</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                    </ul>
-                </div>
-                <div class="footer-column">
-                    <h3>Programmes</h3>
-                    <ul class="footer-links">
-                        <li><a href="programmes.html#basic-courier">Basic Courier Service</a></li>
-                        <li><a href="programmes.html#english-foundation">Foundations of English</a></li>
-                        <li><a href="programmes.html#maltese-foundation">Foundations of Maltese</a></li>
-                        <li><a href="programmes.html#leadership-diploma">Diploma in Leadership</a></li>
-                        <li><a href="programmes.html">View All Programmes</a></li>
-                    </ul>
-                </div>
-                <div class="footer-column">
-                    <h3>Contact</h3>
-                    <ul class="footer-links contact-info">
-                        <li><i class="fas fa-map-marker-alt"></i> 123 Education Street, Malta</li>
-                        <li><i class="fas fa-phone"></i> <a href="tel:+35612345678">+356 1234 5678</a></li>
-                        <li><i class="fas fa-envelope"></i> <a href="mailto:contact@advancedlearning.edu.mt">contact@advancedlearning.edu.mt</a></li>
-                    </ul>
-                </div>
             </div>
-            <div class="footer-bottom">
-                <p>&copy; 2025 Advanced Learning. All rights reserved.</p>
-                <ul class="footer-legal">
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="#">Cookie Policy</a></li>
-                </ul>
-            </div>
-        </div>
-    </footer>
+        </section>
+    </main>
 
-    <script>
-        // Mobile menu toggle
-        document.addEventListener('DOMContentLoaded', function() {
-            // Main navigation menu
-            const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
-            const navMenu = document.querySelector('nav ul');
-            
-            if (mobileMenuBtn) {
-                mobileMenuBtn.addEventListener('click', function() {
-                    navMenu.classList.toggle('active');
-                });
+    <div id="footer-container"></div>
 
-                // Close menu when clicking a link
-                const navLinks = document.querySelectorAll('nav a');
-                navLinks.forEach(link => {
-                    link.addEventListener('click', function() {
-                        navMenu.classList.remove('active');
-                    });
-                });
-            }
-            
-
-
-            // FAQ accordion functionality
-            const faqQuestions = document.querySelectorAll('.faq-question');
-            faqQuestions.forEach(question => {
-                question.addEventListener('click', () => {
-                    const faqItem = question.parentElement;
-                    const isActive = faqItem.classList.contains('active');
-                    
-                    // Close all FAQ items
-                    document.querySelectorAll('.faq-item').forEach(item => {
-                        item.classList.remove('active');
-                        item.querySelector('.faq-answer').style.display = 'none';
-                        item.querySelector('.fa-chevron-down').classList.remove('fa-rotate-180');
-                    });
-                    
-                    // Toggle current item if it wasn't active
-                    if (!isActive) {
-                        faqItem.classList.add('active');
-                        faqItem.querySelector('.faq-answer').style.display = 'block';
-                        question.querySelector('.fa-chevron-down').classList.add('fa-rotate-180');
-                    }
-                });
-            });
-
-            // Smooth scrolling for anchor links
-            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-                anchor.addEventListener('click', function (e) {
-                    e.preventDefault();
-                    
-                    const targetId = this.getAttribute('href');
-                    if (targetId === '#') return;
-                    
-                    const targetElement = document.querySelector(targetId);
-                    if (targetElement) {
-                        window.scrollTo({
-                            top: targetElement.offsetTop - 100,
-                            behavior: 'smooth'
-                        });
-                    }
-                });
-            });
-        });
-    </script>
+    <script src="../../public/assets/components.js"></script>
+    <script src="../../public/assets/admissions.js"></script>
 </body>
-</html>
+</html> 
