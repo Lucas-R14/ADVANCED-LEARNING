@@ -86,6 +86,10 @@ document.addEventListener('componentLoaded', function(e) {
                 setActiveNavLink('nav-programmes');
                 setPageTitleAndBreadcrumb('Study Programmes', 'Programmes');
                 break;
+            case 'admissions':
+                setActiveNavLink('nav-admissions');
+                setPageTitleAndBreadcrumb('Admissions', 'Admissions');
+                break;
             case 'contact':
                 setActiveNavLink('nav-contact');
                 setPageTitleAndBreadcrumb('Contact Us', 'Contact');

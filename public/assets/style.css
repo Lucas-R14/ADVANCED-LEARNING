@@ -423,3 +423,37 @@ footer {
         font-size: 1.8rem;
     }
 }
+
+/* Navigation */
+.header-nav {
+    display: flex;
+    gap: 2rem;
+}
+
+.header-nav .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.header-nav .nav-link:hover {
+    color: var(--gold-sand, #e7c873);
+}
+
+.header-nav .nav-link.active {
+    color: #fff;
+    position: relative;
+}
+
+.header-nav .nav-link.active::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;
+    height: 3px;
+    background-color: var(--gold-sand, #e7c873);
+    border-radius: 2px;
+}
