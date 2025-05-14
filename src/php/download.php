@@ -11,7 +11,7 @@ if (!preg_match('/\.pdf$/i', $requestedFile)) {
 }
 
 // Define the file path relative to this script
-$file = __DIR__ . '/pdf/' . $requestedFile;
+$file = dirname(dirname(__DIR__)) . '/public/pdf/' . $requestedFile;
 
 // Check if file exists
 if (file_exists($file)) {

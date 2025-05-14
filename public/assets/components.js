@@ -36,6 +36,32 @@ function loadComponent(url, targetElement) {
         });
 }
 
+// Function to set active navigation link
+function setActiveNavLink(pageId) {
+    document.querySelectorAll('nav a').forEach(link => {
+        link.classList.remove('active');
+    });
+    
+    const activeLink = document.getElementById(pageId);
+    if (activeLink) {
+        activeLink.classList.add('active');
+    }
+}
+
+// Function to set page title and breadcrumb
+function setPageTitleAndBreadcrumb(title, breadcrumb) {
+    const pageTitle = document.getElementById('page-title');
+    const breadcrumbCurrent = document.getElementById('breadcrumb-current');
+    
+    if (pageTitle) {
+        pageTitle.textContent = title;
+    }
+    
+    if (breadcrumbCurrent) {
+        breadcrumbCurrent.textContent = breadcrumb;
+    }
+}
+
 // Function to initialize all components on the page
 function initializeComponents() {
     // Load common script if it's not already loaded
