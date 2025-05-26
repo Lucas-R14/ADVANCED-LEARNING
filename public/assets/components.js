@@ -62,26 +62,43 @@ function setPageTitleAndBreadcrumb(title, breadcrumb) {
     }
 }
 
-// Function to initialize all components on the page
-function initializeComponents() {
-    // Load common script if it's not already loaded
-    if (!document.querySelector('script[src*="common.js"]')) {
+// Function to load common.js script
+function loadCommonScript() {
+    return new Promise((resolve, reject) => {
+        // Check if common.js is already loaded
+        if (document.querySelector('script[src*="common.js"]')) {
+            resolve();
+            return;
+        }
+        
+        // Create script element
         const commonScript = document.createElement('script');
         commonScript.src = '../../public/assets/common.js';
-        document.body.appendChild(commonScript);
-    }
-    
-    // Load header
-    const headerContainer = document.getElementById('header-container');
-    if (headerContainer) {
-        loadComponent('../../src/components/header.html', headerContainer);
-    }
-    
-    // Load footer
-    const footerContainer = document.getElementById('footer-container');
-    if (footerContainer) {
-        loadComponent('../../src/components/footer.html', footerContainer);
-    }
+        commonScript.onload = () => resolve();
+        commonScript.onerror = () => reject(new Error('Failed to load common.js'));
+        document.head.appendChild(commonScript);
+    });
+}
+
+// Function to initialize all components on the page
+function initializeComponents() {
+    // First load common.js
+    loadCommonScript()
+        .then(() => {
+            // Then load components
+            const headerContainer = document.getElementById('header-container');
+            if (headerContainer) {
+                loadComponent('../../src/components/header.html', headerContainer);
+            }
+            
+            const footerContainer = document.getElementById('footer-container');
+            if (footerContainer) {
+                loadComponent('../../src/components/footer.html', footerContainer);
+            }
+        })
+        .catch(error => {
+            console.error('Error initializing components:', error);
+        });
 }
 
 // Initialize components when DOM is loaded
