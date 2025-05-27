@@ -174,12 +174,79 @@
     background-color: white;
 }
 
-.accreditation-info p {
-    max-width: 800px;
-    margin: 0 auto 1.5rem;
-    line-height: 1.7;
+.accreditation-content {
+    max-width: 900px;
+    margin: 2rem auto 0 auto;
+    padding: 2rem 1.5rem;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(84, 52, 107, 0.07);
+}
+
+.accreditation-info {
     text-align: center;
-    color: #444;
+}
+
+.accreditation-list {
+    text-align: left;
+    max-width: 700px;
+    margin: 1.5rem auto 2rem auto;
+    padding-left: 1.2rem;
+}
+
+.accreditation-list li {
+    color: var(--bossanova);
+    font-size: 1.08rem;
+    margin-bottom: 0.7rem;
+    line-height: 1.7;
+    list-style: disc inside;
+}
+
+.accreditation-note {
+    text-align: center;
+    max-width: 700px;
+    margin: 2rem auto 0;
+    color: #555;
+    font-style: italic;
+}
+
+.icon-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.icon-list li {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    font-size: 1.12rem;
+    color: var(--bossanova);
+    margin-bottom: 1.1rem;
+    line-height: 1.7;
+    background: none;
+    font-weight: 500;
+}
+
+.icon-list li i {
+    color: var(--gold-sand);
+    font-size: 1.2rem;
+    min-width: 1.3em;
+}
+
+.accreditation-divider {
+    width: 60px;
+    height: 4px;
+    background: linear-gradient(90deg, var(--gold-sand), var(--snuff));
+    border-radius: 2px;
+    margin: 2.5rem auto 2.5rem auto;
+}
+
+.highlight {
+    color: var(--bossanova);
+    font-weight: 600;
+    background: linear-gradient(90deg, #f7e7c6 60%, transparent 100%);
+    border-radius: 3px;
+    padding: 0 0.2em;
 }
 
 /* Governança e Estrutura - Apresentação da organização administrativa */
