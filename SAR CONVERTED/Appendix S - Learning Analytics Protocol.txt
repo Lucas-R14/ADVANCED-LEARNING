@@ -1,0 +1,44 @@
+Learning Analytics Protocol
+Version: 1.0
+
+1. Purpose
+This SOP formalises the institution’s use of learning analytics to enhance student engagement, identify at-risk learners, and support academic performance across all programmes. It ensures data is used ethically, transparently, and in alignment with the institution’s Data Protection Policy.
+2. Scope
+This protocol applies to all students, tutors, academic coordinators, and QA personnel across all modes of delivery (on-site, blended, and online). It includes data extracted from the Learning Management System (Moodle) and other integrated academic tools.
+3. Definitions
+Learning Analytics: The collection, analysis, and reporting of data about learners and their contexts to understand and improve learning.
+At-Risk Student: A learner identified through early warning indicators (e.g., low attendance, non-submission, poor scores).
+Engagement Indicator: A metric such as login frequency, time spent on platform, activity completion, or forum participation.
+4. Tools and Data Sources
+Moodle Activity Logs (logins, time on page, submissions)
+Assessment Results (gradebook entries, trends)
+Attendance Records (manual or LMS-integrated)
+Feedback and Survey Responses (when relevant)
+CPD Reports (for tutor engagement and performance analytics)
+5. Key Responsibilities
+
+6. Procedure Steps
+a) Data Collection
+Analytics are pulled weekly via Moodle reports.
+Tutors are expected to input grades and attendance within 48 hours of activity.
+b) Flagging At-Risk Students
+Students are flagged for early support if any of the following apply:
+2+ consecutive absences
+Non-submission of 2 or more tasks
+LMS login inactivity of more than 5 days (online learners)
+Grade average below 50%
+c) Intervention Process
+Student Support Officer contacts flagged students within 3 working days
+Support is documented in the Student Intervention Log
+Interventions may include: academic counselling, referrals, deadline extensions, or accessibility accommodations
+d) Reporting and Quality Assurance
+Monthly analytics summaries are shared with the QA Committee
+Persistent issues trigger curriculum or delivery reviews at programme level
+Annual reports include cohort-wide engagement and attainment patterns
+7. Data Privacy and Ethics
+Students are informed at induction about the use of learning analytics.
+Data is used only for academic support and institutional enhancement.
+Access to student-level analytics is restricted to relevant staff.
+Analytics data is retained for a maximum of 2 academic years.
+8. Review and Oversight
+This SOP is reviewed annually by the QA Committee and updated as necessary to reflect emerging technologies, best practice, and student feedback.

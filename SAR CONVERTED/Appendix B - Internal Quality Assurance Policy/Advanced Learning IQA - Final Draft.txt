@@ -1,0 +1,804 @@
+Advanced Learning
+Internal Quality Assurance Procedure Ver 1.0 
+Version Date: 7th May 2025
+
+
+
+
+
+Advanced Learning
+Our Mission
+At Advanced Learning, we are committed to creating an inclusive, innovative, and learner-centred environment where education serves as both a catalyst for personal development and a bridge to wider social and professional opportunities. Our mission is to deliver high-quality, accredited academic and vocational programmes that equip learners with practical skills, real-world knowledge, and the confidence to thrive in today’s dynamic and interconnected world.
+We strive to provide holistic learning experiences that extend beyond traditional classroom boundaries. Whether through in-person teaching or online delivery via the Moodle Learning Management System, our courses are designed to support flexible, accessible, and meaningful learning pathways. Our learners are encouraged to apply their knowledge in practical contexts—be it through leadership development, language acquisition, or industry-relevant skills such as courier and logistics services.
+At the core of our ethos is a belief in lifelong learning and the transformative power of education. We serve a diverse learner community that includes adult returners, international students, and working professionals seeking to enhance their personal and career development. We take pride in fostering a learning environment that values cultural diversity, inclusivity, and mutual respect.
+Advanced Learning places a strong emphasis on aligning educational delivery with the evolving needs of society. Our programmes address both foundational skills, such as communication and language proficiency, and specialised competencies that support progression into the workplace or further study. Through partnerships, real-world case studies, and targeted learner support, we empower individuals to unlock their full potential and make a meaningful contribution to their communities and sectors.
+We believe that further and higher education should act as a launchpad for growth, curiosity, and resilience. Through our mission, we inspire our students to explore, engage, and excel—equipping them not just with qualifications, but with the tools and mindset to succeed in a fast-changing world.
+
+
+Standards for Internal Quality Assurance Policy for Quality Assurance
+A. Organisation of the Quality Assurance System
+Mission Alignment and Quality Framework: Advanced Learning is committed to delivering education that blends academic excellence with real-world application, aligned with its mission to foster innovation, leadership, and community engagement. To support this, a single, well-documented internal quality assurance (IQA) system is in place across all accredited programmes. The system undergoes systematic and regular reviews. Internal quality assurance processes are designed to be transparent, impartial, and free from bias, with all QA decisions documented to ensure consistency and accountability across both in-person and online delivery.
+The IQA system is guided by principles of continuous improvement, student-centred delivery, and standards-based assessment. Policies and procedures are made available to all staff, and updates are communicated via internal briefings and dedicated QA communications.
+The IQA system is benchmarked against the National Quality Assurance Framework and relevant MFHEA provider manuals, ensuring continued alignment with national and European standards for higher and further education.
+
+Integration with Strategic and Operational Planning: Advanced Learning’s Internal Quality Assurance (IQA) system is fully integrated with the institution’s Strategic and Operational Plan. Quality assurance mechanisms actively support planning by generating evidence-based insights that inform decision-making, improvement initiatives, and resource allocation. QA procedures—such as student feedback analysis, internal verification outcomes, and performance indicators—are reviewed against the Operational Plan, which outlines defined activities, KPIs, timelines, and resource needs. Termly management meetings and IQA Committee reviews use these quality findings to assess institutional progress and refine strategic goals, ensuring alignment between daily operations and long-term educational objectives.
+
+Link to Business Continuity Planning: To support risk preparedness and institutional resilience, Advanced Learning maintains a formal Business Continuity Plan (BCP). This plan identifies all critical academic and operational processes, assesses potential risks, and outlines clear procedures for prevention, response, and recovery. It includes continuity strategies for course delivery (including online platforms), student communications, certification processes, and IT infrastructure. The BCP is reviewed annually by the Academic Director in collaboration with the Administrative and QA teams. A copy of the current BCP is maintained on the staff portal and can be made available to regulators or stakeholders upon request.
+
+Periodic Review of the IQA System: The IQA system is reviewed periodically (at minimum every two years) through formal audits or stakeholder consultations to ensure it remains relevant and aligned with current regulatory and institutional priorities.
+Reviews are conducted by the Academic Director and the IQA Committee, who gather data from student feedback, staff surveys, and performance reports before proposing policy revisions. These are then discussed during termly management meetings and approved by the Board of Directors.
+
+Cyclical Quality Assurance Model: Advanced Learning adopts a Plan-Do-Check-Act (PDCA) approach to its quality assurance cycle, ensuring continuous improvement through structured planning, implementation, review, and refinement phases.
+
+Regulatory Compliance: The Head of Institution, or designated Academic Director, ensures full compliance of the internal quality assurance system with the requirements of the Malta Further and Higher Education Authority (MFHEA). The IQA system governs the quality, transparency, and integrity of both teaching and assessment in accordance with national regulations, ensuring consistent standards across all delivery modes, including through the Moodle Learning Management System (LMS).
+An internal compliance checklist is maintained to ensure that all MFHEA criteria are embedded in operational procedures and audit readiness is monitored continuously.
+
+Objectives of the IQA Policy: The objectives of Advanced Learning’s IQA Policy are to:
+Provide staff with adequate and clear information regarding internal quality assurance processes, including teaching, learning, and assessment procedures.
+Ensure that QA procedures are consistently and fairly applied across all staff, departments, and programmes.
+Implement student-centred teaching and assessment strategies that align with programme learning outcomes, supporting academic achievement and holistic development.
+Ensure assessment integrity by maintaining consistency and transparency in assessment judgments, enabling fair, valid, and reliable outcomes.
+Register students in the correct programme within agreed timelines and in line with MFHEA requirements.
+Claim and issue valid certificates promptly upon course completion.
+Maintain a secure, accessible audit trail tracking each student’s journey from application to certification, including assessments and QA records.
+Promote a culture of reflective practice and accountability among staff through embedded QA procedures and shared responsibility for educational quality.
+
+Student and Stakeholder Involvement: 
+Mechanisms for Stakeholder Engagement: Students and external stakeholders—such as industry partners and academic advisors—are engaged in the design, implementation, and periodic review of IQA policies and programmes. Feedback is gathered through surveys, consultation meetings, and forums to ensure the QA system remains responsive to the evolving needs of learners, employers, and the wider community.
+Use of Feedback for Quality Enhancement: Stakeholder feedback is collated in review reports and discussed during Academic Board meetings. Where relevant, this feedback informs updates to course content, delivery methods, and assessment tools.
+Student Representation and Participation: Student representation is ensured through elected class representatives who participate in feedback forums and curriculum review cycles. These representatives contribute learner perspectives to the development and review of academic policies.
+Inclusion in Governance Structures: Key stakeholders, including employers, academic advisors, and student representatives, are not only consulted but also actively included in quality governance structures such as review panels and curriculum validation boards.
+
+Integration of Quality Assurance with Institutional Risk Management: Internal quality assurance is also linked to institutional risk management processes, with QA data feeding into the identification and mitigation of academic and operational risks. A risk register is maintained and reviewed as part of QA cycles.
+B. Responsibilities with Respect to Quality Assurance
+Quality Assurance Governance: Overall responsibility for IQA lies with Advanced Learning’s top academic leadership. The Internal Quality Assurance Coordinator or Committee, under the Academic Director’s direction, oversees policy implementation. This structure ensures QA is embedded at a senior level, with clear lines of accountability for maintaining and improving academic standards. Strategic oversight for quality assurance is also supported by the Board of Directors, who review institutional quality reports and ensure alignment with the broader mission and regulatory expectations. Quarterly QA coordination meetings are chaired by the Academic Director, with minutes recorded and action points tracked to ensure timely resolution of issues.
+
+Appointment and Election of Governance Roles: Advanced Learning follows a transparent and formal process for the appointment and election of key academic and governance roles. The procedures and eligibility criteria for leadership roles—such as the Academic Director, Programme Coordinators, and QA Committee members—are outlined in the Institutional Governance Manual, which is available on the staff portal. Internal leadership roles are either:
+
+Appointed by the Board of Directors based on qualifications, experience, and institutional needs (e.g. Academic Director); or
+Elected by relevant academic or administrative staff through internal voting (e.g. staff representatives on the Academic Board or QA Committee).
+
+Vacancies are announced via internal communications, and all appointments or election outcomes are documented and shared with staff. Term lengths, renewal conditions, and role responsibilities are defined within the same governance manual. This structure ensures accountability, fairness, and institutional transparency in decision-making.
+
+Stakeholder Representation in Governance Bodies: Advanced Learning encourages inclusive governance by involving a range of internal and external stakeholders in academic and quality assurance processes. Where appropriate, governance structures such as the Academic Board, Programme Review Panels, and QA Committees include participation from students, staff, and external advisors. Student input is typically sought through elected class representatives or through structured feedback mechanisms. Staff participation includes both academic and administrative representatives who contribute to decision-making through formal or ad hoc involvement. The institution also seeks input from local employers, industry professionals, and academic consultants—particularly in the development or review of vocational programmes—to ensure relevance to labour market needs. Involvement may take the form of consultations, feedback requests, or participation in advisory or validation panels. This approach ensures that the institution’s quality assurance and programme development activities remain responsive to the expectations of learners, staff, and the broader professional context.
+
+Definition of QA Role Assignment: Role assignments (e.g., assessors, moderators) are based on staff qualifications, prior experience, and programme-specific requirements, and are reviewed annually by the Academic Director.
+
+Role of the Internal Quality Assurer (IQA): The Internal Quality Assurer (or designated QA Committee) shall be responsible for the following:
+External Quality Interface: Organise and authorise all external quality assurance activities, such as MFHEA audits, verification visits, and confirmation sampling, while liaising with external auditors to ensure the institution is fully prepared for each engagement.
+Internal QA Systems: Maintain effective QA mechanisms within each programme and subject area, aligned to institutional QA standards.
+Staff Training in QA: Brief and train all staff on current QA procedures, including standards for Moodle delivery. Training logs are maintained, and new staff must complete QA induction within four weeks of appointment.
+Defining QA Roles: 
+Define, support, and resource QA-related roles (e.g., assessors, moderators, coordinators). 
+Administrative staff play a key role in supporting internal quality assurance processes by maintaining accurate student records, managing registration and assessment tracking systems, and ensuring the integrity and accessibility of institutional data across platforms.
+Promoting Continuous Improvement: Promote internal verification as a supportive and developmental process among staff. Review outcomes are shared constructively during moderation meetings to support staff growth and ensure common standards.
+Standardised Documentation: Provide standard templates for:
+lesson plans, 
+assessment briefs, 
+rubrics, 
+feedback forms, and 
+QA reports.
+Templates are stored centrally on the shared staff portal and reviewed annually.
+Annual QA Schedule: Implement an annual QA schedule covering assessments, reviews, and evaluations aligned with the academic calendar.
+Record Maintenance: Maintain secure records of all QA activities for at least three years.
+Feedback Loop: Use QA outcomes to inform enhancements to teaching and assessment practices, with action plans recorded and monitored.
+Comprehensive Sampling: Sample assessment decisions across programmes, delivery modes (on-site and Moodle), and assessment types (written, practical, online).
+Verification of Assessment Tools: Review all assessment instruments prior to use, ensuring they align with learning outcomes and MQF level descriptors.
+Verification of Assessment Decisions: Verify a sample of assessed work for every module to confirm grading accuracy and consistency.
+Ensuring Fair Sampling: Ensure sampling includes varied grades, multiple classes, and sufficient breadth to validate overall fairness.
+Audit Trail of Learner Achievement: Maintain records from student induction through to certification, including internal QA documentation.
+Timely Registration and Certification: Ensure registration of students with internal and external systems occurs on schedule and that certificates are claimed and issued without delay. Certification logs are monitored monthly, and any delays are reported to the Academic Director for corrective action.
+
+Roles and Responsibilities in Quality Assurance: Advanced Learning ensures that quality assurance responsibilities are clearly defined and assigned to appropriately qualified personnel. This clarity supports the institution’s ability to implement, monitor, and improve quality assurance processes effectively across all programmes.
+
+Academic Director
+Oversees the strategic implementation of the IQA Policy.
+Ensures regulatory compliance with MFHEA standards.
+Chairs QA meetings and approves final QA reports and institutional action plans.
+
+Internal Quality Assurance Coordinator / Committee
+Leads internal verification and sampling processes.
+Maintains and updates QA documentation and templates.
+Prepares the institution for external audits, inspections, or validation events.
+Coordinates staff QA training and tracks completion.
+Reviews and recommends updates to the IQA Policy.
+
+Programme Coordinators
+Ensure that teaching, assessment, and documentation within their programmes meet institutional QA standards.
+Support assessors and moderators with planning and implementation.
+Contribute to periodic reviews and improvement plans.
+Monitor completion of sampling and feedback reports within their area.
+
+Assessors / Lecturers
+Design, deliver, and assess modules in alignment with approved syllabi and MQF level descriptors.
+Use standardised assessment briefs, rubrics, and feedback forms.
+Submit grades and feedback within defined timeframes.
+Engage in verification discussions and reflect on moderator feedback.
+
+Internal Moderators
+Review assessment briefs and a sample of assessed work to ensure fairness, validity, and alignment with learning outcomes.
+Complete internal moderation forms and contribute to feedback loops.
+Highlight any inconsistencies or concerns in marking for resolution before final grades are confirmed.
+
+Administrative Staff
+Maintain accurate student records, attendance logs, and assessment tracking tools.
+Support registration, certification, and data entry functions.
+Coordinate communications regarding QA procedures and documentation.
+Assist in the preparation of documentation for external quality assurance processes.
+
+Students
+Participate in feedback mechanisms (e.g., surveys, focus groups, class reps).
+Engage constructively in QA and programme review activities.
+Adhere to institutional codes of conduct and contribute to a respectful academic environment.
+
+2. Institutional Probity
+A. Governance and Ethical Oversight
+Governance Framework and Organisational Integrity: Advanced Learning is governed by a structured and transparent system that ensures both academic and operational functions are subject to effective oversight. The institution’s leadership, including the Board of Directors and Academic Board, provides strategic direction, policy approval, and independent supervision. Roles and responsibilities at all levels are clearly defined to ensure that decisions are made in alignment with the institution’s mission and in the best interests of students and stakeholders.
+Governance meetings are held at least quarterly and are formally minuted. Strategic reviews are carried out annually to align operational planning with quality and compliance targets.
+
+Financial Accountability and Risk: Advanced Learning maintains independently audited financial accounts annually and prepares rolling budget plans to ensure financial sustainability and probity. Key personnel, including the legal representative and leadership, are assessed to be fit and proper persons in accordance with MFHEA regulations.
+
+Ethical Conduct and Conflict of Interest: The institution upholds high standards of ethical behaviour and professional integrity across all areas of operation. Decision-making processes are guided by formal policies that prohibit unethical practices, including favouritism, nepotism, and academic fraud. All staff and committee members are required to declare potential conflicts of interest and are prohibited from influencing outcomes for personal or financial gain. Codes of conduct for staff and students reinforce these standards, and any breaches are addressed through clear, documented disciplinary procedures.
+
+Academic Integrity and Misconduct Procedures: All staff and students are required to uphold academic integrity. The institution maintains a formal Plagiarism and Academic Misconduct Policy, and cases are investigated through a documented process ensuring transparency and fairness.
+
+Legal and Regulatory Compliance: Advanced Learning complies fully with all applicable Maltese laws and education regulations. As a licensed provider regulated by the Malta Further and Higher Education Authority (MFHEA), the institution fulfils all licensing conditions, including those stipulated in the Education Act and data protection legislation. The Academic Director ensures that programme accreditation and renewal applications are submitted to MFHEA on time, and compliance checklists are maintained by the QA office. Policies are reviewed regularly to remain current with legal requirements and to ensure continued alignment with national regulatory frameworks.
+
+Public Accountability and Transparency: To promote public trust and institutional accountability, Advanced Learning commits to full transparency in its external communications. Key information is published and regularly updated in accordance with MFHEA guidelines, including:
+Ownership
+Governance
+Academic programmes
+Tuition fees
+Entry requirements
+Qualifications awarded.
+All marketing materials and course descriptions are reviewed for accuracy to ensure they truthfully reflect the nature of programme delivery and the student experience. An external consultant reviews marketing copy annually to verify claims made are evidence-based. Course web pages are updated each semester or within 10 working days of a change being approved internally.
+Programme Benchmarking and Alignment: All new and revised programmes include a benchmarking summary comparing learning outcomes, credit structures, and content with similar accredited programmes at national and international levels. This ensures comparability with qualifications from leading higher education institutions abroad. Programme developers consult qualification databases, institutional websites, and external academic advisors to ensure Advanced Learning programmes remain competitive, current, and fit for purpose.
+B. Financial Planning and Management
+Strategic Financial Planning: The Head of Finance prepares a rolling five-year financial plan on an annual basis, guided by input from the Heads of Department and aligned with the institution’s strategic priorities. The plan is reviewed and approved by the Head of the Education Institution to ensure coherence with long-term objectives. The draft plan is submitted to the Board of Directors for feedback by Q4 each year, allowing time for review before the new financial year.
+
+Budget Objectives: The Head of the Education Institution defines institutional budgetary objectives each year. These objectives serve as a foundation for the Head of Finance to develop detailed and responsive financial plans that meet operational and academic needs. These are documented in the institution’s Strategic Finance Memo and shared with senior management at the start of Q1.
+
+Resource Allocation: Resource allocation is led annually by the Head of the Education Institution based on strategic goals and recommendations from Heads of Department. Each department is responsible for using its allocated budget efficiently and in line with the principles of economic and effective resource management.
+
+Budget Preparation and Review: The Head of Finance is responsible for drafting the annual revenue budget, which is shared with Heads of Department for review prior to formal submission to the Head of the Education Institution. Once approved, budgets are disseminated promptly. In-year budget revisions must also be reviewed by the relevant departments and require final sign-off by the Head of the Institution. Feedback is collected through individual review meetings and consolidated into a final budget for approval no later than mid-December each year.
+
+Budgetary Control: Day-to-day control of income and expenditure within approved budgets rests with designated budget holders. Each budget holder is responsible for monitoring actual performance and reporting to their respective Head of Department. Significant variances must be escalated to the Head of Finance for review and, if needed, corrective action.
+
+Financial Reporting and Stakeholder Information: The Head of Finance provides timely financial reports to aid department-level management and oversight. Comprehensive budgetary statements are submitted to the Head of the Education Institution, and financial updates are shared with external stakeholders, including regulators and auditors, upon request. The institution also ensures full transparency with students by clearly communicating tuition fees, payment schedules, refund policies, and available financial assistance prior to enrolment. Students receive transparent tuition fee breakdowns at the point of offer, including clear guidance on refunds, payment terms, and available assistance. This information is included in the Student Handbook and programme information sheets.
+
+Changes to Approved Budgets: No changes to approved budgets may be made without the explicit approval of the Head of Finance, following consultation with the Head of the Education Institution. Transfers of funds between budget lines are subject to the same approval process and are only permitted where justified by operational need.
+
+Year-End Balances: Budget holders are generally not permitted to carry forward balances from one financial year to the next unless approved under a specific scheme authorised by the Head of the Education Institution.
+
+Online and Blended Teaching Methodology: Where programmes are delivered in blended or fully online formats, the teaching, learning, and assessment approaches are adapted to maximise digital engagement and ensure constructive learning. Curriculum design reflects the particularities of digital delivery, including the use of multimedia content, interactive tools, and asynchronous activities. Learning outcomes are framed to accommodate digital formats while maintaining alignment with MQF levels. Online pedagogies encourage active and authentic learning, incorporating methods such as collaborative assignments, problem-solving tasks, peer feedback, and discussion forums to promote student-to-student and student-to-tutor interaction. Assessment in online settings uses a combination of continuous and summative strategies, with formative checkpoints embedded into the digital learning environment to monitor progress and support student success.
+C. Accounting Arrangements and Audit Requirements
+Financial Year and Basis of Accounting: The institution’s financial year runs from 1st January to 31st December. All financial records are maintained on a historical cost basis and are prepared in line with applicable accounting standards and local legislative requirements.
+
+Retention of Financial Records: The Head of Finance is responsible for ensuring the secure and legally compliant retention of financial documentation for a minimum of ten years. Records include but are not limited to:
+Invoices
+Bank statements
+Copies of receipts
+Payroll records
+Petty cash vouchers
+Visa statements
+Receipt books
+Purchasing account statements
+Electronic records are also securely stored and managed to ensure accessibility for audit and regulatory review.
+
+External Audit and Financial Compliance: External auditors are appointed annually by the Head of the Education Institution, in consultation with the Board of Directors. Auditors are granted access to institutional premises, records, and any supporting documentation necessary to conduct a thorough audit. Their responsibilities include:
+Reviewing the institution’s financial statements
+Assessing internal control systems
+Reporting audit findings and compliance status to the Board of Directors
+
+Fraud, Corruption, and External Investigations: All staff, including senior management, are required to immediately report any suspicion of fraud, corruption, or financial irregularity to the Board of Directors. In addition, the institution may be subject to external investigations by regulatory bodies such as the MFHEA or other government entities, who hold similar access rights as external auditors.
+D. Insurance and Institutional Risk Management
+Advanced Learning maintains comprehensive insurance coverage appropriate to its operations, including but not limited to public liability, professional indemnity, and premises-related insurance. This ensures protection for the institution, staff, and students against unforeseen risks.
+
+Risk management procedures are embedded in financial and operational planning. The institution regularly assesses potential risks related to finance, operations, legal compliance, and data security, and maintains mitigation strategies to minimise disruption.
+E. Workforce Competence and Institutional Capacity
+Advanced Learning ensures that its academic, administrative, and managerial staff meet all relevant qualification and experience requirements. All academic staff must hold qualifications at least one MQF level higher than the course they deliver and have at least 2 years of teaching or industry experience. Administrative and QA personnel must have experience in education management or compliance. Senior leadership roles, including the Head of School, are held by individuals with at least an MQF Level 6 qualification and a minimum of five years of relevant professional experience. 
+
+Staffing Review and Capacity: Staffing levels and qualifications are reviewed periodically to ensure sufficient institutional capacity and occupational competence in line with programme delivery requirements. Workforce planning is conducted annually in Q3 to anticipate needs for the coming academic year. Recruitment and training plans are derived from this review and documented in the HR Strategy.
+
+3. Appropriate Design and Approval of Programmes
+
+A. Programme Design and Development
+Strategic and Regulatory Alignment: All programmes are designed in alignment with Advanced Learning’s mission and the Malta Qualifications Framework (MQF). Each course must meet the cognitive complexity, level of autonomy, and skill application described in the relevant MQF level descriptors. The Programme Development Team, led by the Academic Director, is responsible for confirming this alignment during proposal drafting and ensuring compliance with MFHEA's Level Descriptors and Referencing Report. This ensures that learners are provided with academically sound and professionally relevant qualifications that meet both institutional and national expectations.
+
+Market Relevance and Contextual Analysis: Programme proposals are developed based on evidence of need derived from contextual research. This includes sector-specific market analysis, PEST (Political, Economic, Social and Technological) analysis, and where appropriate, demographic or labour market data. These inputs help ensure alignment with institutional strategy and the evolving demands of industry, society, and learners. Where applicable, findings from national skills reports or economic outlooks are referenced to inform the rationale for new programme proposals.
+
+Learning Outcomes and Graduate Profile: Each programme includes clearly defined aims and intended learning outcomes that describe the knowledge, skills, and competences to be achieved. These outcomes guide curriculum design, assessment strategies, and teaching methods. The learning outcomes are mapped to the MQF level and are structured to ensure consistency, progression, and fitness for purpose. A graduate profile is also outlined to capture the attributes and capabilities students are expected to have upon completion.
+
+Curriculum Coherence and Structure: The curriculum is modular and organised to ensure logical progression, with each module contributing to the overall programme outcomes. Programmes include an appropriate balance of theory and practice, as well as formative and summative assessments. Each module includes:
+Defined aims and outcomes.
+Assessment methods aligned with outcomes.
+Credit values and contact hours.
+Teaching and learning strategies.
+Structured progression opportunities and articulation routes, supporting learner advancement into further study or employment.
+Programme workload is calculated using the ECTS standard, where 1 ECTS credit equates to 25 hours of total learner effort. This includes contact hours, self-directed study, and assessment activities.
+Elective Modules and Optional Components: Although current programmes at Advanced Learning do not include elective modules, the institution’s programme design framework allows for their inclusion in future offerings where appropriate. If a newly proposed programme is suited to an elective model, optional modules may be introduced to offer students greater flexibility and specialisation opportunities. The definitive programme document includes space to identify elective options, and such components would be designed to align with overall programme outcomes and quality standards. Electives, if introduced, would undergo the same approval, quality assurance, and periodic review processes as core modules.
+
+Stakeholder Engagement: Programme design is informed by structured consultation with both internal and external stakeholders to ensure that proposed qualifications are relevant, coherent, and aligned with institutional and labour market needs. Internal stakeholders typically include faculty, academic staff, and currently enrolled students, whose feedback on curriculum structure, delivery feasibility, and learner support is gathered through workshops, surveys, and review meetings. External consultation may involve academic reviewers, industry professionals, alumni, and prospective employers, particularly in the case of vocational or employment-oriented programmes. These consultations help identify sector-specific skills needs and ensure that learning outcomes reflect real-world expectations. Stakeholder input is documented in a Stakeholder Input Summary Form, appended to the programme proposal and used by the Academic Board during the approval process. This formal process ensures that curriculum development remains responsive, current, and aligned with best practice in programme design.
+
+Inclusive Delivery Modes: Programmes are designed for effective delivery across face-to-face, online, and blended formats. Each mode includes appropriate pedagogy, technology, and student support to ensure that learning outcomes are consistently achieved. For example:
+Online programmes are supported through structured modules, multimedia content, and virtual interaction.
+Face-to-face programmes emphasise classroom engagement, workshops, and practical application.
+Blended delivery integrates both approaches to support diverse learner needs.
+When face-to-face programmes are transitioned to an online or blended format, a structured review of the learning outcomes, delivery methods, and assessment strategies is undertaken to ensure suitability and pedagogical coherence. The review includes integrating appropriate online pedagogies such as interactive forums, problem-based learning, and formative quizzes to enhance engagement and monitor learner understanding. These adaptations are documented in the revised programme descriptor and reviewed during periodic quality assurance cycles.
+
+Resource Feasibility and Delivery Readiness: Before a programme is approved, its feasibility is assessed to ensure that the required academic staff, infrastructure, learning materials, and support services are available. Any gaps identified during planning must be addressed prior to delivery. A resource plan is submitted alongside the programme proposal, confirming readiness and sustainability.
+B. Programme Approval Process
+Internal Approval and Governance: All new programmes or significant revisions are subject to internal review by a designated Programme Approval Committee or Academic Board. This body is responsible for evaluating the academic coherence, regulatory compliance, and strategic alignment of each proposal. The committee includes academic leadership, subject experts, and quality assurance representatives. A programme cannot proceed to delivery without formal written approval.
+
+Programme Documentation Requirements: Each programme must be described in a definitive programme document, which includes:
+Programme Title, 
+MQF Level, 
+Credit Value
+Entry Requirements 
+Graduate Profile
+Programme Aims 
+Intended Learning Outcomes
+Modular Structure 
+Assessment Methods
+Teaching And Delivery Methods
+Resource Plan and Staffing Requirements
+Quality Assurance and Review Procedures
+This document serves as the basis for delivery and reference and must be formally approved and version controlled. Each programme outlines the designated personnel responsible for: 
+Course Design And Content Development, 
+Technical And Media Support, and 
+Teaching And Learner Support. 
+These roles are documented in the Programme Specification.
+
+Version Control and Change Management: A structured version control system is in place to manage programme updates. Changes are classified as:
+Minor (e.g. reading list updates), which may be approved internally by the Academic Director
+Major (e.g. outcome revisions or module additions), which require re-approval by the Academic Board and, where applicable, notification to the MFHEA
+All changes are logged and dated, and students are informed of any modifications that affect their programme.
+
+External Review and Consultation: Where appropriate, programmes are reviewed by external academic or industry experts to ensure benchmarking and relevance. External reviewers may provide feedback on curriculum quality, employability outcomes, or professional alignment. Their input is documented and considered as part of the final approval process.
+
+Programme Benchmarking: Programme developers are encouraged to benchmark new and existing curricula against similar national and international qualifications to ensure relevance, quality, and competitiveness in both academic and industry contexts.
+
+MFHEA Accreditation and Licensing: No programme is delivered without prior accreditation or approval from the Malta Further and Higher Education Authority (MFHEA), as required. The submission includes detailed syllabi, module descriptors, staff CVs, resource plans, and evidence of stakeholder input. The institution maintains active dialogue with MFHEA throughout the review process and responds promptly to any feedback or conditions imposed.
+
+Periodic Review and Quality Enhancement: Each programme undergoes scheduled review, typically every two to three years. Reviews may also be triggered by:
+Changes in regulation or national policy
+Stakeholder or student feedback
+Shifts in market demand or academic standards.
+The review process examines curriculum content, student outcomes, and resource adequacy. Where changes are required, these follow the same approval procedures as new programmes, ensuring consistency and continuous improvement.
+
+Programme Suspension and Withdrawal: Where a programme is to be suspended or withdrawn, the institution ensures clear communication with students, outlines teach-out arrangements and supports students in completing their studies or transferring to suitable alternatives. These steps are documented and approved by the Academic Board.
+
+
+
+4. Student-Centred Learning, Teaching and Assessment
+
+A. Learning and Teaching Methods
+Active Participation and Engagement: Advanced Learning adopts a student-centred teaching approach that places learners at the heart of the educational process. Teaching methods are designed to encourage participation, enquiry, collaboration, and critical reflection. Instructors use a range of interactive strategies, including: 
+Group Discussions, 
+Case-Based Learning, 
+Problem-Solving Activities, 
+Presentations, and 
+Project-Based Assignments. 
+
+These approaches aim to develop both academic understanding and transferable skills such as teamwork, communication, and problem-solving.
+Lesson planning templates require tutors to indicate how each session promotes active learning, and student participation is monitored through formative feedback and tutor observations logged each term.
+
+Inclusive and Adaptive Teaching Practices: To address the varied learning styles and needs of students, instructors apply a broad range of teaching techniques and tools. Instructional delivery may include visual aids, audio-visual materials, hands-on demonstrations, and practical exercises. The institution uses the Moodle learning management system to support both online and on-campus learners by providing supplementary materials, recorded sessions, forums, and announcements. Moodle analytics are reviewed weekly by instructors to identify inactive students and trigger targeted follow-up support. Reasonable adjustments are made for students with learning difficulties or disabilities to ensure full inclusion and participation. These may include providing materials in alternative formats, adjusting delivery pace, or offering extended time for tasks.
+
+Promoting Learner Autonomy and Self-Direction: Advanced Learning encourages students to become independent and reflective learners. Programmes incorporate opportunities for self-assessment, personal goal setting, and learner reflection. For example, students complete a self-reflection template after each assignment to evaluate their learning process. Independent projects, research assignments, and problem-based learning activities support this aim. Instructors guide students in monitoring their progress, setting realistic learning objectives, and developing strategies for improvement. This focus on learner autonomy strengthens student engagement, motivation, and ownership of their educational journey. The tutor role includes biweekly check-ins to support academic planning, especially for longer or project-based courses.
+
+Observation and Feedback of Teaching Practice: The institution ensures continuous improvement in teaching through a structured observation and feedback system. This includes:
+Initial informal observations conducted within the first four weeks of delivery.
+At least two formal observations per academic year, scheduled and documented in advance.
+Post-observation written reports and personalised feedback shared with each tutor in a one-to-one meeting.
+These observations assess the degree to which teaching methods align with the student-centred philosophy and promote a culture of reflection and improvement among educators.
+
+Learning Environment and Student Support: Advanced Learning ensures that the learning environment is supportive, inclusive, and conducive to active engagement. Class sizes are maintained at a level that allows personalised attention, and classrooms are arranged to facilitate interaction. Face-to-face facilities are equipped with interactive whiteboards, ergonomic seating, and breakout spaces for group work. Technological tools such as interactive whiteboards, online forums, and multimedia content are used to enhance learning. Online learners receive comparable support, with clearly structured Moodle pages, virtual check-ins, and access to tutors through messaging or scheduled office hours. Tutors are required to respond to student queries within 48 hours on weekdays. A Moodle helpdesk ticketing system ensures all queries are tracked and resolved in a timely manner. Academic support services are available to all students and include personal tutoring, academic mentoring, and language support. 
+
+Student Representation and Feedback Integration: Student perspectives are actively sought and incorporated into teaching and learning improvements. Feedback from module evaluations, class forums, and surveys is reviewed by the Academic Board and course teams, and used to inform pedagogical enhancements, content updates, and staff development.
+
+B. Assessment, Moderation, and Academic Integrity
+Purpose and Integration of Assessment: Assessment is regarded as an integral part of the learning process. Each module includes:
+Diagnostic assessment to identify starting levels.
+Formative assessment to support progress and development.
+Summative assessment to evaluate achievement of outcomes.
+Assessments are designed to directly align with intended learning outcomes and support student development by offering regular, constructive feedback throughout the learning process.
+
+Methods of Assessment: A diverse range of assessment methods is used to ensure validity and inclusiveness. These may include:
+Written assignments, essays, and reports.
+Oral presentations and viva voce exams
+Quizzes and tests (online or in-person)
+Practical exercises, demonstrations, or simulations
+Group projects and peer assessments.
+Reflective journals and portfolios
+Assessment methods are chosen to reflect the nature of the learning outcomes and the level of the qualification, and to provide opportunities for students to demonstrate their skills in varied ways.
+
+Fairness, Validity, and Reliability: To ensure fairness and consistency, all assessment instruments:
+Are mapped to learning outcomes and MQF descriptors.
+Use clearly defined rubrics and grading criteria.
+Undergo internal moderation and verification, especially when multiple assessors are involved.
+Moderation ensures that grading decisions are standardised, and that no student is unfairly advantaged or disadvantaged. Where applicable, assessments are double-marked and cross-checked by an internal verifier.
+
+Moderation, Second Marking, and Quality Checks: Where feasible, assessments are developed and marked collaboratively by more than one academic staff member to enhance transparency and ensure consistency. All summative assessments undergo internal moderation, and in cases of high-stakes or borderline results, second marking is applied. Moderation includes verification of alignment with intended learning outcomes, marking consistency, and application of published rubrics. An internal moderation form is completed for each sample reviewed. The moderation sample includes a range of achievement levels and delivery modes. Final grades are not released until moderation is complete, and discrepancies are resolved collaboratively.
+
+Transparency and Assessment Information: Students are provided with full information regarding their assessment at the start of each course or module. This includes:
+Assessment types, deadlines, and weighting
+Evaluation criteria and grading rubrics
+Feedback formats and timelines
+Assessment information is published in module descriptors and accessible through the Moodle platform. Tutors explain expectations during introductory sessions and remain available to address student queries.
+
+Academic Integrity and Use of Technology: Academic honesty is a cornerstone of assessment practice. To uphold integrity:
+Students are educated about plagiarism and citation standards.
+All written assignments are submitted via Moodle and checked using plagiarism detection tools.
+Online assessments are conducted using secure systems and, where needed, proctoring protocols. For summative online assessments, secure proctoring tools are employed to confirm student identity and monitor the assessment environment. Proctoring procedures are outlined in the course handbook and students are briefed during induction.
+Tutors take an educative approach when dealing with first-time academic misconduct, but repeated or severe breaches are subject to formal disciplinary action.
+
+Online Assessment Integrity and Proctoring: For online assessments, the institution employs a combination of secure submission protocols, identity verification processes, and, where applicable, online proctoring systems. These measures include timed quizzes, question randomisation, submission logs, and live or recorded invigilation tools for high-stakes assessments. All online assessments are designed to ensure academic integrity while maintaining alignment with the intended learning outcomes and MQF descriptors.
+
+Online Exam Proctoring and Student Identity Verification: Advanced Learning maintains academic integrity during online assessments through secure online proctoring measures. For high-stakes or final assessments, students may be required to confirm their identity using institutional credentials and webcam-enabled proctoring tools. The assessment environment is monitored via live or recorded invigilation to detect and prevent misconduct. Students are briefed in advance regarding the format and requirements of online proctoring, and accessibility considerations are addressed through alternative formats where appropriate.
+
+Plagiarism and Academic Misconduct Policy: Advanced Learning defines plagiarism as the act of presenting another’s work, ideas, or data as one’s own without proper attribution. This includes copying text, submitting work not authored by the student, improper paraphrasing, and failure to cite sources appropriately. To uphold academic integrity, the institution implements the following measures:
+
+Awareness and Training: All students receive guidance during induction on citation practices, referencing standards, and how to avoid plagiarism. Additional training may be provided within specific modules or during academic support sessions.
+Detection Tools: All written submissions are processed through plagiarism detection software (e.g., Turnitin or other approved tools) via the Moodle platform. Reports are reviewed by assessors prior to grading.
+Grading Implications: Assignments flagged for plagiarism are reviewed on a case-by-case basis. Depending on severity:
+First-time or minor cases result in educative feedback, resubmission, and a warning.
+Repeated or serious offences may result in grade penalties, course failure, or disciplinary action.
+Appeal Rights: Students have the right to appeal plagiarism-related decisions using the institution’s formal academic appeals process (Section 4B.vii).
+Policy Oversight: The Academic Director ensures that plagiarism prevention protocols are reviewed annually. Staff receive refresher training on plagiarism detection and misconduct procedures.
+
+A full version of the Plagiarism and Academic Misconduct Policy is available in the Student Handbook and on Moodle under Academic Policies.
+
+Training in Referencing and Citation: All students are introduced to academic writing standards, including how to paraphrase, cite, and reference both online and printed sources. Training is integrated into orientation and further reinforced through study skills sessions and online Moodle resources. Referencing guides and citation tools are made available to support learners in developing ethical academic habits.
+
+Academic Misconduct Handling: Academic misconduct, including but not limited to plagiarism, collusion, contract cheating, and falsification of data, is addressed through a formal and transparent procedure. Staff report suspected misconduct to the Academic Director, who initiates a review with the internal QA team. Students are informed in writing and given the opportunity to respond. Outcomes may include warnings, grade penalties, course failure, or formal disciplinary procedures depending on severity and frequency. All decisions are documented, and students retain the right to appeal as per the institution’s Academic Appeals Policy.
+
+
+Reasonable Adjustments and Access Arrangements: Students requiring reasonable accommodations in assessments may apply through a formal request process. Adjustments may include:
+Additional time or breaks during exams.
+Alternative assessment formats
+Access to assistive technologies
+Requests are reviewed by the Academic Director in consultation with the course team, and all accommodations are documented in the student’s file.
+Assessment Review and Appeals: Advanced Learning offers a transparent and fair appeals process to all students. The process includes:
+First review of results by the original assessor or moderator.
+Formal request for re-assessment by an independent assessor.
+Final appeal heard by an Academic Appeals Panel.
+Students are informed of this process through the student handbook and Moodle platform. Appeals are handled impartially and promptly, with outcomes communicated in writing. Any lessons learned from upheld appeals are used to enhance future assessment design and marking practices. 
+
+Complaints Procedure: Advanced Learning is committed to addressing student complaints in a fair, timely, and transparent manner. A complaints procedure is in place to allow learners to raise concerns unrelated to assessment results (e.g. teaching quality, staff conduct, support services).
+Informal Resolution: Students are encouraged to raise concerns informally in the first instance by speaking directly with the relevant staff member or programme coordinator. Many issues can be resolved quickly and amicably at this stage.
+Formal Complaint Submission: If the matter remains unresolved, students may submit a formal complaint in writing using the Complaints Form available on Moodle and in the Student Handbook. The form must outline the nature of the complaint, steps already taken, and the desired outcome.
+Investigation and Response: Complaints are reviewed by the Academic Director or a designated panel within 10 working days. The complainant may be invited to a meeting to clarify issues. A written response with findings and any proposed actions is provided within 15 working days.
+Appeal: If the student is dissatisfied with the outcome, they may appeal in writing to the Head of Institution within 5 working days of receiving the outcome. The appeal is reviewed by a separate panel, and a final decision is communicated in writing.
+
+All complaints are logged and tracked for continuous quality improvement. Complaint trends are reviewed annually and used to inform institutional enhancements.
+
+
+
+5. Student Admission, Progression, Recognition and Certification
+
+A. Student Admission and Access
+Clear Admission Criteria: Advanced Learning ensures that each accredited programme has transparent and programme-appropriate admission criteria. These are clearly published through institutional channels such as the website and student prospectus. Each set of criteria corresponds to the level and content of the course, with consideration given to prior qualifications, work experience, and language proficiency where applicable. This ensures that applicants are well-informed about the prerequisites and are appropriately prepared to benefit from their chosen course. 
+
+Fair and Inclusive Selection Procedures: Admissions processes are designed to be consistent, impartial, and inclusive. Applications are assessed using standardised tools such as application forms, interviews, and diagnostic placement tests where applicable. All selection decisions are made in accordance with the institution’s Equality and Diversity Policy, ensuring no applicant is discriminated against on the basis of personal characteristics unrelated to academic suitability. Reasonable adjustments are available during the selection process to accommodate specific applicant needs.
+
+Admission Appeals: Applicants who are not accepted into a programme may submit a formal appeal for reconsideration. Appeals must be based on specific grounds (e.g. procedural error, overlooked documentation) and are reviewed by an independent panel designated by the Academic Director. The appeal must be submitted within 10 working days of the original decision and is processed using a standardised Appeals Form. The outcome is communicated within 10 working days.
+
+Pre-Entry Guidance and Orientation: Comprehensive information and support are available to applicants from the initial enquiry stage through to enrolment. Admissions staff provide one-to-one guidance through calls, email, and scheduled information sessions, tailored to the applicant's programme type and background. Academic and administrative staff clearly explain programme structure, workload, entry expectations, and progression opportunities.
+
+For Face-to-Face Students: Upon confirmation of admission, students receive a printed or digital Student Handbook and participate in an in-person orientation session. This covers institutional policies, learner rights and responsibilities, assessment formats, and available support services. The session is facilitated by academic and administrative staff, with a group induction led by the programme coordinator. The aim is to ensure students start their studies with a clear understanding of academic expectations and institutional procedures.
+
+For Online and Blended Students: All students enrolled in online or blended programmes attend a mandatory virtual orientation session. This includes tutorials on navigating Moodle, online communication etiquette, accessing digital resources, and submitting assessments. Diagnostic activities are also conducted to identify initial support needs. Tutorials are recorded and made available on-demand via Moodle for flexible access. A group online induction is delivered by the programme coordinator to create initial contact and community among remote learners.
+
+Online Student Orientation and Support Access: Students enrolled in online and blended programmes receive mandatory orientation on using the Moodle VLE, academic resources, digital communication, and accessing support services. This includes:
+Navigation tutorials on the VLE
+Access to technical helpdesks and asynchronous support
+Information on academic skills tutorials, language support, and wellbeing services
+Tutorials are available on demand, and orientation is reinforced through a diagnostic check-in and guided induction by programme coordinators.
+B. Student Progression and Support
+Monitoring of Academic Progress: Advanced Learning maintains regular and structured monitoring of each student’s academic progress. This includes:
+Recording attendance and participation (including for online learning).
+Tracking assessment outcomes and engagement.
+Identifying at-risk students using early warning indicators.
+The Learning Support Officer generates monthly learner engagement reports using data from Moodle logs and in-class registers. Tutors are alerted to intervene via tutorial sessions, learning plans, or pastoral referrals. Tutors and academic advisors intervene when progress concerns arise, offering support strategies to help students meet their learning goals.
+
+Academic and Pastoral Support: Each student is assigned an academic tutor or advisor to provide regular guidance on academic progression, study strategies, and career pathways. Check-in meetings are held at least twice per semester, with additional sessions arranged as needed. In addition, the institution offers access to pastoral care, counselling services, and academic support for language or learning needs. An online academic support calendar is available for booking 1:1 sessions. Support is also available remotely for online students, including virtual drop-ins and helpdesk services. This holistic approach ensures that both academic and personal barriers to success are addressed.
+
+Progression Policies and Flexibility: Student progression is governed by clear policies on:
+
+Assessment resits and repeats.
+Module and programme completion deadlines.
+Leave of absence and programme deferral.
+
+The Programme Handbook outlines maximum completion periods and allowable deferrals per MFHEA regulations. Requests are submitted through a Leave of Absence Form and approved by the Academic Director. While standards are maintained, Advanced Learning offers flexibility where justified (e.g. illness, caring responsibilities), allowing learners to resume studies within agreed timelines. Prior learning is not unnecessarily repeated, and alternative pathways to completion are supported where appropriate.
+
+Inactivity and Suspension Rules: Students who remain inactive., not engaging in coursework, assessments, or communications, for more than twelve consecutive months without prior authorisation (such as an approved leave of absence) will be classified as inactive. The institution will attempt contact through multiple channels before issuing a formal notice. If no response is received within a further 30-day grace period, the student’s enrolment will be terminated. These procedures and timelines are outlined in the Student Handbook and communicated during onboarding.
+
+Recognition of Intermediate Achievements and Exit Awards: For longer programmes, students may be eligible for partial awards after completing a defined portion of the course. These are issued in accordance with internal policies and MFHEA regulations. Where no formal award is due, the institution may issue a record of achievement to acknowledge completed modules. Students are also advised on post-course progression options, whether further study or employment.
+C. Certification and Records
+Timely Certification: Upon successful completion of a programme and validation of results, Advanced Learning issues certificates and transcripts within a defined time period (typically within four weeks). These documents confirm the award title, MQF level, date of award, and relevant performance details.
+
+Secure and Verifiable Certificates: All issued certificates:
+Are authorised by designated signatories (e.g. Academic Director).
+Bear unique identification numbers.
+Are logged in a central registry for verification purposes.
+Procedures are in place to manage lost or amended certificates. Replacement requests are subject to formal validation and approval.
+
+Student Record Retention: The institution maintains secure and up-to-date academic records through a central student management system. These include:
+Admission details
+Assessment records
+Award documentation
+Records are retained in accordance with local legal and MFHEA data retention standards. Key qualification records are archived permanently.
+
+Graduate Follow-Up and Quality Loop: Where possible, Advanced Learning conducts graduate follow-up surveys to gather information on employment, further education, or training outcomes. This feedback informs institutional review processes and contributes to curriculum improvement and quality assurance standards. A standard survey is sent to all graduates six months post-completion. Results are compiled into an annual Graduate Outcomes Report presented to the Academic Board.
+
+Graduate Outcomes Monitoring: To support quality improvement and programme relevance, Advanced Learning tracks graduate outcomes through follow-up surveys and stakeholder feedback. Data on employment, further study, or other progression paths is reviewed annually by the Academic Board to inform future curriculum development and student guidance. Where programmes show low progression rates to employment or further study, targeted curriculum reviews and employer engagement are initiated.
+Through its structured and student-focused approach to admission, progression, recognition, and certification, Advanced Learning ensures a fair, supportive, and transparent academic journey for all learners – from entry to graduation and beyond.
+
+
+6. Teaching Staff
+
+A. Recruitment and Qualifications of Teaching Staff
+Minimum Qualifications and Subject Expertise: Advanced Learning ensures that all educators are suitably qualified in both their subject matter and teaching methodology. Teaching staff must hold a qualification at least one MQF level higher than the level at which they teach, unless professional expertise provides an equivalent contribution. The Academic Director is responsible for verifying qualifications and maintaining a matrix that maps teaching roles to staff credentials. For language instructors or specialised programme leaders, additional certifications (such as TEFL, CELTA, or PGCE) may be required. All applicants are expected to demonstrate relevant teaching or training experience, strong communication skills, and alignment with the institution’s student-centred ethos.
+
+Transparent and Inclusive Recruitment Procedures: Teaching positions are advertised publicly, and all candidates are assessed against clear selection criteria. The recruitment process includes:
+Application screening based on academic qualifications and professional experience.
+A formal interview conducted by a panel including academic leadership.
+A teaching demonstration or task-based assessment.
+Reference and credential verification.
+Equal opportunity principles are applied at all stages of the process, ensuring fairness and merit-based selection.
+Staff Induction and Onboarding: All newly appointed staff participate in an induction programme that includes:
+An introduction to the institution’s mission, values, and teaching philosophy.
+Familiarisation with the Internal Quality Assurance Policy and key academic policies.
+Training on assessment procedures, grading standards, and student support frameworks.
+Orientation on the use of institutional platforms, including Moodle for content delivery and communication.
+New staff are supported through mentoring, observation, and feedback in their initial period of employment. Each new staff member is assigned a peer mentor for their first 6–8 weeks and observed at least once during the initial term. Feedback is formally documented and shared during a one-to-one review meeting.
+
+Staffing Levels and Resource Allocation: Advanced Learning maintains adequate staffing levels to support quality learning experiences and effective tutor-student engagement. The institution:
+Plans staffing based on projected enrolment and programme delivery mode.
+Caps class sizes to ensure personalised attention and prompt feedback.
+Provides additional support for online delivery through teaching assistants or platform moderators.
+This proactive approach ensures that staff workloads are manageable and that students receive timely academic input.
+
+Designation of Online Learning Coordinator: An Online Learning Coordinator is appointed to oversee the implementation, support, and continuous improvement of online and blended learning delivery. This role includes ensuring pedagogical coherence, maintaining the VLE/LMS, supporting staff development in e-learning, and liaising with the QA team for digital-specific reviews.
+
+Staff Workload Planning: Advanced Learning implements a structured workload policy to ensure fair distribution of teaching, assessment, and administrative responsibilities. Timetables are planned to maintain optimal student–teacher ratios and to avoid staff overload, particularly during peak assessment periods. Adjustments are made when enrolment increases, or new modules are introduced.
+
+Contingency Planning for Staff Absence: The institution maintains a contingency plan for staff illness or unexpected absence. Substitute lecturers, team-teaching strategies, or temporary hires are activated to maintain continuity of programme delivery and student support.
+
+Tutor Induction and Support for Online Delivery: All newly appointed tutors delivering courses in online or blended formats undergo a structured induction focused on digital pedagogy. This includes orientation on the institution’s Virtual Learning Environment (VLE), available digital tools, and expectations for monitoring student participation and interaction. Induction covers strategies for facilitating engagement in virtual classrooms, identifying students who may be falling behind, and guiding learners to academic and wellbeing support services. Tutors are also introduced to quality assurance processes related to online learning, including feedback collection, learning analytics, and reporting obligations.
+
+Online Delivery Quality Assurance and Review: Advanced Learning ensures that its online and blended programmes meet quality expectations through digital-specific QA procedures:
+Online programme performance is reviewed by the IQA Committee using Moodle analytics, student participation data, and learner feedback.
+Courses are assessed for content quality, teaching effectiveness, engagement strategies, and accessibility.
+A checklist is used during course reviews to verify LMS compatibility with common devices (including smartphones and tablets), low-bandwidth access, and ease of navigation.
+The use of interactive tools (e.g., forums, problem-solving tasks, peer feedback) is also evaluated.
+Third-party platforms must be scalable, avoid vendor lock-in, and be backed by a service-level agreement (SLA).
+All tools are reviewed by the IT Administrator and QA Committee to ensure pedagogical and technical suitability.
+
+B. Staff Development and Performance Evaluation
+Continuous Professional Development (CPD): Teaching staff are supported in maintaining and developing their professional competencies through structured CPD. This includes:
+Internal training on pedagogy, assessment design, and technology-enhanced learning.
+External workshops, seminars, and academic conferences.
+Opportunities to pursue further qualifications or certifications, with partial funding where feasible.
+All faculty receive orientation on institutional student support mechanisms—including academic tutoring, pastoral care, and counselling services—during onboarding.
+Faculty are trained to use Moodle analytics and learner progress reports to identify students at risk and initiate timely interventions, including referral to academic advisors or support staff.
+An Annual CPD Plan is developed by the Academic Director in consultation with staff. Participation in CPD is tracked in individual development logs and reviewed during appraisals. All staff teaching online are required to complete training in digital pedagogy, including how to facilitate synchronous and asynchronous sessions, build interactive content, and promote student engagement in online formats. Participation is tracked via CPD logs.
+Academic and administrative staff involved in the design and evaluation of online and blended programmes are offered targeted training in online learning design. This includes structuring digital learning pathways, selecting appropriate delivery tools, and designing assessments suited to virtual engagement.
+
+Structured Performance Appraisal: All teaching staff undergo formal performance appraisals, typically on an annual basis. The appraisal process includes:
+A review meeting with the Academic Director or Head of Department.
+Analysis of student evaluation feedback and course outcomes.
+Peer observations or co-teaching reviews where applicable.
+Staff self-reflection and goal setting for professional growth.
+Appraisal documentation includes a completed Staff Review Form and a Professional Development Action Plan. These are signed by both reviewer and reviewee, and stored securely. Appraisal outcomes are recorded, and follow-up actions (e.g. training, workload adjustments, mentoring) are agreed where necessary.
+
+Recognition of Teaching Excellence: Advanced Learning recognises and rewards high-quality teaching through:
+Awards for teaching innovation, student satisfaction, or academic leadership.
+Public recognition during staff events or meetings.
+Opportunities for advancement in academic or leadership roles.
+Invitations to lead curriculum development or staff mentoring projects. 
+Recognition initiatives aim to foster motivation, excellence, and retention among faculty.
+
+Academic Freedom and Ethical Conduct: Teaching staff are granted the freedom to innovate and adapt their teaching within the scope of approved learning outcomes and academic standards. In return, they are expected to:
+Uphold institutional values and the staff code of conduct.
+Respect assessment policies and maintain academic integrity.
+Treat students with fairness, dignity, and confidentiality.
+Avoid discrimination, harassment, or conflicts of interest.
+Misconduct or unethical behaviour is addressed through formal disciplinary procedures, ensuring accountability and a safe learning environment.
+
+Staff Participation in Quality Assurance: Educators are actively involved in shaping and reviewing institutional quality. Staff contribute to:
+Programme development and periodic review.
+Examination boards and assessment moderation panels.
+Internal audits, peer reviews, and academic committees.
+Feedback on teaching resources and quality processes.
+Staff are also consulted during IQA policy revisions and invited to QA workshops to review academic performance data. By engaging teaching staff in quality discussions and decisions, the institution reinforces ownership of standards and promotes a culture of collective responsibility for excellence.
+Through its robust recruitment procedures, ongoing staff development, and integrated performance management system, Advanced Learning ensures that its educators are competent, motivated, and fully aligned with institutional quality goals. The involvement of staff in quality assurance processes further embeds a culture of reflection, improvement, and academic excellence.
+C. Staff Performance and Continuing Professional Development (CPD)
+Advanced Learning ensures that staff development is strategic, structured, and continuously monitored. The following mechanisms are in place:
+
+Annual Staff Appraisals: Each staff member undergoes a formal performance review once per year, led by their line manager. Reviews cover teaching effectiveness, learner feedback, administrative responsibilities, and progress on personal development goals. Self-assessment is included as part of the process.
+Identification of CPD Needs: CPD requirements are identified during performance appraisals, departmental meetings, and through individual staff requests. These needs are aligned with institutional strategy and sectoral developments.
+CPD Budget Allocation: A dedicated CPD budget is set annually to support professional development activities, including formal training, conference attendance, accredited qualifications, or sector-specific workshops.
+Digital Learning Training: Specific training is provided in the design and delivery of online and blended learning. This includes:
+Use of the Virtual Learning Environment (VLE)
+Online instructional strategies
+Digital assessment tools
+Enhancing student engagement in virtual formats
+Support for New Staff: All new tutors receive digital teaching orientation during induction, with additional guidance offered as needed throughout the academic year.
+Monitoring and Record Keeping: CPD participation is monitored through the annual appraisal system, and records are maintained in each staff member’s personnel file.
+
+
+
+
+7. Learning Resources and Student Support
+
+A. Learning Resources
+Adequacy and Accessibility of Resources: Advanced Learning ensures that learning resources are:
+Adequate, accessible, and well-maintained.
+Available to support all accredited programmes.
+Aligned with specific learning outcomes and modes of delivery.
+
+Annual funding is allocated to maintain the currency and relevance of these resources, which include physical, digital, and human infrastructure. A formal resource review is conducted at the start of each academic year, led by Programme Coordinators in consultation with teaching staff. Resource needs are reviewed annually through consultation between academic heads, teaching staff, and the Internal Quality Assurance Committee. Programme Coordinators submit resource requests as part of annual planning, and any mid-year adjustments are reviewed on a case-by-case basis by the Academic Director.
+
+Physical Learning Environment: For face-to-face programmes, the institution provides:
+Classrooms and training facilities equipped with internet access, projectors, interactive boards, and other teaching aids.
+Designated study spaces to support independent learning and encourage academic engagement.
+All students—including those in face-to-face programmes—also have access to Perlego, a digital academic library that supports self-directed study, research, and reading across disciplines.
+
+Digital Infrastructure: For online programmes delivered via the Moodle LMS, students benefit from:
+A robust digital infrastructure with stable connectivity.
+Automated backup systems and contingency protocols to ensure continuity of services.
+Access to structured course materials, recorded lectures, discussion forums, and assessment submission platforms. The Moodle platform is reviewed termly by the IT Administrator and the IQA Committee to ensure uptime, usability, and compliance with accessibility standards. System performance reports and student feedback inform any upgrades or changes to the platform. 
+Procurement of Third-Party Digital Resources: When adopting external digital tools, platforms, or learning resources, Advanced Learning ensures that procurement decisions are based on educational need, scalability, and long-term sustainability. All third-party tools must:
+Be covered by a formal Service-Level Agreement (SLA) that outlines uptime, support, data security, and escalation protocols.
+Avoid vendor lock-in by allowing data export, interoperability, and ease of transition.
+Be scalable to accommodate changing student numbers and programme demands.
+These criteria are reviewed during procurement by the IT Administrator in consultation with the QA Committee to ensure alignment with pedagogical goals and institutional priorities. Notably, the institution subscribes to Perlego, a scalable and standards-compliant digital library service. Perlego supports academic reading and research, offering learners access to a wide catalogue of academic books and professional texts across disciplines.
+Learning Materials and Tools: Each programme is supported by:
+Relevant learning materials such as textbooks, handouts, software applications, and access to external databases.
+Teaching staff responsible for curating and regularly updating materials to align with academic or industry developments.
+B. Student Support Services
+Academic Support: Students benefit from personalised academic assistance, including:
+Tutoring and clarification of complex concepts.
+Feedback on assessments.
+Guidance on developing independent study skills and academic strategies. Academic support availability is timetabled at the start of each term. Records of student attendance at tutoring sessions are kept, and effectiveness is assessed during programme review meetings to ensure support remains responsive and timely.
+
+Career and Progression Guidance: Students have access to career services that:
+Support them in identifying employment or further study opportunities.
+Offer one-to-one mentoring sessions with designated staff to align course learning with career goals.
+
+Technical and IT Assistance: The institution maintains a dedicated helpdesk to provide:
+Technical assistance for online and blended learning environments.
+Support with platform navigation, login access, and assignment submission on institutional systems such as Moodle.
+
+Personal Welfare and Wellbeing: Advanced Learning supports student wellbeing through:
+A responsive, inclusive approach to personal challenges.
+Staff referrals to professional counselling or additional language support as needed.
+A structured referral pathway for students experiencing psychological or emotional challenges, which involves liaison with the Student Services Officer and access to licensed mental health professionals. Referrals are confidential, voluntary, and accompanied by academic support where appropriate
+
+Staff Training and Qualifications: Student support staff, including librarians, IT technicians, and advisors:
+Are appropriately qualified.
+Participate in ongoing professional development to maintain service quality.
+Each support staff member has a Professional Development Log reviewed annually. Participation in at least two CPD activities per year is expected and recorded.
+Student Orientation and Communication: Each student:
+Participates in an induction session at the beginning of their programme.
+Receives a Student Handbook that outlines how to access learning resources, IT systems, academic policies, and advisory services. Feedback on the orientation process is collected via anonymous surveys after the first week of classes and reviewed during internal QA meetings. Induction content and Student Handbooks are updated annually in collaboration with teaching and support staff. 
+
+Support for Diverse Learner Profiles: Advanced Learning actively supports equity and inclusion by adapting academic and support services to meet the diverse needs of its student body. This includes mature students, working professionals, international learners, part-time enrolments, and students with special educational needs. Programme coordinators and academic tutors collaborate to identify support requirements and adjust delivery methods where necessary. Reasonable accommodations, flexible scheduling, and multilingual resources are available to promote participation and academic success for all learner groups.
+
+Online Student Support Services: Dedicated online support services are provided, including technical helpdesk assistance, academic skills tutorials (e.g. time management, digital communication), and access to student well-being support. Support is available both synchronously during office hours (e.g. via live chat or scheduled Zoom sessions) and asynchronously through email and the Moodle helpdesk platform. Online students are also offered virtual drop-in sessions to address academic concerns and build community among remote learners.
+
+Role Clarity in Online/Blended Student Experience: Institutional policies, rules, and QA procedures include specific references to the student experience in online and blended learning. Responsibilities are clearly defined as follows:
+Academic staff: Ensure content is delivered in an engaging and accessible format via the LMS and monitor student progress.
+Administrative staff: Provide technical support access, manage enrolments, and ensure students are informed about institutional services.
+Support staff: Offer academic, IT, and pastoral support, accessible both online and in-person.
+Students: Are expected to engage regularly with the LMS, communicate proactively with staff, and use available support services.
+
+These expectations are communicated during orientation and reinforced via the Student Handbook and LMS notices.
+
+
+8. Information Management
+
+A. Data Collection and Management
+Internal Data Systems: Advanced Learning has structured systems in place to collect, store, and manage student, staff, and programme information. The central Student Information Management System and the Moodle LMS serve as the main repositories for student data including enrolment, attendance, participation, assessments, and feedback. Administrative staff are responsible for maintaining up-to-date records, and data entry protocols are in place to ensure consistency and accuracy.
+
+Types of Data Collected: The institution collects a wide range of data, including but not limited to:
+Student Profile Data – Age, gender, nationality, and any identification of under-represented or vulnerable groups.
+Participation, Retention, and Success Rates – Programme-level enrolment, progression, and completion rates.
+Student Satisfaction – Qualitative and quantitative feedback collected via surveys, evaluations, and focus groups.
+Graduate Outcomes – Employment rates, job titles, and instances of further education where applicable.
+This data informs both programme-specific and institutional decisions, ensuring student needs are identified and addressed.
+
+Data Monitoring and Review: Academic leadership and the IQA Committee review data reports at the end of each semester. Programme teams examine outcomes to identify areas for improvement and success. Patterns such as high failure rates, low retention, or dips in student satisfaction trigger investigations and prompt updates to curriculum, teaching methods, or student support services.
+
+Use of Learning Analytics: The institution leverages analytics from its Learning Management System (Moodle) to monitor student engagement, assess participation, and identify learners at risk. LMS data such as login frequency, resource access, forum interaction, and assessment submission patterns are reviewed regularly by the QA Committee and Learning Support Team. When low engagement is flagged, tutors initiate follow-up through individual contact or referral to academic support services. This process is documented in the LMS Analytics Monitoring SOP, which includes thresholds for intervention and is reviewed annually.
+
+B. Data Usage and Reporting
+Programme and Institutional Planning: Collected data is used to drive evidence-based decisions in areas such as resource allocation, staff development, and strategic planning. For example, trends in graduate outcomes may inform curriculum updates or partnerships with industry.
+
+External Reporting: Data is submitted to regulatory and external agencies, including the MFHEA, as per statutory obligations. Reports include student registrations, assessment results, staff qualifications, and annual programme updates. All data submitted is verified by the Academic Director before release.
+
+Data Sharing and Consent: Upon enrolment, students are informed about data collection, use, and retention. Consent is explicitly obtained for sharing data with external verifiers, employers, or third-party institutions. All practices follow the institution’s formal Data Protection Policy.
+
+C. Data Protection and Security
+Legal and Regulatory Compliance: Advanced Learning complies with the General Data Protection Regulation (GDPR), the Maltese Data Protection Act, and MFHEA guidelines. Staff members are required to complete data protection training during induction and undergo refreshers every two years.
+
+GDPR Compliance and Data Responsibilities: Advanced Learning’s data protection framework is aligned with the General Data Protection Regulation (GDPR). Roles and responsibilities for managing personal data are defined in the institution’s Data Protection Policy, which includes guidance on the collection, processing, storage, and retention of data. Staff are trained in data protection principles during onboarding, and periodic refreshers are provided. Consent forms, privacy notices, and secure data handling procedures are embedded across the student and staff lifecycle to ensure lawful and transparent processing.
+
+Confidentiality and Access Controls: Access to personal or academic data is restricted to authorised personnel using password-protected systems. Physical records are stored in locked units and access logs are maintained.
+
+Secure Storage and Backup: Digital systems are backed up daily and include built-in redundancies to prevent data loss. Moodle logs student interactions such as logins, forum participation, and quiz completions. These logs are reviewed alongside traditional academic metrics to monitor engagement and performance.
+
+Policy on Lecture Recording, Acceptable Use, and Intellectual Property: Advanced Learning maintains clear policies governing the digital environment, including the recording of lectures and meetings, acceptable use of institutional systems, and intellectual property (IP) rights.
+Recordings of lectures or virtual meetings are only carried out with prior consent and in accordance with GDPR. Students are notified in advance and may opt out where possible.
+Acceptable Use Guidelines are shared with all users and outline appropriate behaviour when using institutional systems, including prohibitions on unauthorised sharing, harassment, or misuse of digital platforms.
+Intellectual Property rights are defined in a dedicated policy; generally, teaching materials created by staff remain the intellectual property of the institution unless otherwise agreed. Students retain rights over their own academic submissions, while granting the institution permission to use them for assessment or verification purposes.
+
+
+
+9. Public Information
+
+A. Accuracy and Accessibility
+Institutional Commitment: Advanced Learning is committed to publishing clear, factual, objective, and timely information about the institution, its accredited programmes, and the services available to students. This includes ensuring that the content of all prospectuses, websites, handbooks, and promotional material is regularly reviewed and promptly updated to reflect any changes in policies, procedures, or programme content.
+
+Public Availability: Information is made available through the institution’s website, printed brochures, and during open days or information sessions. The website serves as the central source of programme-related information, including:
+admission criteria, 
+assessment methods, 
+support services, and 
+qualification details. 
+Printed materials are reviewed annually and reissued as needed.
+B. Programme Information
+Programme Overview and Objectives: For each accredited programme, Advanced Learning publishes a detailed description outlining:
+Programme title, 
+MQF level, 
+Number of credits (ECTS/ECVET).
+Programme aims. 
+Intended learning outcomes.
+Target audience 
+Entry requirements.
+Qualification awarded upon successful completion.
+Teaching, learning, and assessment methods.
+Mode of delivery (e.g. face-to-face, online, blended).
+Programme duration and study load.
+
+Performance Indicators: Where available, key performance indicators such as student completion rates, pass rates, and graduate outcomes are included in public materials to ensure transparency and assist prospective students in making informed decisions.
+
+Progression and Opportunities: Information about academic or professional progression is provided for each programme. For example, graduates are informed whether the qualification enables entry into higher-level courses, or how it may enhance career opportunities. Any articulation agreements or recognised pathways are also disclosed.
+C. Institutional Policies and Governance
+Transparency of Operations: Key institutional policies—including the Internal Quality Assurance Policy, Admissions Policy, Assessment Policy, and Student Code of Conduct—are published or summarised on the institution’s website. This provides current and prospective students with insight into the institution’s regulatory and academic framework.
+
+Governance and Ownership: Information regarding the legal status of the institution, its governing bodies (e.g. Academic Board), and overall leadership structure is publicly available. This ensures that stakeholders are aware of who holds responsibility for academic decisions and operational oversight.
+D. Quality Control and Review of Public Information
+Review and Approval Process: All public information is reviewed by the Academic Director or a delegated quality assurance officer prior to publication. This includes ensuring consistency with approved programme documentation submitted to MFHEA. The IQA Committee periodically reviews the accuracy of published content and recommends updates where discrepancies or outdated information are identified.
+
+Communication Standards: The tone of all public communication is neutral, non-misleading, and free of exaggerated claims. Statements about course outcomes, career potential, or qualification value are based on verifiable data or clear graduate feedback.
+
+Accessibility and Inclusiveness: Public information is written in clear English and presented in accessible formats. The institution ensures that online content is mobile-friendly and adheres to basic web accessibility standards. Where possible, information sessions are recorded or supplemented with written transcripts for the benefit of applicants with differing access needs.
+E. Enquiries and Supplementary Information
+Prospective Student Support: The Admissions Office provides prompt responses to queries submitted by prospective students. This may include clarifications on programme content, eligibility, fees, or support services. Requests for supplementary information—such as detailed syllabi or sample assessments—are handled with transparency and care to ensure informed decision-making.
+
+Continuous Improvement: Feedback received from prospective students and applicants regarding the clarity or usefulness of public information is used to improve future editions of published content. This feedback loop contributes to the enhancement of student experience and public trust.
+
+
+10. Ongoing Monitoring and Periodic Review of Programmes
+
+A. Purpose and Principles
+Continuous Quality Enhancement: Advanced Learning implements an evidence-based quality cycle by embedding both ongoing monitoring and formal periodic review across all accredited programmes. These processes are guided by the institution’s Internal Quality Assurance Policy and aligned with the standards set by the MFHEA. The goal is to ensure that each programme remains current, fit for purpose, and effective in delivering its intended learning outcomes.
+
+Key Objectives of Programme Review:
+Achievement of Programme Objectives – Verifying that the programme is meeting its educational aims and delivering the specified knowledge, skills, and competences.
+Curriculum Relevance and Currency – Ensuring content reflects the latest subject knowledge, research, and professional practice.
+Alignment with Stakeholder Needs – Reviewing responsiveness to changing student profiles, labour market demands, and external stakeholder feedback.
+B. Ongoing Monitoring Mechanisms
+Day-to-Day Monitoring: Teaching staff and academic coordinators monitor student engagement, attendance, assessment results, and classroom dynamics throughout delivery. Moodle logs and assessment submissions are reviewed alongside in-class indicators to identify patterns or issues.
+
+Real-Time Interventions: Any challenges identified—such as high failure rates in a particular module or low engagement in online forums—trigger immediate action such as:
+Modifying delivery pace,
+Organising revision or support sessions,
+Clarifying assessment rubrics or expectations.
+
+Student Voice and Mid-Cycle Feedback: Students are encouraged to provide ongoing feedback through informal mechanisms (e.g. class discussions, tutorials) and mid-course evaluation forms. This helps instructors address concerns while the course is still in progress, strengthening the learner experience.
+C. Formal Periodic Programme Review
+Scheduled Reviews: Formal reviews are conducted annually or at the end of each delivery cycle (for short courses). These reviews involve a structured analysis of the programme and require submission of a Programme Review Report by the coordinator.
+
+Scope of Review: The review considers:
+Curriculum content and structure,
+Teaching and learning methods,
+Assessment validity and reliability,
+Student performance statistics,
+Student and staff feedback,
+Graduate outcomes and progression data,
+External Quality Assurance (EQA) reports, if available,
+Resource sufficiency (e.g. staff, facilities, learning materials).
+
+Review Committee: The Programme Review Report is submitted to the Academic Board or designated QA Committee. Where applicable, external experts or MFHEA feedback may be invited to supplement internal insights.
+
+Online and blended learning programmes are subject to the same periodic review cycle as face-to-face programmes, with the addition of digital-specific indicators. These include Moodle analytics, student engagement data, and learner feedback specific to online delivery. Reviews examine the effectiveness of the LMS, accessibility of digital resources, and staff readiness in e-learning delivery. Findings are used to update both content and delivery practices in line with evolving digital pedagogy.
+D. Stakeholder Engagement
+Student Involvement: Students contribute formally through end-of-course evaluations and may participate in review panels. Their insights are considered central to evaluating the effectiveness of learning and teaching strategies.
+
+External Input: For vocational or employment-oriented programmes, Advanced Learning engages relevant industry stakeholders to review alignment with labour market expectations. For example, representatives from logistics or business sectors may be consulted to ensure courses remain professionally relevant.
+E. Improvement Planning and Implementation
+Action Plans: Each review results in a documented action plan outlining areas for improvement, recommended changes, responsible persons, and implementation timelines. Actions may include:
+Updating module content or readings,
+Revising assessment formats,
+Providing staff training,
+Adding new support mechanisms for students.
+
+Communication of Changes:
+Internal – Teaching and administrative staff are informed of curriculum changes or procedural updates via team meetings or written notices.
+External – Any changes affecting students (e.g. updated assessments, new modules, policy amendments) are communicated through updated syllabi, direct emails, student portals, and the institutional website.
+
+F. Integration with Institutional Quality Assurance
+Data-Informed Decision-Making: Reviews draw on data sets outlined in Section 8 (e.g. retention, success rates, and satisfaction metrics) to ensure recommendations are evidence-based.
+
+Cyclical Quality Enhancement: Findings from programme reviews inform institutional development strategies, contributing to curriculum development, resource planning, and long-term improvement initiatives.
+
+Audit and Accreditation Readiness: Records of all reviews and resulting actions are securely maintained and available for external audits, validations, or re-accreditation visits.
+
+
+
+11. Recording and Maintaining Student Information
+
+A. Purpose and Scope
+
+Advanced Learning maintains a structured, secure, and compliant system for recording, managing, and archiving student information. This system spans the full student lifecycle, from initial application through to certification and beyond. Accurate record-keeping is essential not only for academic integrity and institutional accountability, but also for enabling long-term verification of awards. Core academic records are retained for a minimum of 40 years in line with MFHEA expectations, while other categories are managed according to defined retention schedules.
+
+B. Categories of Student Records
+
+Student files are created upon enrolment and regularly updated throughout the learner’s academic journey. Each official record includes the following core categories:
+
+Admission and identity documentation, such as the application form, proof of ID, and evidence of entry qualifications.
+Enrolment and registration data, including the programme name, cohort, registration date, and status updates (e.g. deferral or withdrawal).
+Academic progress and assessment results, recorded in both digital and, where applicable, physical formats. These include coursework, exam results, and feedback records, all linked to learning outcomes.
+Attendance and participation, tracked via registers for face-to-face sessions and LMS logs for online programmes.
+Formal communication and support notes, documenting any interventions, academic advising, accommodations, or disciplinary actions.
+Award and certification information, with certificate numbers, qualification titles, and issuance dates logged in the central awards register.
+
+C. Systems and Access Controls
+
+All records are stored securely using the institution’s Student Information Management System and Moodle LMS for online programmes. The digital infrastructure includes password protection, restricted access based on staff roles, and automatic backup procedures with off-site storage for business continuity.
+
+Physical records (e.g. signed assessments or ID copies) are kept in locked storage accessible only to authorised personnel. Lecturers have access only to relevant academic data for their students, while sensitive personal information is restricted to designated administrative staff.
+
+Any changes made to records (e.g. grade adjustments or corrections) are logged with a timestamp, reason, and authorisation details. This audit trail ensures transparency and accountability in student data management.
+
+D. Retention and Disposal
+
+Retention schedules are set according to regulatory guidance. Core academic records such as grades, enrolment data, and awards are retained for at least 40 years. Other supporting documentation, such as assessment scripts or attendance records, is retained for a minimum of five years post-course completion unless otherwise required.
+
+At the end of their retention period, records are securely disposed of. Digital records are permanently deleted, while physical documents are destroyed using secure shredding or incineration methods to protect data privacy.
+
+E. Student Access and Institutional Assurance
+
+Students have the right to request access to their own records, and Advanced Learning has a documented process for issuing transcripts, certificates, or official letters upon request. Requests are handled in compliance with GDPR and national data protection laws.
+
+
+Appendix 
+List of Items 
+Appendix A - Internal Compliance Checklist
+Appendix B - Lesson Plan Template
+Appendix C - Assessment Brief Template
+Appendix D - Feedback Templates & Assessment Rubrics 
+Appendix E - Internal Moderation Form
+Appendix F - Student Application Form
+Appendix G - Student Handbook & Orientation Pack
+Appendix H - Appeals Policy and Procedure
+Appendix I - Job Description - Digital Learning Coordinator
+Appendix J - Leave of Absence Form
+Appendix K - Staff Review Form
+Appendix L - Staff CPD Log and Plan Template
+Appendix M – Admissions Policy
+Appendix N - Plagiarism and Academic Misconduct Policy 
+Appendix O - Acceptable Use Policy (IT Systems and Digital Resources)
+Appendix P - Accessibility and Inclusion Policy
+Appendix Q - Equality and Diversity Policy
+Appendix R - Data Protection Policy
+Appendix S - Code of Ethics
+Appendix T - Complaints Policy and Procedure
+Appendix U - Formal Complaints Form
+Appendix V - Lecture Recording and Intellectual Property (IP) Policy
+Appendix W - Moderation and Assessment Procedure 
+Appendix X - Student Code of Conduct
+Appendix Y – Business Plan

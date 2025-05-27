@@ -1,0 +1,49 @@
+Digital Ethics & Assessment Integrity Policy
+1. Purpose
+This policy outlines the standards of ethical digital conduct and academic integrity in digital learning and assessment environments. It covers the use of artificial intelligence (AI), online platforms, and remote assessments to ensure that all academic work reflects genuine student effort and complies with institutional values.
+2. Scope
+This policy applies to all students and academic staff engaged in teaching, learning, assessment, and research at Advanced Learning. It is applicable across face-to-face, blended, and fully online modes of delivery.
+3. Principles of Digital Ethics
+Students must:
+Use digital platforms responsibly and professionally.
+Avoid using AI tools to impersonate, plagiarise, or misrepresent work.
+Not share institutional materials (e.g., tests, lecture recordings) publicly or with third parties.
+Follow copyright and citation rules when using multimedia or open-source content.
+Respect data privacy and confidentiality in all academic work.
+Staff must:
+Design assessments that discourage misuse of generative AI.
+Clearly indicate which digital tools are allowed or prohibited in each task.
+Model ethical use of AI and digital sources in teaching practices.
+4. Use of Artificial Intelligence (AI) Tools
+AI tools such as ChatGPT, Grammarly, or paraphrasing engines may only be used when explicitly permitted by the lecturer.
+Any AI-assisted content must be properly acknowledged and referenced.
+Submitting AI-generated work without disclosure is considered academic misconduct and subject to penalties under the Academic Integrity Policy.
+Students are encouraged to develop their own academic voice and critical thinking.
+5. Online and Remote Assessment Integrity
+To maintain fairness in digital assessments, the following practices must be observed:
+Student Responsibilities:
+Sit exams alone in a quiet, distraction-free space.
+Avoid using unauthorised materials, browsers, or chat platforms.
+Keep cameras and microphones on if required by invigilation protocols.
+Ensure their student ID is visible when requested.
+Complete assessments independently unless collaborative work is specified.
+Institutional Protocols:
+Online assessments may be monitored via secure LMS tracking or video-based proctoring.
+Students will be informed in advance of any monitoring requirements.
+Reasonable accommodations will be made for students with accessibility needs or technical limitations.
+6. Misconduct and Consequences
+Breaches of this policy (e.g., AI misuse, impersonation, exam cheating, or collusion) are treated as academic misconduct. Depending on severity, consequences may include:
+Formal warning
+Zero grade for the assessment
+Suspension or expulsion
+Entry recorded in the academic file
+Appeals can be made via the institution’s Appeals Policy.
+7. Staff Guidance for Assessment Design
+To support digital integrity, staff are encouraged to:
+Use question formats that require analysis, application, or reflection
+Randomise question banks where possible
+Avoid over-reliance on multiple-choice-only exams
+Include academic integrity reminders in assignment briefs
+Schedule assessments at secure times and use submission tracking tools
+8. Review and Oversight
+This policy is reviewed annually by the QA Committee and Digital Learning Lead, in alignment with developments in educational technology, assessment practices, and data ethics.

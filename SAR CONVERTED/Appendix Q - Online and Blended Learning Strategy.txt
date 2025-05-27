@@ -1,0 +1,41 @@
+Online and Blended Learning Strategy 
+Version: 1.0
+
+1. Purpose
+This strategy outlines Advanced Learning’s institutional commitment to delivering high-quality, inclusive, and engaging online and blended learning. It sets clear targets, defines delivery models, and aligns with MFHEA quality standards to ensure pedagogical effectiveness, staff readiness, and sustainable technology investment.
+2. Strategic Objectives
+By 2026, Advanced Learning aims to:
+Deliver 60% of all accredited programmes in blended format
+Ensure 100% of academic staff are trained in digital pedagogy
+Achieve 80% student satisfaction in online learning experiences
+Invest annually in digital infrastructure, including LMS tools, support systems, and staff CPD
+3. Delivery Models
+All models incorporate Moodle as the institutional LMS and Google Workspace for collaboration.
+4. Tutor Training and CPD Plan
+Staff will be supported through structured professional development:
+
+Training completion is tracked via the CPD log and reviewed in staff appraisals.
+5. Resource Investment & Digital Infrastructure
+To maintain robust delivery, the institution commits to:
+Maintaining a secure, scalable Moodle platform
+Licensing content creation tools (e.g., Canva, Loom, Quizizz, Turnitin)
+Providing all tutors with laptops and connectivity support
+Ensuring IT and LMS helpdesk support for both staff and students
+Funding up to 10 CPD hours/year per academic staff member
+6. Digital Inclusion and Accessibility
+Advanced Learning ensures all online learning:
+Meets basic accessibility standards (screen reader compatibility, captions, alt text)
+Includes asynchronous options for learners with limited connectivity
+Is mobile-compatible
+Provides technical onboarding and digital literacy guidance for new students
+7. Assessment Integrity in Online Delivery
+Assessments are designed to prevent plagiarism and impersonation
+Use of rubrics, LMS submission logs, and randomised question pools
+Reference: See Digital Ethics & Assessment Integrity Policy
+8. Quality Assurance and Monitoring
+Online course reviews are integrated into the annual Programme Review process
+Student feedback is collected for all blended/online modules
+Digital learning KPIs are tracked via the QA dashboard
+External moderators review both online and in-person assessments for consistency
+9. Review and Governance
+This strategy is monitored by the Academic Board and reviewed annually by the QA Committee and Digital Learning Lead. Adjustments are made based on learner needs, technological trends, and regulatory developments.

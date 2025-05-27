@@ -1,0 +1,1834 @@
+
+
+
+
+
+
+
+Advanced Learning
+
+
+
+PROVIDER ACCREDITATION
+
+LICENSING
+
+
+
+
+
+
+
+
+
+
+
+
+SELF-ASSESSMENT REPORT 
+
+
+
+
+
+
+
+
+
+
+12th May 2025, San Ġorġ Preca College Ħamrun Secondary School
+
+TABLE OF CONTENTS
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCTION
+
+Please provide a brief description of:
+The higher education institution, its mission and objectives, the study programs it offers;
+Institutional leadership, management structures and administration and staffing arrangements;
+Its students, their socio-economic background and relevant contextual information about the area in which the institution operates; 
+Teaching, learning and curriculum;
+Research, industry cooperation and internationalisation.
+
+In the case of an audit process, please provide an assessment of the institutional developments that have taken place since the previous accreditation process.
+
+Institutional Overview
+Institution Name: Advanced Learning
+
+Mission and Objectives:
+Advanced Learning is a Further and Higher Education Institution committed to delivering high-quality academic and vocational programmes that blend theoretical knowledge with real-world application. Its mission emphasizes inclusivity, innovation, and learner-centred approaches, aiming to foster critical thinking, leadership, and social responsibility among a diverse student body. The institution's strategic objectives focus on enhancing accessibility to education, aligning programmes with market needs, and contributing to Malta’s educational and socio-economic development.
+
+Study Programmes Offered:
+The institution currently offers a portfolio of accredited programmes aligned with the Malta Qualifications Framework (MQF), including:
+
+Award in Basic Courier Service (MQF Level 1, 2 ECTS)
+
+Award in Foundations of English for Foreigners (MQF Level 1, 5 ECTS)
+
+Award in Foundations of Maltese for Foreigners (MQF Level 1, 5 ECTS)
+
+Diploma in Developing Leadership (MQF Level 5, 60 ECTS)
+
+These programmes address key areas in language learning, vocational training, and leadership development, with delivery modes tailored to both online and face-to-face contexts.
+
+Institutional Leadership and Management:
+Advanced Learning is managed by KT Strategic Malta Ltd., with Kateryna Ulianchenko serving as the Head of Institution and sole Director. The governance structure includes a Board of Directors and an Academic Board, both of which ensure strategic direction, regulatory compliance, and academic integrity. The Internal Quality Assurance Committee, under the Academic Director, oversees QA processes. Roles such as programme coordinators, assessors, moderators, and administrative staff are clearly defined in the Internal Quality Assurance Policy, with responsibilities assigned according to qualifications and experience.
+
+Student Profile and Context:
+Advanced Learning primarily serves adult learners, including international students, third-country nationals (TCNs), and working professionals aged 19 to 65+, many of whom seek to improve their language proficiency, vocational readiness, or leadership skills. The institution operates in Malta, strategically located at the crossroads of Europe, North Africa, and the Middle East. This provides a multicultural context and positions the institution to contribute meaningfully to the island’s role as an educational hub.
+
+Teaching, Learning, and Curriculum:
+Programmes are designed to foster active learning through a combination of lectures, tutorials, collaborative activities, and real-world case studies. The curriculum integrates occupational standards, learning outcomes, and digital learning tools such as Moodle (for online delivery). Each programme emphasizes learner engagement, formative and summative assessments, and applied competencies relevant to employment or further study.
+
+Research, Industry Collaboration, and Internationalisation:
+As a newly established institution, Advanced Learning is in the process of building its research and external engagement capacity. Industry input has already shaped programme development—particularly in courier services and leadership training—ensuring alignment with labour market needs. Internationalisation is embedded through the recruitment of international students and the use of globally relevant curricula. Future plans include formal partnerships and outreach to international academic and professional communities.
+
+
+
+INSTITUTIONAL ACCREDITATION
+
+Mission and strategic management
+
+1.1 The institutional mission is concise, clear, and aligned with strategic planning.
+Status: Met
+Advanced Learning’s institutional mission is clearly defined, concise, and strategically aligned with its quality assurance and planning frameworks. The mission emphasises the delivery of inclusive, innovative, and learner-centred academic and vocational programmes that foster critical thinking, leadership, and practical competence in a diverse student population.
+The mission is formally articulated in Appendix A – Business Plan, Section 2: Background and Objectives, and is embedded within the institution’s strategic and quality assurance systems. As outlined in Appendix B – Internal Quality Assurance Procedure, Section 1A, the institution applies the PDCA (Plan–Do–Check–Act) quality cycle to ensure that all planning, review, and enhancement activities remain in alignment with its mission and long-term vision.
+This alignment is further reinforced through the newly introduced Strategic Development Plan (Appendix G) and Operational Plan (Appendix H), ensuring a coherent institutional approach from mission through to implementation.
+Supporting Documents:
+Appendix A – Business Plan
+Appendix B – Internal Quality Assurance Procedure
+Appendix G – Strategic Development Plan
+Appendix H – Operational Plan
+1.2 The institution has a strategic development plan that is measurable, time-bound, and achievable.
+Status: Met
+Advanced Learning has developed a formal Strategic Development Plan that fully meets the requirements of this standard. The plan, included as Appendix G, outlines the institution’s strategic priorities across a three-year timeframe (2025–2028). It is structured around the following components:
+Measurable Objectives: Each goal includes clear indicators of success (KPIs), enabling the institution to track progress against intended outcomes.
+Time-bound Actions: Activities are sequenced across short-term (Year 1), mid-term (Years 2–3), and long-term (Year 4+) stages to ensure phased implementation.
+Responsible Parties: The plan assigns ownership of each strategic action to designated institutional roles, including the Academic Board, Quality Assurance Committee, and Programme Coordinators.
+Review Mechanisms: An annual review cycle has been established, whereby progress is assessed through the Internal Quality Assurance system and reported to the Academic Board.
+The Strategic Development Plan directly aligns with the institutional mission as outlined in Appendix A – Business Plan, and it integrates the PDCA (Plan-Do-Check-Act) model referenced in Appendix B – Internal Quality Assurance Procedure. It also supports resource planning and risk management in line with the Operational Plan (Appendix H) and Business Continuity Plan (Appendix J).
+This development addresses the gap noted in the previous version of the SAR and demonstrates the institution’s capacity for strategic planning and institutional self-governance.
+Supporting Documents:
+Appendix G – Strategic Development Plan
+Appendix A – Business Plan
+Appendix B – Internal Quality Assurance Procedure
+Appendix H – Operational Plan
+Appendix J – Business Continuity Plan
+1.3 There is an operational plan which describes future activities derived from the strategic plan, sets Key Performance Indicators (KPIs) and timelines together with resources needed for their implementation, and defines the responsibility for implementation of the goals.
+Status: Met
+Advanced Learning has developed a standalone Operational Plan, included as Appendix H, which translates the institutional priorities outlined in the Strategic Development Plan (Appendix G) into concrete, actionable steps.
+The Operational Plan includes:
+Future Activities Derived from the Strategic Plan: Each action item is directly linked to a corresponding strategic objective, ensuring alignment and traceability.
+Key Performance Indicators (KPIs): Quantifiable performance metrics are assigned to each goal area to enable monitoring and evaluation.
+Defined Timelines: Implementation milestones are provided, mapped across annual cycles from 2026 to 2029.
+Resource Requirements: The plan specifies staffing, financial, and infrastructural resources required for successful execution.
+Assigned Responsibilities: Implementation ownership is assigned to institutional roles such as the QA Officer, Programme Coordinators, and the Academic Board.
+This plan is formally integrated into the governance structure through review and oversight by the Quality Assurance Committee, as detailed in Appendix B – Internal Quality Assurance Procedure, ensuring accountability and adaptability.
+Together, the Operational Plan and Strategic Development Plan provide a cohesive framework for institutional planning, resource allocation, and performance monitoring, fully satisfying the requirements of this standard.
+Supporting Documents:
+Appendix H – Operational Plan
+Appendix G – Strategic Development Plan
+Appendix B – Internal Quality Assurance Procedure
+
+1.4 The allocation of the institutional financial resources is done through a transparent budgeting process and is aligned to the strategic and operational plans.
+Status: Met
+Advanced Learning has established a transparent and structured budgeting process that directly supports its strategic and operational priorities. The institution’s Financial Plan spreadsheet (Appendix C) provides a detailed breakdown of projected income and expenditures across key areas, including staffing, programme delivery, technology, marketing, and quality assurance.
+Following the development of the Strategic Development Plan (Appendix G) and Operational Plan (Appendix H), all major budget lines have been reviewed and aligned to institutional objectives. Financial allocations are clearly linked to:
+Programme Development and Expansion
+Staffing and Professional Development
+Technology and Digital Infrastructure
+Quality Assurance Processes
+Learner Support and Accessibility Initiatives
+This financial planning structure ensures that resources are allocated in a way that enables goal implementation across the 3-year strategic cycle. Budgeting decisions are reviewed by senior management, with oversight by the Academic Board and Quality Assurance Committee, in line with governance procedures outlined in the Internal Quality Assurance Procedure (Appendix B).
+Supporting Documents:
+Appendix C – Financial Plan Spreadsheet
+Appendix G – Strategic Development Plan
+Appendix H – Operational Plan
+Appendix B – Internal Quality Assurance Procedure
+
+1.5 The institution has a plan that ensures the business continuity of all its major processes. The plan takes into account all possible risks and mechanisms for their prevention as well as strategies for risk assessment and mitigation.
+Status: Met
+Advanced Learning has established a formal Business Continuity Plan (BCP), included as Appendix J, which ensures the continuity of all major institutional processes, including academic delivery, digital systems, and student support services.
+The BCP outlines:
+Key Risk Types: Including system failures, staffing disruptions, cyber incidents, natural disasters, and public health emergencies.
+Prevention & Mitigation Strategies: Clear actions and safeguards are in place to minimise the likelihood and impact of each identified risk.
+Risk Assessment Framework: Based on probability and impact, with prioritisation indicators.
+Response Protocols: Including incident response procedures, communication chains, decision-making roles, and recovery timelines.
+Continuity of Core Services: Specific plans are included for the uninterrupted delivery of online platforms such as Moodle LMS, academic delivery (both on-site and online), and essential administrative and support functions.
+This BCP is reviewed annually under the institution’s governance framework as part of QA oversight, and it complements the risk management processes outlined in Appendix B – Internal Quality Assurance Procedure.
+Supporting Documents:
+Appendix J – Business Continuity Plan
+Appendix B – Internal Quality Assurance Procedure
+
+1.12 Strategic and operational plans mention online and blended learning.
+Status: Met
+Advanced Learning’s commitment to online and blended learning is explicitly addressed across its key institutional planning documents. The Strategic Development Plan (Appendix G) and the Operational Plan (Appendix H) both include specific objectives to enhance digital learning capacity and expand programme offerings through online and blended modalities.
+Key components include:
+Targeted Growth: Annual goals for launching new online or blended programmes, with defined timelines.
+Resource Investment: Strategic allocation of funds for digital infrastructure, including continued use and enhancement of the MoodleCloud VLE.
+Tutor Training: Staff development initiatives focused on digital pedagogy and online learner support, referenced in the strategic priority areas of professionalisation and innovation.
+Monitoring Indicators: Inclusion of KPIs related to learner engagement, platform usage, and retention in digital formats.
+
+In addition, the Online and Blended Learning Strategy (Appendix Q) provides a comprehensive institutional roadmap for the delivery, support, and evaluation of online and blended programmes. This strategy ensures consistency with MFHEA requirements and is operationalised through QA monitoring as outlined in Appendix B – Internal Quality Assurance Procedure.
+Online delivery modes are also consistently embedded in individual Programme Application Forms, such as the Award in Basic Courier Service as well as the institutional self-description in Appendix D – Provider Accreditation Form Part B.
+Supporting Documents:
+Appendix G – Strategic Development Plan
+Appendix H – Operational Plan
+Appendix Q – Online and Blended Learning Strategy
+Appendix A – Business Plan
+Appendix B – Internal Quality Assurance Procedure
+Appendix D – Provider Accreditation Form – Part B
+Appendix E - Award in Basic Courier Service – Programme Application
+
+SWOT Analysis – Standard 1: Institutional Development, Governance & Planning
+Strengths
+Strategic Alignment and Clarity: The institutional mission is concise, well-articulated, and consistently aligned with strategic and operational planning documents (Appendices A, G, H).
+Structured Planning Framework: The PDCA quality cycle is systematically integrated across institutional processes, as evidenced in the Internal Quality Assurance Procedure (Appendix B).
+Robust Documentation: Availability of detailed and well-structured supporting documents, including the Strategic Development Plan, Operational Plan, Financial Plan, Business Continuity Plan, and Online and Blended Learning Strategy.
+Measurable and Time-bound Objectives: All strategic and operational plans contain KPIs, timelines, and designated responsibilities, reinforcing implementation accountability.
+Digital Readiness and Innovation: Strategic inclusion of online and blended learning demonstrates adaptability and a forward-thinking approach.
+Weaknesses 
+Relatively New Strategic Implementation: As plans such as the Strategic Development Plan and BCP were "newly introduced," institutional maturity in actual execution and impact assessment may still be in the early stages.
+Dependence on QA Oversight: Heavy reliance on QA governance for review and accountability could create operational bottlenecks or inertia if capacity within QA committees is limited. 
+Limited Stakeholder Engagement Evidence: The document currently offers minimal reference to the involvement of staff, students, or external stakeholders in shaping or reviewing strategic priorities. This is primarily due to the institution not having commenced operations, as it is still awaiting formal accreditation. 
+Opportunities
+Alignment with National Digital Priorities: The emphasis on digital and blended learning aligns with national and EU-level policies promoting digital transformation in education.
+Expansion into New Learner Markets: Inclusion of vocational and language awards targeting specific demographics (e.g. couriers, foreigners) creates opportunities for niche programme growth and societal impact.
+Enhanced Visibility and Accreditation: Demonstrating strong institutional planning and alignment with MFHEA standards strengthens the case for full provider accreditation and credibility.
+ Challenges 
+Sustainability of Financial Resources: Continued strategic alignment may require consistent financial investment, posing a risk if projected revenues fall short or external funding fluctuates.
+Regulatory and Technological Shifts: Changing MFHEA standards or shifts in digital learning technologies may require ongoing plan updates and resource reallocation.
+Scalability and Human Capital: Implementing time-bound, resource-heavy strategies across several areas (QA, tech, staffing) may strain smaller teams or institutions with limited personnel.
+ 
+Compliance level: Substantially Compliant
+ 
+
+ 
+
+
+
+
+
+Governance, organisational structure and administration
+
+2.1 The procedures and criteria for the election/appointment of leadership positions and governance bodies are clearly defined in institutional regulations and made transparent to the academic community of the institution.
+Status: Met
+Advanced Learning has clearly defined and formally documented procedures for the appointment and, where applicable, election of individuals to institutional leadership and governance roles. These procedures are set out in Appendix B – Internal Quality Assurance Procedure, Section 1B: Responsibilities with Respect to Quality Assurance. The document outlines:
+Structure and Composition of governance bodies, including the Academic Board, Quality Assurance Committee, and Programme Committees.
+Appointment Mechanisms for key leadership positions, such as the Head of Institution and Academic Director, who are nominated and approved by the Board of Directors based on relevant qualifications and professional track records.
+Election/Nomination Procedures for staff and student representatives, who are selected via internal nomination or democratic processes.
+
+2.2 The persons occupying leadership positions and those sitting on senior governance bodies are qualified and fit for the responsibilities of their roles.
+Status: Met
+Advanced Learning ensures that all individuals appointed to senior leadership positions and governance bodies possess the necessary qualifications, experience, and competencies to fulfil their responsibilities in line with MFHEA standards.
+The Provider Accreditation Form – Part B (Appendix D) includes a detailed profile of the Head of Institution, outlining both academic credentials and professional background through an attached CV. Governance is overseen by KT Strategic Malta Ltd., and the Academic Board and Quality Assurance Committee are composed of members with demonstrated expertise in education management, programme development, and quality assurance.
+Role-specific competency requirements are further articulated in Appendix B – Internal Quality Assurance Procedure, Section 1B, which sets out the qualification and experience criteria for key institutional roles including:
+Academic Director
+Programme Coordinator
+Quality Assurance Officer
+These standards ensure that governance and leadership responsibilities are carried out by suitably qualified individuals capable of upholding academic integrity, regulatory compliance, and strategic oversight.
+Supporting Documents:
+Appendix D – Provider Accreditation Form – Part B
+Appendix B – Internal Quality Assurance Procedure
+Appendix W – Organogram & CVs
+2.3 Provisions are made for membership of governance bodies to include representatives of all stakeholders – students, academic and administrative staff and, where possible, representatives of the labour market.
+
+Status: Met
+
+Advanced Learning’s governance structures are inclusive of all relevant stakeholder groups. As outlined in Appendix B – Internal Quality Assurance Procedure, Section 1B: Responsibilities with Respect to Quality Assurance, the composition of bodies such as the Academic Board, Quality Assurance Committee, and Programme Review Panels ensures broad stakeholder engagement.
+
+Stakeholder representation includes:
+Students: Elected class representatives contribute to governance discussions and structured feedback processes.
+Academic and Administrative Staff: Participating through formal appointment or internal selection, ensuring internal perspectives inform academic and operational decision-making.
+Labour Market Stakeholders: Industry professionals, employer representatives, and academic consultants are involved in programme design and review, particularly for vocational and market-responsive qualifications.
+
+This inclusive governance model promotes transparency, responsiveness, and alignment with both learner needs and current labour market demands.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+2.4 There is a formally adopted organisational structure where governance, decision making, and distribution of responsibilities of all levels and units are clearly defined in an achievable and realistic manner.
+
+Status: Met
+
+Advanced Learning has a formally adopted organisational structure, clearly defined in Appendix B – Internal Quality Assurance Procedure, Section 1A: Organisation of the Quality Assurance System. This structure outlines the hierarchy and interrelation of the institution’s governing and academic bodies, ensuring clarity in decision-making and accountability.
+
+Key institutional roles are defined, including:
+Board of Directors
+Head of Institution
+Academic Director
+Programme Coordinators
+Assessors and Internal Moderators
+Internal Quality Assurance Committee
+
+Each role is further elaborated in Section 1B of the same document, which sets out specific responsibilities, reporting lines, and quality assurance functions. The distribution of duties is proportional to the institution’s current operational scale and future growth plans, ensuring that governance and academic oversight are both effective and realistic.
+
+This structure supports internal communication, promotes institutional coherence, and provides a scalable model for expansion as new programmes are introduced.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+2.10 A key managerial post or unit dedicated to the management of online and blended learning from an educational point of view is included in the organisational structure of the institution.
+
+Status: Met
+
+Advanced Learning has addressed this requirement by assigning the responsibilities of the Digital Learning Coordinator role to the Academic Director for the time being. While the role is not formally defined within the organisational structure currently it is reflected in the Internal Quality Assurance Procedure (Appendix B, Section 1B: Responsibilities with Respect to Quality Assurance), it will be absorbed by the Academic Director until a dedicated post-holder is required and appointed.
+
+The Digital Learning Coordinator is responsible for:
+Educational oversight of online and blended learning, including maintaining content quality and consistency across the MoodleCloud VLE.
+Supporting tutor development in digital pedagogy through ongoing training and resource development.
+Monitoring learner engagement and feedback across online platforms to improve virtual learning experiences.
+Liaising with Programme Coordinators to ensure digital delivery remains aligned with programme learning outcomes and MFHEA standards.
+
+The role supports the implementation of the Online and Blended Learning Strategy (Appendix Q) and contributes directly to institutional quality assurance and strategic development goals related to digital learning.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix Q – Online and Blended Learning Strategy
+Appendix D – Provider Accreditation Form – Part B
+
+2.11 Sufficient resources are allocated to cater adequately for the technical infrastructure, training, and systems for online and blended learning.
+
+Status: Met
+
+Advanced Learning has formalised its commitment to supporting online and blended learning through dedicated planning and resource allocation, addressing all aspects of technical infrastructure, staff training, and learner support.
+
+Key elements include:
+The Operational Plan (Appendix H) includes a digital infrastructure budget for VLE maintenance, cloud service subscriptions, and potential upgrades. Corresponding financial projections are detailed in Appendix C – Financial Plan Spreadsheet.
+A calendar of tutor training and digital pedagogy development (Appendix A.1)is included as part of the institution’s staff development strategy, supported by the Digital Learning Coordinator role introduced in Appendix B.
+The Online and Blended Learning Strategy (Appendix Q) outlines learner-facing strategies including LMS navigation support, tech helpdesk escalation routes, and engagement monitoring.
+Programme applications such as the Award in Basic Courier Service (100% online) demonstrate practical implementation of these resources in support of digitally delivered learning.
+
+These resources are aligned with the strategic and operational goals outlined in Appendices G and H, ensuring sustainability and quality in digital provision.
+
+Supporting Documents:
+
+Appendix H – Operational Plan
+Appendix Q – Online and Blended Learning Strategy
+Appendix C – Financial Plan Spreadsheet
+Appendix B – Internal Quality Assurance Procedure
+Appending E - Programme Application & Descriptor– Award in Basic Courier Service
+Appendix A.1 - Staff CPD Log and Plan Template
+
+
+SWOT Analysis – Standard II.2: Governance, Organisational Structure and Administration 
+Strengths
+Clear Governance Framework: Advanced Learning has a clearly defined organisational and governance structure (Appendix B), outlining responsibilities, reporting lines, and oversight functions across all levels.
+Transparent Appointment Procedures: The institution has formal, transparent, and documented processes for leadership appointment and representative elections, enhancing institutional integrity and accountability.
+Qualified Leadership: Leadership and governance roles are filled by professionals with relevant qualifications and experience, with role-specific requirements explicitly defined.
+Inclusive Representation: Governance bodies include a broad representation of key stakeholders, such as students, staff, and industry professionals, promoting participatory decision-making.
+Digital Learning Governance: A Digital Learning Coordinator post has been introduced, ensuring educational oversight for online and blended learning modes.
+Dedicated Resource Allocation: Resources for digital education—including training, infrastructure, and learner support—are specifically budgeted in alignment with strategic priorities.
+ 
+Weaknesses
+     New Role Implementation: The Digital Learning Coordinator role is a recent addition; while its responsibilities are well-defined, the actual impact and integration across programmes may still be in development stages.
+Potential Governance Load: With multiple overlapping roles (Academic Board, QA Committee, Programme Coordinators), smaller teams may face challenges in managing workloads effectively without role duplication or burnout.
+Limited Evidence of Rotation or Succession Planning: No mention is currently made of role term limits or succession planning, which could pose future continuity risks in leadership transitions.
+ 
+ 
+ Opportunities 
+Responsive Governance to Emerging Trends: Inclusion of labour market stakeholders allows for governance decisions that are responsive to changing external demands and evolving vocational education needs.
+Strategic Growth in Digital Delivery: A structured governance model for online learning positions the institution to expand its reach through flexible delivery formats, tapping into new learner segments.
+Enhancing Stakeholder Engagement: There is room to further formalise and document mechanisms for active stakeholder participation (e.g., through surveys, focus groups, or advisory panels) to inform governance decisions.
+ 
+Challenges 
+Regulatory and Technological Shifts: Rapid changes in educational regulations or digital learning technology could challenge the institution’s capacity to maintain agility and compliance.
+Sustaining Digital Delivery Quality: Ongoing investment will be required to maintain and improve digital infrastructure, tutor training, and learner support, especially as programme offerings scale.
+Maintaining Stakeholder Balance: Ensuring that all stakeholder voices (especially students and employers) continue to be meaningfully included in governance may require continuous effort and adaptation. 
+ 
+Compliance level: Substantially Compliant
+ 
+
+ 
+
+
+
+Quality management
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+3.1 The institution has formally adopted a quality management policy that describes the organisation of the quality management system, its processes, mechanisms, instruments, reporting, data collection, timeframes, and quality cycle. The policy is a public document.
+
+Status: Met
+
+Advanced Learning has formally adopted a Quality Management Policy, fully detailed in the Internal Quality Assurance Procedure Ver. 1.0 (Appendix B). The policy outlines the structure, scope, and operation of the institution’s quality assurance (QA) system, including:
+Organisation of QA: Clear description of the roles and responsibilities of the IQA Committee, Academic Board, Programme Coordinators, and support staff.
+Processes and Mechanisms: QA mechanisms include programme planning and review, internal and external moderation, learner and staff feedback, academic audits, appeals, and complaints handling.
+Instruments and Tools: Standardised templates and forms are used to collect, record, and monitor QA data at each academic and operational stage. Refer to Appendix V - QA Dashboard.
+Reporting and Timeframes: As detailed in Appendix B – Internal Quality Assurance Procedure Sections 1A and 2A, QA reviews and data reporting follow a defined annual cycle with checkpoints for each programme delivery phase.
+Quality Cycle: The institution adopts the PDCA (Plan–Do–Check–Act) model, guiding continuous improvement through evidence-based review and action.
+
+The policy will be made publicly available on the institution’s website upon licence confirmation to ensure transparency and stakeholder access, in accordance with MFHEA guidelines.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix V - QA Dashboard
+3.2 The responsibilities of departments, schools, faculties, institutes and/or other organisational units as well as those in leadership roles and students, with respect to quality management, are clearly defined.
+
+Status: Met
+
+Advanced Learning has clearly defined the responsibilities of all organisational roles and units in relation to quality management, as detailed in Appendix B – Internal Quality Assurance Procedure, Section 1B: Responsibilities with Respect to Quality Assurance.
+This section assigns specific quality-related duties to:
+Academic Director – Oversees the institution-wide QA strategy and ensures alignment with MFHEA standards.
+Programme Coordinators – Responsible for academic quality and delivery, continuous improvement, and programme-specific feedback cycles. At the initial stage of operations, this role will be absorbed by the Academic Director until additional academic staff are appointed.
+Assessors and Internal Moderators – Ensure consistency, fairness, and compliance in assessment, moderation, and grading practices.
+Administrative Staff – Support QA implementation through data management, communication, and learner services.
+
+Although students do not yet hold formal QA roles, their involvement is embedded through structured learner feedback mechanisms. This includes:
+Feedback Forms
+Programme Evaluations
+Class Representative Input (as per Standard 2.3)
+
+The institution recognises student feedback as a critical part of the continuous improvement cycle and plans to expand formal student representation in QA as part of its growth strategy.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+3.3 The quality management system forms part of the institutional strategic management system and covers the whole range of activities, both academically and non-academically.
+
+Status: Met
+
+Advanced Learning’s quality management system is fully integrated into its strategic and operational management framework, ensuring that quality assurance is embedded in both academic and non-academic functions.
+
+As outlined in Appendix B – Internal Quality Assurance Procedure, Section 1A: Organisation of the Quality Assurance System, the institution applies a comprehensive PDCA (Plan–Do–Check–Act) model across all areas of operation. This includes:
+Academic Activities: Teaching and learning, assessment design, programme development, digital delivery, and student feedback loops.
+Non-Academic Activities: Risk management, administrative operations, resource allocation, and staff professional development.
+
+The quality assurance system is directly linked to institutional goals as set out in the Strategic Development Plan (Appendix G) and Operational Plan (Appendix H). Strategic targets and KPIs are reviewed during termly QA coordination meetings, with findings informing leadership decisions and programme enhancements.
+
+This alignment ensures that quality assurance is a driving force behind institutional growth, decision-making, and continuous improvement, rather than a parallel or reactive function.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix G – Strategic Development Plan
+Appendix H – Operational Plan
+
+3.4 The institution has relevant structures in place to provide oversight arrangements for quality management; sufficient staff, including at least one quality management role occupied by an internal staff member, resources and administrative support are allocated for the operational activities of quality management.
+
+Status: Met
+
+Advanced Learning has established a formal internal structure to oversee and implement quality management activities. The institution has appointed an internal staff member to the dual role of Academic Director and Quality Assurance Lead, as detailed in Appendix B – Internal Quality Assurance Procedure, Section 1B.
+
+Oversight is maintained through:
+The Academic Board, which provides governance-level QA review and approval.
+The Internal Quality Assurance (IQA) Committee, responsible for monitoring, evaluation, and reporting of QA activities.
+Programme Coordinators and Internal Moderators, who support QA implementation at programme level.
+
+While the institutional team remains lean due to current operational scale, QA responsibilities are effectively distributed and embedded into existing academic and administrative roles. Administrative support is integrated into the operational remit of the Academic Director, ensuring that tasks such as documentation management, learner feedback analysis, and quality reporting are consistently handled.
+
+The Internal Quality Assurance Procedure also provides a scalable framework to accommodate growth in staffing and QA scope as additional programmes are introduced.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+3.5 The institution regulates procedures for the quality management of any elements of an entity’s activities that are subcontracted to or carried out by other parties; in the case of local representatives or franchises of foreign providers, explicit reference is made to the quality management procedures of the parent provider and the role of the local representative or franchise. 
+
+Status: Not Applicable
+
+Advanced Learning does not currently subcontract any academic or operational activities, nor does it operate as a local representative or franchise of a foreign education provider. All aspects of programme design, delivery, assessment, and student support are handled internally by the institution.
+
+Should the institution engage in such arrangements in the future, appropriate amendments will be made to the Internal Quality Assurance Procedure (Appendix B) to ensure that quality management obligations, oversight responsibilities, and compliance requirements related to third-party involvement are fully documented and regulated.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure (to be amended if subcontracting or franchising occurs)
+
+3.13 The quality management policy includes arrangements specific to online and blended learning.
+
+Status: Met
+
+Advanced Learning’s Internal Quality Assurance Procedure Ver. 1.0 (Appendix B) includes dedicated quality management procedures specific to online and blended learning. These arrangements ensure that digital delivery maintains the same academic standards, learner support structures, and review cycles as face-to-face provision.
+
+Key measures include:
+Regular programme performance reviews using Moodle analytics, student participation data, and learner feedback, overseen by the IQA Committee.
+Use of QA checklists to ensure LMS compatibility with multiple devices and low-bandwidth access requirements.
+Assessment of synchronous and asynchronous teaching methods for pedagogical effectiveness.
+Structured use of engagement tools, such as forums and peer-to-peer feedback activities, to encourage interactive learning.
+Compulsory CPD and digital pedagogy training for staff teaching online, tracked through internal development logs.
+Evaluation of third-party platforms to verify their pedagogical and technical appropriateness.
+
+These procedures are described in Section 7: Learning Resources and Student Support and Section 4: Student-Centred Learning, Teaching and Assessment of the IQA document. They are supported by evidence in the Provider Accreditation Form – Part B (Appendix D) and digital programme applications such as the Award in Basic Courier Service (Appendix E), which demonstrate implementation of these QA mechanisms.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix D – Provider Accreditation Form – Part B
+Programme Application – Award in Basic Courier Service
+SWOT Analysis – Standard II.3: Quality Management
+Strengths 
+Comprehensive Internal QA Policy: Advanced Learning has a formally adopted, detailed Internal Quality Assurance Procedure (Appendix B) that clearly outlines the QA system, roles, tools, processes, and PDCA-driven improvement cycle.
+Integrated QA Across Functions: Quality assurance is embedded into both academic and non-academic activities, reflecting strong alignment with strategic and operational planning (Appendices G and H).
+Dedicated Oversight Structures: Presence of an Internal Quality Assurance Committee, an Academic Board, and a designated internal Quality Assurance Lead demonstrates a solid governance model for QA.
+Scalable QA Framework: The current QA system is designed with scalability in mind, enabling institutional growth without compromising quality monitoring or compliance.
+Digital Learning QA Integration: Quality assurance for online and blended learning is robust, with processes covering learner engagement, platform compatibility, tutor training, and content quality.
+Transparent Public Commitment: Plans are in place to make the Quality Management Policy publicly available, enhancing transparency and stakeholder trust.
+ Weaknesses 
+Limited Student Participation in QA Governance: While students contribute through structured feedback, their role in formal QA governance (e.g. IQA Committee participation) is not yet fully developed.
+Concentrated QA Roles: The current dual role of Academic Director and QA Lead may limit operational bandwidth, especially as the institution expands or introduces more complex programme offerings.
+Manual Process Dependency: The institution still relies on manually collected data and feedback mechanisms; more automated QA tracking systems could enhance efficiency and data accuracy over time.
+Opportunities 
+Enhanced Stakeholder Engagement: As the institution grows, there is an opportunity to formally incorporate more diverse stakeholder feedback (e.g., alumni, employers) into the QA review cycle.
+Emerging Digital QA Tools: Adoption of AI-powered analytics or learner behaviour tracking tools (e.g., integrated within Moodle) could further improve quality assurance insights and responsiveness.
+Public QA Visibility: Publishing QA policies and review outcomes online can strengthen credibility and contribute to a more competitive institutional profile, particularly for international students or partners.
+ 
+
+Challenges 
+Regulatory Evolution: Continued compliance with evolving MFHEA quality frameworks and data reporting requirements will require regular policy updates and staff retraining.
+QA Staffing Limitations: As the institution expands, ensuring sufficient QA personnel and administrative support will be crucial to avoid overburdening existing roles and compromising implementation quality.
+Technology Reliance in QA: Ensuring ongoing access, reliability, and appropriate pedagogical use of digital platforms is vital—especially as more programmes adopt blended or fully online modes.
+ 
+Compliance level: Substantially Compliant
+
+
+
+Integrity, accountability and information management
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+4.1 The institution has a Code of Ethics through which it defends the values of academic freedom and ethical integrity; the Code is fit for purpose and is made publicly available on the institutional website.
+
+Status: Met
+
+Advanced Learning has developed and adopted a standalone Code of Ethics, included as      Appendix K, which affirms the institution’s commitment to academic freedom, ethical responsibility, and respect for human dignity across all areas of institutional activity.
+
+The Code of Ethics covers:
+Academic Freedom: The right of educators and learners to engage in critical inquiry and the open exchange of ideas.
+Ethical Conduct: Expectations for professionalism, honesty, and fairness in teaching, research, assessment, and institutional management.
+Respect for Human Dignity: Clear policies promoting non-discrimination, equity, and a safe learning and working environment.
+Stakeholder Responsibilities: Ethical expectations for students, academic and administrative staff, and governing bodies.
+
+The Code is aligned with the principles outlined in the Internal Quality Assurance Procedure (Appendix B) and will be made publicly accessible on the institutional website following licence confirmation, ensuring transparency and visibility to all stakeholders.
+
+Supporting Documents:
+Appendix K – Code of Ethics
+Appendix B – Internal Quality Assurance Procedure
+
+
+4.2 The Code of Ethics requires that all internal stakeholders act consistently with high standards of ethical conduct and academic integrity in research, teaching, and performance evaluation, and in the conduct of administrative duties, and to avoid conflicts of interest; the Code promotes a culture against intolerance, discrimination, and harassment of any kind amongst students and staff.
+
+Status: Met
+
+Advanced Learning’s newly adopted Code of Ethics (Appendix K) sets out clear ethical standards applicable to all internal stakeholders, including academic staff, administrative personnel, leadership, and students. The document outlines expectations for academic integrity, professional behaviour, and personal accountability, in alignment with national and European quality standards.
+Key provisions include:
+Academic Integrity: Clear guidance on honesty in research, teaching, assessment, and evaluation processes.
+Non-Discrimination and Harassment Prevention: Commitment to a culture of inclusion, equality, and a harassment-free environment across all institutional settings.
+Conflict of Interest Management: Procedures for the declaration and mitigation of potential conflicts, particularly in assessment, recruitment, and procurement.
+Ethical Responsibilities in Administration and Teaching: High standards of conduct are expected in all institutional functions.
+
+These principles are supported by mechanisms for reporting ethical breaches, as referenced in Appendix B – Internal Quality Assurance Procedure, Sections 4B and 5A.
+
+The Code of Ethics will be published on the institutional website, ensuring it is visible and accessible to all internal and external stakeholders.
+
+Supporting Documents:
+
+Appendix K – Code of Ethics
+Appendix B – Internal Quality Assurance Procedure
+
+4.3 The institution publishes on its website clear, accurate, objective, up-to-date, and readily accessible information about its activities, including programmes.
+
+Status: Partially Met
+
+Advanced Learning maintains a functioning and publicly accessible website at , as noted in the Provider Accreditation Form – Section B6 (Appendix D). The website currently provides general institutional information, contact details, and a summary of its educational mission.
+
+However, full public-facing programme information — including programme titles, MQF levels, ECTS credits, entry requirements, intended learning outcomes, and delivery modes — is not yet published.      
+
+Programme details have been fully prepared and documented in internal application forms, such as the Award in Basic Courier Service (Appendix E) and other programme submissions. The institution has committed to:
+Publishing full programme specifications upon MFHEA approval. Full programme specifications have already been developed and are currently hosted on an unpublished version of the institutional website. These will be made publicly accessible immediately upon receiving MFHEA approval.
+Ensuring that published content is clear, regularly updated, and accessible to all prospective students.
+Implementing a content update calendar as part of the QA system to ensure continued accuracy and currency of website information. Refer to Appendix X - Website Content Update Calendar Template.
+
+Supporting Documents:
+Appendix D – Provider Accreditation Form – Part B
+Appendix E - Programme Applications 
+Appendix B – Internal Quality Assurance Procedure 
+Appendix X - Website Content Update Calendar Template
+
+4.4 The institution has defined information management regulations, including on data protection and the protection of user privacy, aligned with GDPR provisions.
+
+Status: Met
+
+Advanced Learning has formally defined and implemented information management regulations that are fully aligned with the General Data Protection Regulation (GDPR) and MFHEA expectations. These are set out in Appendix B – Internal Quality Assurance Procedure, specifically:
+Section 8: Information Management
+Section 8C: Data Protection and Security
+
+Key elements include:
+A comprehensive Data Protection Policy outlining the principles of lawful collection, processing, and secure storage of personal data.
+Clearly defined Retention and Disposal Schedules, including adherence to national record-keeping standards (e.g., 40-year minimum for core academic records) and certified secure destruction procedures.
+Digital Consent Management, with explicit student consent obtained at enrolment for data use, platform access, and third-party sharing.
+Data Breach Notification Protocols, role-based access restrictions, and multi-level security controls to limit risk and exposure.
+Staff Training Requirements, including GDPR-focused training delivered at induction and renewed every two years, alongside use of standardised documentation templates and secure audit trails.
+
+These measures ensure robust compliance with data governance and privacy obligations, safeguarding institutional integrity and user rights.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+4.9 Staff understand the ethical implications of their actions at all times and attention is paid to the application of principles of academic ethics in the digital and online environment.
+
+Status: Met
+
+Advanced Learning has incorporated clear provisions on academic ethics in digital and online environments through its newly adopted Digital Ethics & Assessment Integrity Policy (Appendix P) and reinforced these through the Code of Ethics (Appendix K) and Internal Quality Assurance Procedure (Appendix B).
+
+Key provisions include:
+Tutor Responsibilities in Online Settings: Expectations for digital classroom conduct, learner privacy, equitable access, and professional boundaries are outlined and discussed during staff induction.
+AI and Automation: Guidance is provided on the appropriate use of generative tools (e.g., AI-assisted marking or content generation), with an emphasis on maintaining academic standards and human oversight.
+Digital Communication Protocols: The policy sets standards for email, messaging, and learning platform use to ensure respectful, professional, and secure digital engagement.
+Academic Integrity in Digital Spaces: Detailed anti-plagiarism procedures, including use of detection tools, clear student guidance, and reporting mechanisms.
+
+These guidelines are supported through induction training and ongoing QA monitoring, ensuring that staff understand and apply ethical principles consistently—whether operating in face-to-face, blended, or fully online environments.
+
+Supporting Documents:
+
+Appendix P – Digital Ethics & Assessment Integrity Policy
+Appendix K – Code of Ethics
+Appendix B – Internal Quality Assurance Procedure
+
+4.10 The institution has developed clear policies that cover issues such as recording of lectures and meetings, acceptable use, security, data protection, ownership of intellectual property, avoidance of creative theft, and commercialisation of ideas developed by staff and students.
+
+Status: Met
+
+Advanced Learning has adopted the following policies to provide comprehensive guidance on ethical and legal use of institutional resources, intellectual property, and digital technologies:
+Appendix L – Acceptable Use Policy (IT Systems and Digital Resources): Outlines acceptable behaviour and responsibilities when using institutional devices, platforms, and communication tools, including restrictions on misuse, content sharing, and cybersecurity protocols.
+Appendix M – Lecture Recording and Intellectual Property (IP) Policy: Defines procedures for recording lectures and meetings, including mandatory consent protocols, data storage guidelines, and access restrictions. The policy also clarifies ownership rights of learning materials, staff-created content, and student-generated intellectual property.
+Appendix O – Plagiarism and Academic Misconduct Policy: Reinforces protections against creative theft, including explicit procedures for handling misconduct, plagiarism detection, and assessment integrity.
+
+These documents work in conjunction with the institution’s Internal Quality Assurance Procedure (Appendix B) to ensure that staff and students operate within a transparent, fair, and legally compliant framework that respects privacy, protects innovation, and upholds academic integrity.
+
+Supporting Documents:
+
+Appendix L – Acceptable Use Policy
+Appendix M – Lecture Recording and Intellectual Property Policy
+Appendix O – Plagiarism and Academic Misconduct Policy
+Appendix B – Internal Quality Assurance Procedure
+Appendix Y - Lecture Recording and Intellectual Property Consent Form
+
+4.11 The digital tools used by the provider, e.g., VLE, LMS, communication tools, and resources, leave a digital footprint; the data is analysed and included in the review process, with full respect of data protection regulations.
+
+Status: Met
+
+Advanced Learning utilises Moodle as its Learning Management System (LMS) and has formally embedded digital learning analytics into its quality assurance cycle. As detailed in the Internal Quality Assurance Procedure (Appendix B):
+Section 8A: Data Collection and Management
+Section 10C: Formal Periodic Programme Review
+
+The institution collects and analyses LMS activity data, including:
+Login frequency
+Assessment submissions
+Forum and peer interaction
+Content access patterns
+
+These digital footprints are reviewed during termly QA meetings and annual programme reviews to identify learner engagement trends, flag students at risk, and inform curriculum adjustments and learner support strategies.
+
+A documented Learning Analytics Protocol (Appendix S) governs this process, ensuring consistent use of data for educational enhancement. All analytics activities are carried out in full compliance with the institution’s Data Protection Policy and GDPR obligations (see Appendix B, Section 8C), including:
+Explicit consent at enrolment
+Role-based access to analytics
+Secure data storage and processing
+
+This approach ensures that digital tools are used responsibly and meaningfully to improve educational outcomes while safeguarding student privacy.
+
+Supporting Documents:
+
+Appendix S – Learning Analytics Protocol
+Appendix B – Internal Quality Assurance Procedure
+Appendix L – Acceptable Use Policy (for communication tools and platforms)
+
+SWOT Analysis – Standard II.4: Integrity, Accountability and Information Management
+Strengths 
+Comprehensive Ethical Framework: The institution has adopted a robust and multi-layered ethical framework, including a standalone Code of Ethics (Appendix K), policies on digital ethics, intellectual property, academic misconduct, and acceptable use.
+Clear Accountability Mechanisms: Ethics-related breaches, whistleblowing, and appeals are formalised through structured procedures in the Internal Quality Assurance Procedure (Appendix B).
+GDPR-Aligned Data Management: Information governance is fully compliant with GDPR, with policies on data protection, storage, consent, breach response, and access controls clearly articulated and enforced.
+Digital Integrity Policies: Staff and students are guided by defined standards on digital classroom conduct, AI usage, lecture recording, and IP ownership, supported by Appendices L, M, O, and P.
+Evidence-Based Decision Making: The institution leverages Moodle’s learning analytics and communication tool footprints to monitor engagement and support continuous improvement in academic delivery (Appendix S).
+Commitment to Transparency: Plans are in place to make ethics policies and programme information publicly accessible, reinforcing institutional accountability.
+ Weaknesses 
+Website Content Not Yet Fully Updated: While programme information is prepared and internally available, public-facing details (e.g. MQF levels, ECTS, delivery modes) are not yet visible, pending MFHEA licensing. This temporarily limits transparency and informed decision-making for prospective learners.
+Limited Track Record on New Policies: Many policies (e.g. Digital Ethics Policy, Learning Analytics Protocol) are newly introduced; while well-conceived, their long-term effectiveness and integration into practice are yet to be demonstrated.
+Staffing Capacity for Policy Enforcement: The breadth of policies requires consistent implementation and monitoring, which may stretch existing staff resources, especially in areas like data governance and digital ethics training.
+ Opportunities 
+Enhanced Public Trust Through Visibility: Publishing policies and programme details will strengthen the institution’s external reputation and appeal, especially in competitive and international markets.
+Rising Digital Literacy Standards: Growing emphasis on AI ethics, digital pedagogy, and data-driven teaching presents opportunities for the institution to lead in responsible innovation.
+Institutional Differentiation Through Integrity Culture: A clear and well-documented ethics and accountability culture may serve as a differentiator in Malta’s higher education landscape and beyond.
+ Challenges 
+Evolving Legal and Ethical Norms: Keeping up with changing data protection legislation, ethical standards for AI use, and academic integrity challenges in digital settings will require continuous review and staff development.
+Cybersecurity Risks: As the institution increases its reliance on digital platforms and learning analytics, it faces higher exposure to cybersecurity threats and must ensure strong safeguards and rapid response protocols.
+Reputational Risk During Transition: The current partial status of public programme visibility, though temporary, could pose a reputational risk if not quickly resolved after MFHEA accreditation.
+ 
+Compliance level: Substantially Compliant
+
+
+
+Teaching and administrative staff
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+5.1 A comprehensive set of policies is accessible to all teaching and administrative staff. It includes provisions referring to recruitment, rights and responsibilities, performance evaluation, promotion, and professional development.
+
+Status: Met
+
+Advanced Learning has developed and implemented a comprehensive policy framework for teaching and administrative staff, ensuring clarity, transparency, and support across all stages of the employee lifecycle. These policies are fully outlined in the Internal Quality Assurance Procedure Ver. 1.0 (Appendix B):
+Section 6: Teaching Staff
+Section 6C: Staff Performance and Continuing Professional Development (CPD)
+
+The framework includes:
+Recruitment: Transparent, criteria-based recruitment processes with public advertisements, structured interviews, and standardised onboarding protocols.
+Rights and Responsibilities: Clearly defined professional conduct expectations, supported by procedures for conflict resolution and disciplinary action when necessary.
+Performance Evaluation: Annual staff appraisals using a combination of student feedback, peer review, and individual goal-setting. Outcomes are recorded in a Staff Review Form and linked to development planning.
+Promotion: Merit-based advancement pathways, including eligibility for leadership roles, recognition of teaching excellence, and project coordination opportunities.
+Professional Development: An institutional CPD framework, backed by a dedicated budget, offering training in areas such as digital pedagogy, inclusive learning, assessment practices, and leadership.
+
+All staff have access to these policies, which are introduced during induction and reinforced through mentoring and an annual CPD planning cycle. This ensures alignment between institutional goals, staff development, and quality assurance.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+
+
+
+
+
+5.2 The institution has defined clear, fair, and transparent processes for the recruitment and appointment of all staff; these promote academic and professional expertise and are considerate of gender balance within the staff body.
+
+Status: Met
+
+Advanced Learning has developed a formal Recruitment and Hiring Policy, integrated into the Internal Quality Assurance Procedure Ver. 1.0 (Appendix B) and supported by operational documentation to ensure fair, transparent, and inclusive recruitment practices.
+
+The policy includes:
+Public Job Advertising: All vacancies are advertised externally to ensure equal opportunity and open access.
+Panel-Based Selection: Recruitment panels include at least two senior staff members and follow a criteria-based evaluation process.
+Transparent Criteria: Selection is based on qualifications, relevant experience, and teaching competence, aligned with programme and institutional needs.
+Equity and Gender Balance: The policy explicitly encourages balanced representation and ensures non-discriminatory recruitment practices, in line with national employment law and the institution’s Code of Ethics (Appendix K).
+Appeals Procedure: A structured process is in place for candidates to request reconsideration or clarification of selection decisions.
+
+This framework promotes merit-based hiring while upholding inclusivity and professional standards.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix K – Code of Ethics
+
+5.3 The qualifications of teaching staff are at least one degree higher than the qualifications achieved by its completion. This requirement may be waived in justified cases, such as foreign language lecturers, industry guests, specialists, and doctoral candidates.
+
+Status: Met
+
+Advanced Learning ensures that all teaching staff meet qualification standards aligned with MFHEA regulations. As documented in Programme Applications – Section B22: Selection Criteria for Tutors/Lecturers (e.g., Appendix E):
+Academic tutors are required to hold at least an MQF Level 6 qualification in a relevant subject area for programmes at MQF Level 5.
+In justified cases, such as industry experts, native speakers, or guest lecturers, waivers are applied and clearly rationalised in the programme documentation.
+All staff must demonstrate professional competence, relevant work experience, and pedagogical skills appropriate to their teaching role.
+
+This approach balances academic standards with flexibility to include qualified practitioners who bring industry and real-world relevance to vocational education.
+
+Supporting Documents:
+
+Appendix E – Programme Application
+
+5.4 Arrangements are made for part-time and sessional teaching staff; in the case of teaching staff providing limited and ad hoc services, institutions monitor professional development activities that ensure they are up to date with developments in their fields and with the methodological requirements of their programmes.
+
+Status: Met
+
+Advanced Learning has formalised arrangements for part-time and sessional staff through new provisions in the Internal Quality Assurance Procedure (Appendix B) and dedicated procedures in the Performance Evaluation Policy (Appendix N).
+
+Key measures include:
+The inclusion of part-time, sessional, and ad hoc teaching staff under the institution’s performance and quality assurance framework.
+Requirement for all sessional staff to submit a CPD Declaration upon contract renewal, confirming continued engagement with their field and programme-specific pedagogical methods.
+Mandatory induction briefings and digital pedagogy onboarding for all newly contracted teaching staff, regardless of duration or hours worked.
+Ongoing access to institutional training events and QA communications to ensure that all contributors remain aligned with academic and assessment expectations.
+
+These measures ensure that part-time and ad hoc educators are effectively integrated into institutional quality structures and supported in maintaining professional relevance.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix N – Performance Evaluation Policy
+
+5.5 The number of teaching staff allows a student-staff ratio which is adequate for the optimal delivery of education, including the support necessary for students, and is comparable to European best practice.
+
+Status: Met
+
+Advanced Learning maintains a low student–staff ratio, especially during its initial phase of programme delivery, which ensures personalised academic support and manageable teaching loads. While previously informal, the institution has defined a target maximum ratio of 20:1 (students per tutor per course) in line with common European practice for small-group vocational education.
+
+     This benchmark has been formally adopted in the Internal Quality Assurance Procedure (Appendix B) under Section 6: Teaching Staff and is reviewed annually during QA meetings as part of academic planning and programme expansion forecasting.
+
+Staffing levels are adjusted based on:
+Programme modality (e.g., face-to-face vs online)
+Student enrolment numbers
+Complexity and level of learning outcomes
+
+This structured approach ensures sustainable growth while preserving high standards of delivery and learner engagement.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+5.6 The workload of teaching staff is appropriately quantified and regularly monitored; it includes the teaching contact hours, preparation, evaluation, and complementary functions, including development activities.
+
+Status: Met
+
+Advanced Learning has introduced a formal Teaching Workload Framework, integrated into Appendix B – Internal Quality Assurance Procedure, Section 6: Teaching Staff. This framework quantifies staff workload by accounting for:
+Teaching contact hours
+Preparation and marking time
+Assessment moderation and QA tasks
+CPD participation
+Administrative and coordination duties
+
+The Academic Director monitors individual workloads to ensure equity and avoid overcommitment, with adjustments made during termly QA meetings. This model ensures transparency and recognises the full range of academic responsibilities.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+5.7 The institution has a clear plan for all staff professional development for its full-time staff that is strategically driven, has a structured approach for identifying such needs, and allocates appropriate resources for its implementation.
+
+Status: Met
+
+Advanced Learning has implemented a structured, strategic professional development framework, detailed in Appendix B – Internal Quality Assurance Procedure, Section 6C: Staff Performance and CPD. Key features include:
+An Annual CPD Plan, drafted by the Academic Director with input from staff.
+CPD needs identification through performance reviews, team meetings, and self-assessment.
+Individual development logs to monitor participation.
+A dedicated CPD budget, allocated annually to support staff in training, conferences, and further study.
+
+This ensures that professional development is both need-driven and aligned with institutional priorities.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+5.8 Criteria and processes for performance evaluation are clearly specified and made known in advance to all staff; performance review also informs professional development aims.
+
+Status: Met
+
+Advanced Learning has adopted a Performance Evaluation Policy (Appendix N) to provide a clear, structured appraisal system for academic and administrative staff. The policy outlines:
+Evaluation criteria based on professional conduct, teaching effectiveness, feedback, and contribution to QA.
+Use of student feedback, peer observation, and management review in appraisals.
+A direct link between performance outcomes and CPD planning, ensuring that development needs are supported by institutional structures.
+
+This process is introduced during induction and reviewed annually by the Academic Director.
+
+Supporting Documents:
+
+Appendix N – Performance Evaluation Policy
+Appendix B – Internal Quality Assurance Procedure
+
+5.16 New staff orientation includes induction into the support mechanisms for tracking student participation and engagement in online courses and guiding students to support units in case of challenges.
+
+Status: Met
+
+All new online and blended learning tutors undergo a structured Digital Induction, as outlined in Appendix B – Internal Quality Assurance Procedure, Section 6A. This includes:
+Training on Moodle and other institutional digital tools.
+Methods for monitoring student engagement and tracking participation analytics.
+Referral protocols for academic or pastoral support services.
+Integration with the institution’s QA cycle for digital delivery.
+
+This ensures new staff are well-prepared to manage online learning and support student wellbeing effectively.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+5.17 The institution provides and/or facilitates for its academic staff specific training in online and blended learning, such as online learning design, developing and implementing pedagogies for online and blended learning, or successful delivery of online and blended learning.
+
+Status: Met
+
+Advanced Learning delivers targeted professional development in online and blended learning as part of its CPD strategy. Training includes:
+Instructional design for digital learning.
+Use of synchronous and asynchronous pedagogies.
+Assessment in digital environments.
+Student engagement and retention strategies.
+
+These sessions are tracked in staff CPD logs, monitored by the Academic Director, and aligned with institutional quality goals. This is documented in Appendix B – Section 6D: Staff Development and Performance Evaluation.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+SWOT Analysis – Standard II.5: Teaching and Administrative Staff
+Strengths 
+Comprehensive Policy Framework: Clear and accessible policies governing recruitment, performance, CPD, workload, and ethical conduct are integrated within the Internal Quality Assurance Procedure and supplementary documents (Appendices B, K, N).
+Transparent and Fair Recruitment: Recruitment and hiring processes are merit-based, externally advertised, and promote gender balance and inclusivity, with appeal mechanisms in place.
+Structured CPD System: Annual CPD plans, budget allocation, and individual development logs demonstrate a strategic, responsive approach to staff development.
+Robust Performance Evaluation: Performance criteria are transparent and consistently applied, using multiple data sources (e.g., peer reviews, learner feedback) to inform development plans.
+Inclusive of Part-Time Staff: Sessional and part-time staff are integrated into performance and development systems, with required CPD declarations and access to training.
+Digital Readiness: Staff receive targeted training in online and blended learning, with digital inductions covering learning analytics, support referral, and instructional design.
+ Weaknesses 
+Reliance on Dual Roles: The Academic Director also oversees QA, CPD, and performance review processes. While efficient for a small team, this may pose a sustainability risk as the institution grows.
+Relatively New Evaluation Policy: The formal Performance Evaluation Policy (Appendix N) is newly implemented; its effectiveness in driving improvement over time has yet to be fully evidenced.
+Heavy Policy Centralisation: Most processes are dependent on Appendix B and a small leadership group; more distributed oversight may be beneficial as staffing scales.
+ Opportunities 
+Staff Upskilling in Emerging Pedagogies: Continued investment in digital pedagogy, assessment integrity, and inclusive education presents an opportunity to future-proof delivery and attract high-quality teaching staff.
+European Benchmarking: The defined student–staff ratio and CPD standards allow for benchmarking against European vocational providers, supporting competitiveness and international collaboration.
+Professional Recognition: Transparent performance and development frameworks can support applications for external accreditation, academic promotions, or teaching awards.
+ Challenges 
+Recruitment in Niche Areas: As the institution expands its vocational and online programmes, it may face challenges sourcing qualified staff with both academic credentials and real-world experience.
+CPD Engagement for Ad Hoc Staff: Ensuring consistent CPD uptake among short-term or part-time lecturers may be difficult without strong incentives or contractual requirements.
+Evolving Digital Expectations: Rapid developments in EdTech and online delivery models require ongoing staff retraining, with potential cost and resource implications.
+ 
+Compliance level: Substantially Compliant
+
+
+Design, monitoring and review of programmes
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+6.1 The institution has formalised policies and procedures for the design of its programmes, which it implements effectively in practice.
+
+Status: Met
+
+Programme design at Advanced Learning follows a structured and formalised procedure outlined in Appendix B – Internal Quality Assurance Procedure, Section 2A. This includes:
+Use of programme development templates
+Needs analysis and benchmarking
+Internal and external moderation
+Formal approval by the Internal Quality Assurance Committee
+
+This framework has been successfully applied to the submission of four accredited programmes, including the Award in Basic Courier Service and Diploma in Developing Leadership (Appendix E).
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix E – Programme Applications & Descriptors
+
+6.2 In designing its programmes, the institution is guided by its mission and the needs of the labour market. The choice of study programmes is based on up-to-date sectoral know-how such as, but not limited to, market analysis, PEST analysis, and demographic research.
+
+Status: Met
+
+Programme development is mission-driven and informed by up-to-date labour market research, as documented in Appendix B – Section 3A. All programme proposals incorporate:
+PEST analysis
+Demographic and sectoral data
+National skills gap research
+Benchmarking against comparable qualifications
+
+Stakeholder engagement is referenced and integrated during programme development, especially in vocational areas.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix E – Programme Applications & Descriptors
+
+6.3 The institution ensures that the design process reflects the following characteristics:
+
+Status: Partially Met
+
+Advanced Learning has incorporated most of the required elements into its programme design framework, which is detailed in the Internal Quality Assurance Procedure (Appendix B) and demonstrated through its programme application forms (Appendix E). However, certain components, particularly external stakeholder consultation and student involvement, are still under development.
+
+Below is the breakdown of each sub-criterion:
+
+(a) Student workload defined in terms of ECTS credits and aligned with the 25-hour standard
+
+Status: Met
+
+All programme applications use the ECTS system and apply the 25-hour-per-credit workload calculation. This is clearly indicated in Section D of each programme application.
+
+Appendix E – Programme Applications & Descriptors
+
+(b) Target audience, regional targeting, eligibility, and selection criteria
+
+Status:  Met
+
+Detailed in Section B of each programme application, including eligibility, geographic focus (e.g., foreign workers), and entry requirements.
+
+Appendix E – Programme Applications & Descriptors
+
+(c) Learning outcomes structured by knowledge, skills, and competences
+
+Status: Met
+
+Clearly presented in the Learning Outcomes Table of each programme application, mapped to MQF level descriptors.
+
+Appendix E – Programme Applications & Descriptors
+
+(d) Appropriate learning dynamics and interaction
+
+Status: Met
+
+Interaction strategies for online formats are defined in Section B21, including forums, peer feedback, and tutor-led discussions.
+
+Appendix E – Programme Applications & Descriptors
+
+(e) Assessment methods and learning resources
+
+Status: Met
+
+Assessment methods and resources are addressed in Sections B23, outlining both formative and summative methods and material types.
+
+Appendix E – Programme Applications & Descriptors
+
+(f) Elective components
+
+Not Applicable at this stage
+
+Current programmes do not include electives. All modules are compulsory. This may be reviewed for future programme expansions.
+
+(g) Minimum staff qualification requirements
+
+Status: Met
+
+Defined in Section B22 of each application. Tutors delivering accredited programmes at Advanced Learning are generally expected to hold qualifications at least one MQF level higher than the level of the course they are assigned to teach.
+
+Appendix E – Programme Applications & Descriptors
+
+(h) Person(s) responsible for design, tech support, delivery, and student support
+
+Status: Partially Met
+
+While specific course design responsibilities are not individually named in each programme application, the roles responsible for technical support and student support are clearly defined on respective documentation. These align with institutional roles outlined in Appendix B – QA Structure, ensuring operational clarity and learner support.
+
+Appendix B and E
+
+(i) Alignment with MQF and Malta Referencing Report
+
+Status: Met
+
+Alignment is documented in the programme rationale and level mapping sections, showing conformity with the Malta Referencing Report.
+
+Appendix E – Programme Applications & Descriptors
+
+(j) Training needs identification involves external stakeholders
+
+Status: Partially Met
+
+Rationale sections cite general labour market alignment, but formal documentation of employer or external stakeholder consultation is currently lacking.
+
+Appendix E – Programme Applications & Descriptors
+
+(k) Employment-oriented programmes include industry stakeholder input
+
+Status: Partially Met
+
+While courier and leadership programme rationales reference market needs, employer input is not formally recorded or signed off.
+
+Appendix E – Programme Applications & Descriptors
+
+(l) Design enables student progression
+
+Status: Met
+
+Programmes are logically structured, with content building across modules to support learning outcomes and enable pathway progression.
+
+Appendix E – Programme Applications & Descriptors
+
+(m) Students involved in design
+
+Status: Not Yet Met
+
+No documented student input is currently included in the design phase. This is a future area for development.
+
+(n) Institutional approval process
+
+Status: Met
+
+Outlined in Appendix B – IQA Procedure, Section 3 where the design process includes internal moderation and final sign-off by the IQA Committee.
+
+Appendix B – Internal Quality Assurance Procedure
+
+6.4 The programmes’ structure and content ensure a logical sequencing of their components, a relevant balance between theoretical and practical activities, and sufficient opportunities for students to achieve the learning outcomes within a reasonable timeframe.
+
+Status: Met
+
+Programmes are sequenced to allow gradual knowledge and skills development, combining theoretical content with practice-based assessments such as case studies, presentations, and workplace tasks. This is reflected in Appendix E – Programme Applications & Descriptors, under delivery mode and assessment design.
+
+Supporting Document:
+
+Appendix E – Programme Applications & Descriptors
+
+6.5 In developing its programmes, the institution conducts comparative analyses of similar programmes in leading foreign higher education institutions.
+
+Status: Met
+
+Programme developers are required to benchmark curricula against international and national qualifications, as specified in Appendix B – Section 3A. 
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+
+6.6 The programmes’ design is conducted in close engagement with internal and external stakeholders, including administrative staff, external academic peers, students, and employers.
+
+Status: Partially Met
+
+     Internal engagement (Academic Director, QA Committee) is documented and active. However, external academic peers, students, and employers have not yet been formally included in the programme design process.
+
+To fully meet this standard, the institution will implement:
+Stakeholder feedback sessions
+Documented consultation records
+Approval forms from academic and industry reviewers
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+
+6.13 Programmes designed for online and blended delivery cater for any specific particularities at the level of learning outcomes, their delivery and assessment, and pedagogies that enhance student interaction and gauge student learning in digital environments.
+
+Status: Met
+
+The design of online and blended programmes is addressed in Appendix B, Sections 3A and 7A. Adaptations include:
+Problem-based learning
+Formative digital assessments
+Interactive learning tools (forums, multimedia, peer feedback)
+
+Learning outcomes and assessment are aligned with online environments and reviewed in QA cycles.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+6.14 Online and blended programmes are reviewed through established quality assurance methods that have been adapted to the specific pedagogical and methodological approaches.
+
+Status: Met
+
+Online programmes undergo the same review cycle as in-person courses, with additional attention to:
+Moodle analytics
+Learner engagement data
+Technology performance
+
+This is documented in Appendix B – Section 10C and the LMS Analytics Monitoring SOP, ensuring alignment of digital methods with quality assurance procedures.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix S – Learning Analytics Protocol
+
+
+
+
+
+SWOT Analysis – Standard II.6: Design, Monitoring and Review of Programmes
+Strengths 
+Formalised Programme Design Process: Advanced Learning has a documented, structured programme design framework governed by Appendix B, with processes that include benchmarking, internal moderation, and approval by the IQA Committee.
+Alignment with MQF and Labour Market: Programmes are aligned with MQF descriptors and developed in response to market research, PEST analysis, and skills gap assessments, ensuring relevance and regulatory compliance.
+Sound Academic Structure: Learning outcomes are consistently structured by knowledge, skills, and competences, and mapped to ECTS standards using the 25-hour-per-credit rule.
+Digital Delivery Integration: Programmes designed for online or blended delivery consider interactivity, digital assessment, and engagement, supported by Moodle analytics and QA monitoring procedures.
+Logical Programme Sequencing: Curriculum design demonstrates sound pedagogical progression and enables student achievement and potential progression pathways.
+ 
+Weaknesses 
+Limited Stakeholder Engagement in Design Phase: Formal consultation with students, employers, and external academic peers is not yet fully integrated or documented in the programme design process.
+No Elective Components: Current programmes are entirely compulsory; this may limit student agency, flexibility, or potential for interdisciplinary exploration.
+Lack of Documented Student Voice: Student input is currently absent from the design and review stages, which weakens the inclusivity and learner-centeredness of the process.
+ Opportunities 
+Developing Stakeholder Consultation Protocols: Implementing formal mechanisms (e.g. surveys, advisory boards, employer focus groups) would enhance credibility, relevance, and responsiveness of programmes.
+Expansion of Online and Blended Offerings: Building on successful online programme design (e.g. Basic Courier Service) offers potential for scalable, flexible education delivery nationally and internationally.
+Interdisciplinary and Modular Programme Innovation: Introducing elective components or stackable modules could attract broader audiences and align with lifelong learning trends.
+Visibility and Engagement through Public Consultation: Engaging stakeholders in future programme design could strengthen reputation, foster trust, and improve learner outcomes.
+
+
+ Challenges
+Need for External Academic Validation: As the institution grows, involving independent academic reviewers may become an accreditation expectation for maintaining academic rigour and external accountability.
+Employer Expectations for Customisation: Increasing demand for tailor-made vocational training may challenge standardised programme structures unless flexibility is built into future designs.
+Rapid Shifts in Market Demand: Keeping pace with evolving sector needs and technological trends may require quicker review cycles and more agile curriculum updates.
+ 
+Compliance level: Substantially Compliant
+
+
+
+
+Student-centred learning, teaching and assessment
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+7.1 The teaching methods and learning environments are planned to be student-centred and to stimulate students’ motivation, self-reflection, and engagement in the learning process. This includes:
+
+Status: Met
+
+Advanced Learning adopts a student-centred teaching and learning approach, supported by flexible delivery formats, digital innovation, and structured academic support. The approach is detailed in the Internal Quality Assurance Procedure (Appendix B) and demonstrated in programme applications (Appendix E).
+
+The institution meets the sub-criteria as follows:
+
+(a) Enabling flexible learning paths
+
+Status: Met
+
+ The online Courier Course is mainly delivered asynchronously via MoodleCloud (Appendix D), allowing students to study at their own pace, supporting work-life balance and diverse learning needs. The MQF Level 5 Diploma in Developing Leaders offers modular exit points. Students may complete individual Awards independently and later combine them—with the final project—to obtain the full Diploma.
+
+
+(b) Considering the different modes of delivery, where appropriate
+
+Status: Met
+
+Each programme clearly specifies its mode of delivery (online, blended, or face-to-face) in Appendix E. Teaching methods are adapted accordingly—for example, online courses include interactive tasks, while blended formats combine digital and live contact.
+
+(c) Using innovation in pedagogical methods, including digital technologies
+
+Status: Met
+
+Innovative teaching methods are embedded across delivery modes. Online courses use MoodleCloud to support interactive forums, quizzes, and digital feedback. For face-to-face delivery, tools like Mentimeter (for real-time student input), interactive panels, and optional AI-based platforms (e.g., TalkPal.ai for language support) enhance classroom engagement. Tutors also apply case-based learning and multimedia to promote critical thinking and reflection, as outlined in Appendix B, Section 4A: Teaching and Learning Strategy.
+
+(d) Providing students with adequate support from the teaching staff
+
+Status: Met
+
+Tutor responsibilities for learner support include:
+Scheduled check-ins
+Virtual drop-in sessions
+Timely formative and summative feedback
+These responsibilities are clearly described in Appendix B – Section 1B, ensuring continuous engagement and guidance throughout the course.
+
+Supporting Documents:
+Appendix B – Internal Quality Assurance Procedure
+Appendix D – Provider Accreditation Form – Part B
+Appendix E – Programme Applications & Descriptors
+
+7.2 The assessment system is designed in a way that ensures:
+
+Status: Met
+
+Advanced Learning’s assessment system is structured to uphold academic integrity, transparency, and alignment with intended learning outcomes. It is fully documented in the Internal Quality Assurance Procedure (Appendix B) and the Programme Applications (Appendix E), with the following safeguards in place:
+
+a) The criteria for and method of assessment as well as criteria for marking are published in advance in a way that is understandable to students
+
+Assessment briefs are provided at the start of each course, detailing task descriptions, marking criteria, and pass/fail thresholds. These are shared via Moodle and in hard copy. 
+
+b) If possible, more than one staff member is involved in the development of assessment tasks and student assessments
+
+Assessment design and grading are supported by internal moderation and, where applicable, second marking. Procedures are detailed in Appendix B – Section 4B: Assessment and Internal Moderation.
+
+c) The achieved learning outcomes are analysed in relation to the intended outcomes
+
+Moderation reports compare achieved and intended learning outcomes. These are reviewed by the QA Committee to inform programme improvement. Refer to Appendix B – Section 3A.
+
+d) The regulations for assessment take into account mitigating circumstances
+
+The institution provides clear mitigation and appeals procedures for cases involving illness, personal difficulties, or technical challenges. These are outlined in Appendix B – Section 
+4B. 
+
+e) There are quality management arrangements in place to ensure the fitness for purpose of the assessment (validity, reliability, efficiency, transparency, fairness, authenticity, adequacy of feedback)
+The assessment process incorporates multiple layers of quality assurance, including:
+Use of assessment rubrics
+Second grading and moderation
+Turnitin plagiarism detection
+Required feedback within two weeks, documented via moderation forms
+
+These practices ensure that assessments are valid, reliable, fair, and fit for purpose, in accordance with internal quality standards and MFHEA expectations.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix E – Programme Applications & Descriptors
+
+7.3 The institution regulates the maximum number of opportunities a student is granted to pass one given assessment
+
+Status: Met
+
+Programme applications (Appendix E – Section B23) and the Internal Quality Assurance Procedure (Appendix B – Section 4) specify that students are allowed one resit attempt per assessment. A final additional attempt may be granted upon formal Academic Board approval, ensuring a fair but limited reassessment framework.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix E – Programme Applications & Descriptors
+
+
+
+
+7.4 The institution has an appeal procedure which is well disseminated, makes clear the grounds on which academic appeals may be based, the criteria for decisions, and the remedies available
+
+Status: Met
+
+A comprehensive, tiered appeals process is in place. It includes informal resolution, formal submission, and review by an academic appeals panel. The process is outlined in Appendix B – Section 4B and is also included in the Student Handbook, ensuring accessibility and transparency.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+7.5 Where applicable, a work-based learning/internship is integrated with speciality studies and students are provided with adequate supervision; there are detailed procedures defined to ensure the specific contribution of the work-based learning/internship to the programme’s learning outcomes
+
+Status: Not Applicable
+
+Current programmes, such as the Award in Basic Courier Service, include simulated tasks to mirror real-world activities but do not require formal internships or supervised placements. While Advanced Learning has the framework to support work-based learning in the future (e.g., MOUs and supervision protocols), this benchmark is not currently applicable to the programmes being offered.
+
+Supporting Document:
+
+Appendix E – Programme Applications & Descriptors
+
+7.6 The institution has clearly defined the responsibilities for the supervisors of theses at all levels, including PhD students
+
+Status: Not Applicable
+
+Current offerings are at MQF Levels 1–5 and do not include thesis components. A thesis supervision framework will be developed when higher-level programmes are introduced.
+
+7.7 The high standard for the evaluation and defence of theses is ensured through transparent and fair procedures and by the involvement of highly qualified academic staff in the process, including those coming from outside of the institution
+
+Status: Not Applicable
+
+Thesis-based programmes are not offered at present. Future thesis procedures will include internal and external examiners and detailed rubrics to ensure rigour and transparency.
+
+7.13 Teaching, learning, and assessment are adapted to online and blended delivery and closely aligned with digital resources
+
+Status: Met
+
+Online programmes use Moodle-based materials, digital assessments, and asynchronous content delivery. Adaptation to digital environments is outlined in Appendix B – Section 6C.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+
+7.14 Online and blended arrangements cater for activities that exploit active, constructive, cooperative, and authentic learning, as well as student-to-tutor and student-to-student interaction in digital environments
+
+Status: Met
+
+Digital learning strategies include peer feedback, collaborative tasks, and interactive forums. These are described in Appendix E – Section B21 (Award in Basic Courier Service) and reinforced in Appendix B – Section 4, ensuring student engagement in both tutor- and peer-led activities.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix E – Programme Applications & Descriptors
+
+7.15 In online assessments, measures, such as online proctoring systems, are taken to require confirmation of the identity of the test taker and the integrity of the test taker environment
+
+Status: Met
+
+Moodle-based assessments include identity verification via platform access logs, randomised quiz questions, and timed tests. Plans are in place to implement secure proctoring add-ons for higher-stakes exams. These controls are described in Appendix B – Section 4B and supported by the Provider Accreditation Form – Section B6 (Appendix D).
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix D – Provider Accreditation Form
+
+
+
+
+SWOT Analysis – Standard II.7 Student-centred learning, teaching and assessment
+
+Strengths
+Clear QA Framework for Assessment: Internal Quality Assurance Procedure (Appendix B) clearly defines procedures for assessment design, marking, feedback, and appeals, supporting transparency and fairness.
+Use of MoodleCloud: The adoption of MoodleCloud (Appendix D) ensures flexibility and accessibility for students, and supports asynchronous and synchronous learning activities.
+Engagement-Driven Pedagogy: Programme applications (Appendix E) demonstrate a consistent use of student-centred methods, including group work, real-world tasks, and reflective activities.
+Moderation and Verification in Place: Internal moderation, second marking, and rubric use help ensure assessment validity and reliability.
+
+Weaknesses
+Limited Formal Documentation for Internships: While practical tasks are included in current programmes, formal work-based placement frameworks (e.g., MOUs, supervision models) are not yet established.
+No Thesis or Research-Based Programmes: Due to current programme levels (MQF 1–5), there are no thesis supervision structures or defence procedures in place, which may require rapid development as the institution grows.
+CPD for Digital Assessment Practices: Staff induction and CPD in online assessment ethics and methods is not yet formalised, particularly regarding online proctoring and student support mechanisms.
+
+Opportunities
+Expansion into Work-Based Learning: As new programmes are introduced, especially at MQF Levels 4–6, the institution can develop robust internship systems that enhance employability and industry engagement.
+Development of Advanced QA for Online Delivery: The growing relevance of digital learning allows the institution to further refine its online QA model, incorporating tools for learning analytics and adaptive assessment strategies.
+Potential for Strong Student Feedback Integration: The existing infrastructure (Moodle and internal QA cycle) allows for the integration of regular learner feedback loops to enhance student-centred delivery and programme refinement.
+
+Threats
+Technological Dependency: Reliance on digital systems for assessment and teaching may create barriers for learners with limited digital access or skills.
+Evolving Regulatory Expectations: MFHEA or EU-wide updates to assessment integrity and proctoring standards may require rapid institutional adaptation.
+Scalability Risks: As student numbers grow, maintaining personalised support, rigorous moderation, and timely feedback may strain resources without proportional increases in staffing and training.
+
+     Compliance level: Substantially Compliant
+
+
+Student administration and student support services
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+8.1 Accurate and reliable information about the institution, including the range of programmes, admissions procedures, services, scholarship opportunities, tuition and administrative fees, and other relevant information, is made publicly available to prospective students and other interested parties.
+
+Status: Met
+
+Advanced Learning ensures that accurate, up-to-date, and publicly accessible information is available to prospective students and stakeholders through multiple channels. The institution's official website ( - Unpublished - A working version for review purposes can be found at ) serves as the primary platform for sharing:
+Programme offerings and delivery formats
+Admission procedures and eligibility criteria
+Tuition and administrative fees
+Available student services and support mechanisms
+
+This information is supported by the Provider Accreditation Form – Section B6 (Appendix D) and detailed further in programme application forms (Appendix E), which include programme rationales, learning outcomes, assessment methods, and delivery modes.
+Additionally:
+Full information packs are provided during enquiry and enrolment phases
+Students are oriented to all institutional services during induction
+Marketing materials are available in both digital and print formats, ensuring broad accessibility
+These practices guarantee transparency, support informed decision-making, and align with MFHEA expectations on public information.
+
+Supporting Documents:
+
+Appendix D – Provider Accreditation Form
+Appendix E – Programme Applications & Descriptors
+
+8.2 Admissions requirements are clearly specified and appropriately determined for the institution and its programmes.
+
+Status: Met
+
+Advanced Learning has clearly defined admissions requirements that are consistent with MQF level descriptors and institutional academic standards. These are documented in:
+Section B18: Entry Requirements of each Programme Application (Appendix E and F)
+Appendix B – Internal Quality Assurance Procedure, Section 5: Admission and Enrolment
+
+Key elements of the admissions framework include:
+Minimum academic qualifications required per MQF level
+Language proficiency expectations
+Procedures for validating applicant eligibility through documentation review and, where applicable, interviews or placement tasks
+
+Admissions requirements are reviewed regularly during programme development and quality assurance cycles to ensure alignment with learning outcomes, target audience profiles, and sectoral demands.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Appendix E – Programme Applications & Descriptors
+
+
+8.3 A comprehensive set of policies is made widely available within the institution, providing clear and transparent information required for all phases of the student “life cycle” – admission, assessment, progression, suspension and termination of student status, mobility, recognition, certification and qualification award – including all concerning regulations, the rights and responsibilities of students, Code of Conduct, actions to be taken for breaches of conduct, responsibilities of relevant officers and committees, and penalties that may be imposed. Policies cater for the social dimension of higher education by taking active measures to safeguard the equity, inclusion, and diversity of the student body.
+
+Status: Met
+
+Advanced Learning has established a comprehensive policy framework that governs all phases of the student life cycle. These are documented in the Internal Quality Assurance Procedure (Appendix B), specifically:
+Section 1B – Responsibilities for QA
+Section 4B & 5A – Complaints, Appeals, and Misconduct Procedures
+Section 5 – Admissions and Enrolment
+Section 4 – Assessment, Progression, and Certification
+
+In addition, students have access to a Student Handbook provided during induction or  via the Moodle platform, which includes:
+Rights and responsibilities of learners
+Code of Conduct and disciplinary procedures
+Academic integrity expectations and penalties for misconduct
+Assessment rules, appeals process, and progression criteria
+Certification, award, and recognition procedures
+
+To support inclusion, equity, and diversity, the institution also implements:
+Accessible digital learning environments
+Differentiated instructional strategies
+Tailored academic support for diverse learning needs
+
+These documents and practices ensure transparency, student protection, and alignment with the social dimension of higher education, as defined by MFHEA.
+
+Supporting Documents:
+Appendix B – Internal Quality Assurance Procedure
+Student Handbook (available via Moodle)
+
+8.4 The institution regulates the maximum time a student can spend inactive within the institution (without engaging with their academic commitments and assessments) before their enrolment status is terminated and the student expelled.
+
+Status: Met
+
+Advanced Learning regulates student inactivity through a clearly defined procedure outlined in the Internal Quality Assurance Procedure – Section 5: Student Administration and Records (Appendix B). The policy states that:
+A student may remain inactive for a maximum of six consecutive months without academic engagement.
+After this period, a formal review letter is issued by the institution.
+If the student fails to respond or resume activity, academic status is withdrawn in accordance with institutional regulations.
+Exceptions are allowed under the mitigation and appeals framework for valid reasons, such as medical or personal circumstances, as detailed in Appendix B – Section 5.
+
+This approach ensures a balance between academic accountability and support for students facing legitimate difficulties, while maintaining programme integrity and operational predictability.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+8.5 There is a student agreement between the institution and each student which protects student rights and lawful interests.
+
+Status: Met
+
+Advanced Learning has developed a formal Student Agreement, signed by each student at the time of registration. The agreement outlines the mutual obligations between the student and the institution and serves to safeguard student rights and lawful interests.
+
+The agreement includes:
+Tuition and administrative fees
+Learning and behavioural expectations
+Reference to institutional policies, including assessment, appeals, and misconduct
+Data protection clauses aligned with GDPR
+A summary of the institution’s commitments to student support, learning resources, and certification
+
+This agreement ensures transparency, legal clarity, and protection for both parties. A sample Student Agreement is included in Appendix F.
+
+Supporting Document:
+
+Appendix F – Sample Student Agreement
+
+8.6 Appropriate policies and procedures are in place to deal with academic misconduct, including plagiarism and other forms of conduct breach.
+
+Status: Met
+
+Advanced Learning has implemented formal procedures to identify, investigate, and address academic misconduct, as outlined in the Internal Quality Assurance Procedure – Section 4B & 5A (Appendix B).
+
+The policy covers:
+Definitions of academic misconduct, including plagiarism, collusion, cheating, and data falsification
+Use of Turnitin and other detection tools to identify potential violations
+A structured investigation process, including academic review and, where necessary, a formal hearing
+Sanctions ranging from resubmission and grade reduction to termination of enrolment, depending on the severity and recurrence of the offence
+
+In addition:
+Guidelines, definitions, and examples are shared in the Student Handbook
+Misconduct policies are explained during student orientation and reinforced through programme documentation
+
+These mechanisms ensure academic integrity, procedural fairness, and consistency in the handling of misconduct cases.
+
+Supporting Documents:
+
+Appendix B – Internal Quality Assurance Procedure
+Student Handbook 
+
+
+
+
+
+8.7 The institution has made provision for academic tutors to support student progress as needed, as well as services for career development and psychological support. The needs of a diverse student population (including mature, part-time, employed, and international students as well as students with special needs) has been taken into account when planning the student support services.
+
+Status: Met
+
+Advanced Learning provides a structured and inclusive student support system that caters to both academic progression and personal wellbeing. These provisions are documented in the Internal Quality Assurance Procedure – Section 7: Learning Resources and Student Support (Appendix B).
+
+Key elements include:
+Assignment of an academic tutor to each student upon enrolment, with a minimum of two structured check-ins per semester
+A formal referral pathway for pastoral and psychological support, coordinated by the Student Services Officer, including access to licensed mental health professionals
+Career development support, including skills-building workshops and CV guidance (delivered in coordination with tutors or external partners)
+Recognition of the needs of a diverse learner population, including:
+Mature and part-time students: via flexible scheduling
+Employed learners: via asynchronous learning options
+International students: via multilingual communication and orientation
+Students with special needs: through adapted learning materials and reasonable accommodation procedures
+
+Support services are reviewed regularly through QA processes to ensure responsiveness, inclusivity, and student-centredness.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+
+8.16 Online support resources contribute to the creation of real engagement between the staff and students; direct support provided through a virtual communication system, such as a forum, a live video session, email, pre-recorded videos, is considered contact hours.
+
+Status: Met
+
+Advanced Learning effectively uses online support resources to foster meaningful engagement between staff and students. The Moodle platform includes:
+Live discussion forums
+Tutor Q&A boards
+Pre-recorded videos for flipped learning
+Live Zoom sessions, which are scheduled into the course timetable
+
+All of these forms of direct support are formally recognised as contact hours and are tracked through Moodle activity logs, which are reviewed during programme quality checks.
+
+These practices are described in:
+Provider Accreditation Form – Section B6 (Appendix D)
+Programme Applications – Section B21: Award in Basic Courier Services (Appendix E)
+
+The institution ensures that digital contact hours maintain parity with in-person learning and contribute actively to student progression and engagement.
+
+Supporting Documents:
+
+Appendix D – Provider Accreditation Form
+Appendix E – Programme Applications & Descriptors
+
+8.17 Learning Management Systems (LMS) provide activity log data about students’ access to material and tasks in online and blended delivery. Such data and learning analytics are checked and analysed to identify students who are lagging on online tasks and participation; the data assists the institution in identifying students at risk.
+
+Status: Met
+
+Advanced Learning uses MoodleCloud as its LMS and has implemented a structured learning analytics system to monitor student engagement and identify students at risk. This process is described in the Internal Quality Assurance Procedure – Sections 8A and 8B (Appendix B), which detail:
+Monitoring of login frequency, resource access, and assessment submission
+Weekly engagement reviews by tutors
+Scheduled analysis by the IQA Committee and Learning Support Team
+
+A dedicated LMS Analytics Monitoring SOP defines thresholds and actions. Students falling below engagement benchmarks are followed up by tutors and referred for academic or pastoral support. These analytics inform QA reviews and programme evaluations each semester.
+
+Supporting Document:
+
+Appendix B – Internal Quality Assurance Procedure
+.
+
+8.18 Information on whom to contact and where to seek technical support in case of access to the Learning Management System (LMS), Virtual Learning Environment (VLE), email, proctoring systems and to learning resources is presented to students on the institutional website, on course syllabi and course LMS. When possible, a chat room option is also provided to students on the website.
+Status: Met
+
+Students are provided with clear contact information for technical support across all digital systems. This information is:
+Included in Student Handbook
+Covered during orientation
+Available on the institutional website FAQ section
+
+Support is available via email, phone, and a ticketing system, which is currently being expanded. These details are documented in the Internal Quality Assurance Procedure (Appendix B)
+
+Supporting Document:
+
+Appendix B - Internal Quality Assurance Procedure
+
+8.19 Students’ orientation programme includes guidance on how student administration and student support services can be accessed online.
+
+Status: Met
+
+The institution delivers a comprehensive online orientation programme, which includes:
+A guided walkthrough of Moodle
+Instructions on accessing student administration, support services, complaints procedures, and communication channels
+A downloadable orientation checklist and access to an Orientation Module in Moodle
+
+These resources ensure students are equipped to navigate both academic and support services independently. A sample of this material is included in Appendix F.
+
+Supporting Document:
+
+Appendix F – Student Orientation Pack
+
+SWOT Analysis - II.8. Student administration and student support services
+
+Strengths
+Comprehensive Student Lifecycle Policies: The Internal Quality Assurance Procedure Ver. 1.0 (Appendix B) includes clear and structured policies addressing admissions, progression, suspension, appeals, academic integrity, and student conduct, supporting compliance across the full student life cycle.
+Clear Admissions Criteria and Agreements: Admissions requirements are clearly outlined in all programme applications (Appendix E), and each student signs a formal student agreement (Appendix F) outlining mutual rights and responsibilities.
+Accessible Orientation and Support Information: Students receive an Orientation Pack (Appendix F) that includes technical access guidance, contact points, and onboarding support tailored for online learners.
+Use of Moodle for Tracking and Engagement: MoodleCloud provides activity logs that support monitoring of student progress, with live forums, email, and video sessions facilitating contact and engagement (Appendix D).
+
+Weaknesses
+Limited Formalisation of Student Welfare Services: While basic academic support and informal pastoral care are in place, the institution does not yet have formalised psychological support services or a student well-being referral system.
+Learning Analytics Use Not Yet Formalised: Although MoodleCloud offers access tracking, there is no structured policy or protocol in place for regularly analysing student activity data or flagging students at risk based on online behaviour (Standard 8.17).
+No Dedicated Diversity or Disability Support Framework Yet: While inclusive practices are encouraged, there is currently no designated officer, policy, or resource structure addressing the needs of students with disabilities or specific learning needs.
+
+Opportunities
+Implementation of Formal Student Welfare and Referral System: The institution has the opportunity to introduce structured partnerships or referral protocols with counselling professionals or external services to support mental health and well-being.
+Enhancement of Learning Analytics for Early Intervention: By formalising the analysis of Moodle engagement data, the institution can proactively identify disengaged or struggling students and intervene early.
+Introduction of Peer Mentorship or Academic Coaching: With small cohorts, peer support initiatives or tutor-led academic coaching could be scaled easily to promote engagement and retention, especially in online settings.
+Development of Online Student Communities: The creation of virtual student spaces or moderated discussion forums would foster connection, belonging, and informal support in remote delivery models.
+
+Threats
+Risk of Student Isolation in Online Learning: Without enhanced peer support structures or psychological services, online students may feel disconnected, which could negatively impact retention and well-being.
+Scalability Pressure on Administration: As student numbers grow, manual processes in admissions, monitoring, and student support may strain administrative staff unless digital tools and automation are introduced.
+External Expectations for Inclusive Education: Regulatory bodies and funders are increasingly focusing on inclusivity, diversity, and mental health support, and the institution must be prepared to demonstrate compliance with emerging best practices.
+
+
+Compliance level: Substantially Compliant 
+
+
+ Learning resources and facilities
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+9.1. The premises dedicated for the educational and administrative activities of the institution are under the ownership or lawful possession (lease) of the institution.
+
+Status: Met
+
+     The institution operates from premises secured through legally binding lease agreements. This is documented Appendix Z - Premises Authorisation Letter.
+
+Supporting Document: Appendix Z - Premises Authorisation Letter
+
+9.2. The institution provides an adequate, attractive, and well-maintained physical environment of both buildings and grounds. Facilities fully meet relevant Maltese legislation and regulations.
+
+Status: Met
+
+The institution ensures that all facilities comply with health, safety, and accessibility regulations. Classrooms are digitally equipped and regularly maintained.
+
+Supporting Document: Appendix B 
+
+9.3. Appropriate provision for both facilities and learning resources is made for students and staff with physical disabilities or other special needs (such as visual or hearing impairments).
+
+Status: Met
+
+The institution's Inclusivity and Accessibility Policy, outlined in Section 7 of the IQA Procedure, ensures physical access, assistive digital resources, and tailored support for students with special needs.
+
+Supporting Document: Appendix B.
+
+9.4. Library and other associated facilities and services are available for extended hours beyond normal class time to ensure access when required by users.
+
+Status: Met
+
+While physical access is limited to administrative hours, students have 24/7 access to digital learning materials via Moodle or via the online library: www.perlego.com. This is covered in Appendix B – Section 7 and the Student Orientation Pack (Appendix F).
+
+Supporting Documents: Appendices B and F
+
+9.5. Up-to-date computer equipment and software are available and accessible for staff and students throughout the institution to support electronic access to resources and reference material.
+
+Status: Met
+
+All educational and administrative areas are equipped with modern computing devices and internet access. Staff and students use cloud-based tools for learning and file sharing.
+
+Supporting Document: Appendix B – Section 7
+
+9.6. Books, journals, and other materials, including online databases, are available in Maltese, English or other languages, as required for programmes and research organised at the institution. The main literature listed in the syllabi is made available by the institution either in hard copy or electronic format.
+
+Status: Met
+
+     Programme Applications (Appendix E – Section D13) list the required texts, which are provided in digital format via Moodle in English or Maltese, as appropriate to the programme.
+
+Supporting Document: Appendix E
+
+9.7. Technical support is available for staff and students using information and communications technology. Training programmes are provided to ensure effective use of computing equipment and appropriate software for assessments, teaching, and administration.
+
+Status: Met
+
+Technical support policies are described in the IQA Procedure – Sections 7. Support is provided by email, phone, and during student induction. Staff receive annual digital skills updates.
+
+Supporting Documents: Appendix B 
+
+9.8. Institutions that offer digital education shall ensure that their digital infrastructure has:
+a) Automated procedures to ensure continuity of service in case of failure of their equipment or software
+b) Backup systems, including real-time mirroring of data, full/incremental backups on site, and full/incremental backups offsite on physical data
+
+Status: Met
+
+MoodleCloud infrastructure includes real-time uptime monitoring, automated backups, and disaster recovery protocols, ensuring continuity of digital education services.
+
+Supporting Document: Appendix D 
+
+9.13. Any third-party digital resources purchased by the institution are scalable (expanded or upgraded to cater for an increased demand), avoid vendor lock-in (by using established standards) and are covered by a service-level agreement for maintenance and support by the vendor.
+
+Status: Met
+
+Third-party systems such as MoodleCloud and the Perlego digital library are selected based on their scalability, compliance with open standards, and vendor neutrality. Both platforms are governed by service-level agreements that include maintenance, user support, and system upgrades. This ensures sustainable access and adaptability as student enrolment or programme demands increase.
+
+Supporting Document: Appendix D
+
+9.14. Staff and students are able to access most of the institutional resources online without the need for being physically on campus; this is included in the orientation programme of new students.
+
+Status: Met
+
+All core services are accessible remotely via Moodle, email, and cloud tools. Orientation introduces students to these digital platforms.
+
+Supporting Documents: Appendix B and Appendix F 
+
+9.15. Students are able to access digital resources without the need to invest in high-end and expensive hardware and software. Resources are accessible on computing devices (both traditional laptops/desktops and smaller mobile devices like smartphones and tablets) with average specifications.
+
+Status: Met
+
+Moodle and institutional resources are accessible via basic internet-enabled devices (smartphones, tablets, or computers). No specialised software or high-end equipment is required.
+
+Supporting Document: Appendix D
+
+
+
+
+
+
+
+
+SWOT Analysis - I.1.	 Learning resources and facilities
+
+Strengths
+Reliable and Legally Secured Premises: The institution operates from leased premises with secure tenure, ensuring long-term continuity of administrative and training functions (Appendix B).
+Use of Scalable, Cloud-Based LMS: MoodleCloud, the institution’s primary learning platform, is hosted with SLA coverage, real-time backups, and mobile optimisation. This ensures continuity of service and accessibility for all learners (Appendix D).
+Comprehensive Digital Access for Students: All syllabi-required reading material is provided electronically via Moodle, accessible on standard devices without requiring expensive or specialised hardware (Appendix E).
+Technical Support and Training: Technical support for staff and students is well established, and ongoing digital literacy training is included in the institution’s CPD framework (Appendix B).
+Integrated E-Library Access: The institution has strengthened academic support and research capacity through the integration of the Perlego digital library, offering students and staff access to a wide range of academic texts across disciplines. This resource, accessible via Moodle, enhances independent study, supports assessment preparation, and aligns with best practices in digital learning infrastructure.
+
+Weaknesses
+Limited Physical Library or On-Site Study Resources: The institution does not currently offer an extensive physical library or reading room accessible beyond business hours, which may affect learners who prefer on-site study environments.
+Basic Accessibility Support in Digital Content: While Moodle is accessible on mobile and standard devices, there is no institutional policy or infrastructure specifically tailored to screen reader compatibility or enhanced visual/audio access for students with sensory impairments.
+Dependency on External Digital Services: While MoodleCloud provides many benefits, the institution’s reliance on third-party platforms may limit control over long-term data hosting or customisation without further investment or contingency planning.
+
+Opportunities
+Formal Inclusion of Accessibility and UDL (Universal Design for Learning): Developing internal policies for accessibility in both digital and physical resources can increase inclusivity and prepare the institution for anticipated regulatory enhancements in education equality.
+Monitoring Learning Analytics for Targeted Support: The existing Moodle infrastructure offers engagement data; formalising the use of this information to identify at-risk students can significantly enhance academic support interventions.
+
+Threats
+External Platform Vulnerability: Service disruptions or pricing model changes by external digital service providers (e.g. MoodleCloud) may create operational and financial strain if contingency contracts are not in place.
+Changing Technology Expectations: As MFHEA standards and student expectations for hybrid and online learning environments evolve, maintaining updated tools and interfaces could require frequent investment.
+Equity Gaps in Student Digital Readiness: While institutional resources are accessible, individual student access to stable internet and digital literacy varies. This may disproportionately affect learners from disadvantaged or rural backgrounds.
+     
+Compliance level: Substantially Compliant 
+
+
+Research, development and/or other creative activity 
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+Not Applicable
+
+SWOT analysis:
+(please insert your perspective over the strengths, weaknesses, opportunities and challenges in relation to this Standard. These can refer to both internal and external factors that are impacting the institutional performance against the minimal and performance indicators included in this Standard, as specified in the MFHEA Accreditation Manual)
+
+Compliance level: Fully compliant/Substantially compliant/Partially compliant/Non-compliant
+
+
+Institutional cooperation, service to society and internationalisation
+
+(Please provide a self-assessment of your performance against this Standard, approaching individually all of its allocated minimal and performance indicators, as applicable, as specified in the MFHEA Accreditation Manual)
+
+11.1. The institution includes in its strategic priorities, objectives pertaining to institutional cooperation, service to society, and internationalisation. There are clear indicators defining the institutional priorities in these areas.
+
+Status: Met
+
+Advanced Learning’s Business Plan (Appendix A) explicitly outlines its strategic objectives in three key areas:
+Institutional cooperation through international academic partnerships and local collaborations
+Service to society via inclusive education, skills development for underserved populations, and social outreach
+Internationalisation through curriculum alignment with global trends in sustainability, digitalisation, and intercultural competence
+
+These strategic aims are operationalised through review and engagement mechanisms documented in Internal Quality Assurance Procedure (Appendix B), ensuring responsiveness to local and global priorities via stakeholder input, programme evaluation, and institutional self-assessment.
+
+Supporting Documents:
+Appendix A – Business Plan
+Appendix B – Internal Quality Assurance Procedure
+
+11.2. There are budgetary allocations dedicated to institutional cooperation, service to society, and internationalisation to enable the achievement of its objectives in these areas.
+
+Status: Met
+
+Dedicated budget lines supporting these strategic areas are detailed in the Financial Plan – “Revenue Streams” and “Forecast Summary” worksheets (Appendix C). These include:
+Funding for international collaboration and mobility programmes
+Resources allocated to industry-led scholarships
+Projected revenue from training contracts supporting social impact and outreach
+
+These allocations directly support the strategic priorities defined in Business Plan – (Appendix A), confirming institutional alignment between planning and financial commitment.
+
+Supporting Documents:
+Appendix A – Business Plan
+Appendix C – Financial Plan Spreadsheet
+
+11.3. Local employers and members of professions are invited to join relevant committees or other structural units considering study programmes and other institutional activities.
+
+Status: Met
+
+Advanced Learning’s governance and programme development processes explicitly include external stakeholder engagement.
+The Business Plan (Appendix A) outlines consultation with local employers and professionals in shaping programme content and ensuring relevance to labour market needs.
+The Internal Quality Assurance Procedure (Appendix B) defines the remit of the Academic Board, Programme Review Panels, and Advisory Committees, all of which are structured to include external professionals and industry representatives.
+
+This ensures that programme development and institutional planning are informed by real-world insight and aligned with evolving employer expectations.
+
+Supporting Documents:
+Appendix A – Business Plan
+Appendix B – Internal Quality Assurance Procedure
+
+
+SWOT Analysis - II.11.	Institutional cooperation, service to society and internationalisation
+
+Strengths
+Strategic Commitment to Internationalisation: The institution clearly outlines internationalisation as a core objective in its Business Plan (Appendix A), with references to global education trends, inclusive access, and cross-border programme relevance.
+Industry-Academic Linkages: Employer engagement is already embedded through the inclusion of external professionals in advisory and programme development structures, as described in Internal Quality Assurance Procedure Ver. 1.0 (Appendix B).
+Financial Planning Supports Social and Global Engagement: Budget allocations for externally funded training, scholarships, and international collaborations are integrated into the Financial Plan – Forecast Summary and Revenue Streams (Appendix C), demonstrating operational commitment beyond strategic statements.
+
+Weaknesses
+Lack of Formal Documentation of Advisory Committees: While industry and employer input is sought, formal meeting minutes or terms of reference for advisory groups are not yet standardised or consistently documented.
+No Published KPIs for Internationalisation: Although internationalisation is a goal, there are currently no measurable indicators (e.g. number of partnerships formed, staff or student exchanges) captured in a standalone operational plan.
+Limited Evidence of Community Engagement Outputs: The Business Plan references social responsibility initiatives, but specific examples of service-to-society outputs (e.g. public events, NGO partnerships, impact metrics) are not detailed.
+
+Opportunities
+Strengthening Employer Partnerships: Formalising MOUs or structured advisory board membership with key employers can increase programme relevance, enhance placement pathways, and create reciprocal value.
+Developing Measurable Internationalisation Indicators: Establishing KPIs tied to international student enrolment, collaborations, or digital outreach can strengthen audit readiness and strategic benchmarking.
+Outreach to Underserved Populations: By offering short courses or scholarships aimed at migrants, unemployed adults, or school-leavers, the institution can increase its visibility and social contribution while addressing national education priorities.
+
+Threats
+Overdependence on Partnerships for Impact Metrics: Without structured documentation of external input and social engagement outcomes, the institution may face challenges evidencing compliance during audits.
+Reputational Risk from Informal Agreements: Relying on informal or ad hoc employer consultations without formal structures may undermine transparency and accountability in programme development.
+Changing EU and MFHEA Priorities on Global Education: As expectations grow around measurable internationalisation and societal impact, institutions must remain agile in aligning to these policy shifts.
+
+     Compliance level: Substantially Compliant 
+
+
+
+DEVELOPMENTS RECORDED SINCE THE PREVIOUS ACCREDITATION PROCESS (if applicable)
+
+
+
+
+APPENDICES
+(Provide a list of all appendices available as supporting evidence of the statements made in the report)
+Appendix A – Business Plan
+Appendix B – Internal Quality Assurance Procedure Ver 1.0
+Appendix C – Financial Plan Spreadsheet
+Appendix D – Provider Accreditation Form – Part B 
+Appendix E – Programme Applications & Descriptors & Descriptors:
+Award in Basic Courier Service
+Award in Foundations of Maltese
+Award in Foundations of English
+Diploma in Developing Leadership
+Appendix F – Sample Student Agreement and Orientation Pack
+Appendix G - Strategic Development Plan 
+Appendix H - Operational 
+Appendix I - Job Description for “Digital Learning Coordinator” 
+Appendix J - Business Continuity Plan (BCP) 
+Appendix K - Code of Ethics 
+Appendix L - Acceptable Use and IP Ownership Policy
+Appendix M - Lecture Recording and Intellectual Property (IP) Policy
+Appendix N - Performance Evaluation Policy
+Appendix O - Plagiarism and Academic Misconduct Policy
+Appendix P - Digital Ethics & Assessment Integrity Policy
+Appendix Q - Online and Blended Learning Strategy
+Appendix R - Accessibility and Inclusion Policy
+Appendix S - Learning Analytics Protocol
+Appendix T - Admissions Policy
+Appendix U - Staff Teaching, Induction & Workload Policy
+Appendix V - QA Dashboard
+Appendix W – Organogram & CVs
+Appendix X - Website Content Update Calendar Template
+Appendix Y - Lecture Recording and Intellectual Property Consent Form
+Appendix Z - Premises Authorisation Letter
+Appendix A.1 - Staff CPD Log and Plan Template
+

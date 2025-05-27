@@ -1,0 +1,74 @@
+Student Application Form
+Institution: Advanced Learning
+
+Academic Year: ____________
+
+SECTION 1: PERSONAL DETAILS
+Full Name: ____________________________________________
+Date of Birth: ____ / ____ / ______
+Nationality: ____________________________________________
+ID / Passport Number: ____________________________________________
+Gender: ☐ Male ☐ Female ☐ Non-Binary ☐ Prefer not to say
+Email Address: ____________________________________________
+Mobile Number: ____________________________________________
+Home Address:
+
+
+
+
+SECTION 2: PROGRAMME INFORMATION
+Programme Title Applied For: ____________________________________________
+MQF Level (if known): ____________
+Preferred Intake Date: ____ / ____ / ______
+Mode of Study: ☐ Full-Time ☐ Part-Time ☐ Online/Blended
+
+
+
+
+
+SECTION 3: EDUCATIONAL BACKGROUND
+Qualification 1:
+Qualification: ____________________________________________
+Institution: ____________________________________________
+Year Completed: ____________________________________________
+Grade / Award: ____________________________________________
+Qualification 2 (if applicable):
+Qualification: ____________________________________________
+Institution: ____________________________________________
+Year Completed: ____________________________________________
+Grade / Award: ____________________________________________
+Qualification 3 (if applicable):
+Qualification: ____________________________________________
+Institution: ____________________________________________
+Year Completed: ____________________________________________
+Grade / Award: ____________________________________________
+
+SECTION 4: EMPLOYMENT HISTORY (If Applicable)
+Employment Record 1:
+Job Title: ____________________________________________
+Employer: ____________________________________________
+Years Worked: ____________________________________________
+Relevant Experience:
+Employment Record 2 (if applicable):
+Job Title: ____________________________________________
+Employer: ____________________________________________
+Years Worked: ____________________________________________
+Relevant Experience:
+SECTION 5: SPECIAL NEEDS / SUPPORT REQUIREMENTS
+Do you require any additional learning support, accommodations, or assistive technology?
+☐ Yes ☐ No
+
+If yes, please specify:
+
+
+
+SECTION 6: DECLARATION
+I confirm that the information provided is true and complete to the best of my knowledge. I understand that providing false information may result in rejection or withdrawal from the programme.
+I consent to the processing of my personal data for the purposes of admission and academic administration, in line with the institution’s Data Protection Policy.
+
+
+
+
+
+Signature: ________________________
+Date: ____ / ____ / ______

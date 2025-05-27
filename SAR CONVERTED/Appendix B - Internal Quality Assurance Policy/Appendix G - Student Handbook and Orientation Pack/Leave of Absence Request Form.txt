@@ -1,0 +1,52 @@
+Leave of Absence Request Form
+Advanced Learning - Version 1.0 
+
+SECTION A: Student Details
+Full Name: ________________________________________________
+Student ID Number: _________________________________________
+Programme of Study: ________________________________________
+Year/Level: _________________________________________________
+Contact Email: ______________________________________________
+Contact Phone: _____________________________________________
+
+SECTION B: Leave Details
+Type of Leave Requested:
+☐ Medical Leave
+☐ Personal/Family Emergency
+☐ Financial Reasons
+☐ Employment-Related
+☐ Other (please specify): ________________________________________
+Requested Start Date of Leave: ____ / ____ / ______
+Requested End Date of Leave: ____ / ____ / ______
+Total Duration: _________________________
+
+SECTION C: Reason for Request
+Please provide a brief explanation and attach supporting documentation (e.g., medical certificate, letter of support, etc.):
+
+
+
+
+
+SECTION D: Academic Advisor / Programme Coordinator Recommendation
+☐ Approved
+☐ Not Approved
+☐ More information required
+Comments:
+
+
+Name: ___________________________
+Signature: ________________________
+Date: ____ / ____ / ______
+
+SECTION E: Office Use Only (Administration)
+Received by: __________________________
+Date Received: ____ / ____ / ______
+Student Notified: ☐ Yes ☐ No
+Action Taken:
+☐ Leave Granted
+☐ Leave Denied
+☐ Deferred to Committee
+Notes:
+
+
+🔒 All information submitted will be treated in confidence and processed in accordance with the institution’s Data Protection Policy.

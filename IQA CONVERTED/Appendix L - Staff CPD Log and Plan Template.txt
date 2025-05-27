@@ -1,0 +1,4 @@
+Staff Member  CPD Activity #1  CPD Activity #2  CPD Activity #3  CPD Type (Internal/External)  Provider  Date Planned  CPD Hours  Learning Objective  Status (Planned/Completed)
+    Staff #1              NaN              NaN              NaN                           NaN       NaN           NaN        NaN                 NaN                         NaN
+    Staff #2              NaN              NaN              NaN                           NaN       NaN           NaN        NaN                 NaN                         NaN
+    Staff #3              NaN              NaN              NaN                           NaN       NaN           NaN        NaN                 NaN                         NaN

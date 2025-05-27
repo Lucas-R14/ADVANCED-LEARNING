@@ -1,0 +1,20 @@
+Acceptable Use Policy (IT Systems and Digital Resources)
+Version 1.0 | Date: March 2025
+Applies to: All Students, Staff, and External Users of Advanced Learning IT Systems
+Purpose and Scope
+This policy defines the acceptable and responsible use of Advanced Learning’s IT systems, platforms, and digital tools. It exists to protect the digital environment, ensure compliance with legal and institutional standards, and safeguard data security and user privacy. It applies to all staff, students, contractors, and third parties using any device connected to Advanced Learning’s systems—whether institution-owned or personal (BYOD)—including access to learning platforms (e.g., Moodle), emails, cloud storage, laptops, and collaborative tools.
+User Responsibilities
+All users must act ethically, legally, and responsibly. They are expected to protect their credentials, maintain confidentiality, respect intellectual property, and use systems only within the scope of their authorisation. Suspicious activity or potential breaches must be reported immediately to the IT Administrator.
+Acceptable Use
+Permitted activities include accessing learning materials, submitting assessments, participating in official communications, conducting academic research, and limited personal use as long as it does not interfere with institutional responsibilities or system integrity.
+Prohibited Use
+Users must not share accounts, bypass security, download or share offensive content, install unapproved software, misuse email systems for non-educational or fraudulent purposes, engage in online harassment, use AI to plagiarise or deceive, or introduce malware or disrupt services.
+Data Privacy and Security
+Users are required to handle all personal data in line with GDPR and the institution’s Data Protection Policy. Data must only be stored on approved systems. Users must log out after sessions and report any lost or stolen devices without delay.
+Communication Etiquette
+When using institutional email and platforms, users must communicate professionally, avoid spamming or unnecessary forwarding, and must not impersonate others or mislead recipients.
+Monitoring and Compliance
+Advanced Learning reserves the right to monitor system activity in a proportionate manner to ensure policy compliance and network protection. Breaches of this policy may lead to disciplinary measures, revoked access, or legal consequences, depending on severity.
+Policy Review
+This policy is reviewed annually or sooner if required due to IT or legal changes.
+

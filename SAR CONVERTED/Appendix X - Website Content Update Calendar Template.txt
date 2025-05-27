@@ -1,0 +1,17 @@
+                               Content Area Initial Upload Date Last Reviewed       Next Scheduled Review                   Responsible Role                                                Notes
+                           Mission & Vision       [Launch Date]         [TBD]                       [TBD]                Head of Institution           Update only if mission or strategy changes
+               Governance Structure & Roles       [Launch Date]         [TBD]             Every 12 months Academic Director / QA Coordinator     Reflects any changes to leadership or committees
+  Programme Specifications (All MQF Levels)       [Launch Date]         [TBD] Every 6 months or as needed             Programme Coordinators            Update when changes are approved by MFHEA
+      Accreditation & Licensing Information       [Launch Date]         [TBD]         Upon renewal/change                     QA Coordinator             Include dates and scope of accreditation
+       Tuition Fees, Refund & Payment Terms       [Launch Date]         [TBD]    Annually (or as updated)       Finance Officer / Admin Team          Ensure any updates reflect accurate figures
+                             Code of Ethics       [Launch Date]         [TBD]               Every 2 years                  Academic Director Ensure alignment with QA and regulatory expectations
+ Internal Quality Assurance Procedure (IQA)       [Launch Date]         [TBD]               Every 2 years                     QA Coordinator          Trigger review if MFHEA requirements change
+Complaints, Appeals & Whistleblowing Policy       [Launch Date]         [TBD]             Every 12 months     QA Coordinator / Admin Support          Ensure student access to current procedures
+    Plagiarism & Academic Misconduct Policy       [Launch Date]         [TBD]             Every 12 months                  Academic Director                       Aligned with assessment policy
+          Data Protection & GDPR Compliance       [Launch Date]         [TBD]             Every 12 months          Data Controller / QA Team              Ensure compliance with GDPR regulations
+         Online & Blended Learning Strategy       [Launch Date]         [TBD]       Annually or as needed       Digital Learning Coordinator  Reflects digital delivery approach and improvements
+              Student Support Services Info       [Launch Date]         [TBD]              Every 6 months                         Admin Team   Includes academic support, tutoring, tech helpdesk
+                           Student Handbook       [Launch Date]         [TBD]     Each intake or annually     Admin Team / Academic Director          Match latest programme content and policies
+           Stakeholder Engagement Summaries       [Launch Date]         [TBD]     After each major review                     QA Coordinator         Document impact of student/employer feedback
+ Public QA Policy and Annual Review Summary       [Launch Date]         [TBD]             Every 12 months                       QA Committee          Publish summaries post each annual QA cycle
+Accessibility Statement & Website Usability       [Launch Date]         [TBD]             Every 12 months       Digital Learning Coordinator Include Moodle access support and compliance updates

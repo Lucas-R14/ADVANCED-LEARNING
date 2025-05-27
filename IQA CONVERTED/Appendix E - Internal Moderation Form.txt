@@ -1,0 +1,43 @@
+Internal Moderation Form
+Institution: Advanced Learning
+Academic Year: ____________
+Programme Title: ___________________________
+Module Title: ___________________________
+Assessment Title: ___________________________
+Assessment Type: Essay / Presentation / Exam / Other
+Moderator Name: ___________________________
+Internal Assessor Name: ___________________________
+Date of Moderation: ____ / ____ / ______
+
+Section A: Pre-Assessment Moderation (Review of the Assessment Brief)
+
+Outcome:
+✅ Approved
+🔁 Requires Revisions (to be resubmitted)
+🛑 Not Approved
+
+Section B: Post-Assessment Moderation (Review of Marked Scripts)
+
+Sample Reviewed:
+☐ Top grade (A)
+☐ Pass grade (C)
+☐ Fail grade (F)
+☐ Borderline
+
+
+Section C: Moderator Summary
+Do you have confidence in the assessment marking process?
+☐ Yes
+☐ Partially
+☐ No
+Recommendations (if any):
+
+
+Follow-up Actions Required:
+☐ Adjustments to marks
+☐ Tutor feedback coaching
+☐ Revision to future assessment brief
+☐ No action required
+
+Moderator Signature: ___________________________
+Date: ____ / ____ / ______

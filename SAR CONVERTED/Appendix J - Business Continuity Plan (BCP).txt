@@ -1,0 +1,60 @@
+Business Continuity Plan (BCP) - Advanced Learning
+Version: 1.0
+Approved by: Board of Directors
+
+1. Purpose
+This Business Continuity Plan (BCP) sets out the protocols Advanced Learning will follow to maintain critical academic and administrative operations during and after disruptive events. It ensures preparedness, rapid response, and recovery in line with institutional QA commitments and national guidelines.
+2. Scope
+This plan applies to all staff, systems, facilities, students, and service partners of Advanced Learning. It covers both on-site and remote operations across the following domains:
+Academic delivery
+Student support and records
+ICT infrastructure and data access
+Facility management
+Communication systems
+Human resources and leadership structure
+3. Risk Categories and Scenarios
+
+
+
+4. Key Principles
+Continuity of Learning: Academic delivery must resume within 48 hours in virtual format if in-person teaching is interrupted.
+Data Security: All records are backed up to cloud servers with secure access protocols.
+Communication: Internal and external communication must remain active through designated channels.
+Rapid Role Reassignment: Key academic/admin duties are delegated to alternates in case of staff unavailability.
+QA Link: BCP compliance is tracked in the Risk Register and reviewed annually under Clause 10 of the IQA document.
+
+5. Business Continuity Protocols by Category
+a) IT Infrastructure and Data Access
+Daily backups of Moodle, email, and shared drives to secure cloud server.
+24/7 monitoring by IT support contractor.
+Emergency LMS access enabled via remote login for key staff.
+Breach protocol follows GDPR notification standards within 72 hours.
+b) Staffing and Academic Delivery
+Substitute teaching list maintained per programme.
+All course materials pre-loaded to Moodle to enable asynchronous delivery.
+Assessment schedules may be shifted with Academic Board approval.
+Staff illness protocol: notify Line Manager + HR within 4 hours.
+c) Health & Safety
+Remote teaching setup activated within 48 hours of health alert.
+Staff issued equipment for work-from-home readiness (laptop, VPN).
+Coordination with Public Health Authorities for compliance.
+Mental health support offered to students and staff during prolonged disruptions.
+d) Facility Disruption
+Classes rerouted to alternative campus/site where available.
+Virtual learning used as a fallback.
+Local emergency services contacted in case of structural issues.
+Insurance policy reviewed annually and includes business interruption clause.
+e) Vendor/Partner Delays
+Dual sourcing for exam moderation and certification boards.
+Clear SLA (Service Level Agreement) timelines and escalation contacts logged.
+Backup printers/certificate vendors on file.
+
+6. Communication Chain
+
+7. Business Recovery Timeline
+
+8. Testing and Review
+BCP drills are conducted annually and reviewed by the Risk Committee.
+Simulation includes remote class delivery and mock server outage.
+Lessons learned feed directly into SOP and BCP update cycles.Bottom of Form
+

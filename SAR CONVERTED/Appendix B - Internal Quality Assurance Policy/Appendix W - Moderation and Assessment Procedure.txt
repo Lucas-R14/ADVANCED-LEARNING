@@ -1,0 +1,82 @@
+Title: Moderation and Assessment Procedure
+SOP Number: SOP-ACA-02
+Version: 1.0
+Effective Date: March 2025
+Next Review Date: March 2026
+Department Responsible: Academic Department / Quality Assurance
+Approved by: Academic Board
+
+1. Purpose
+This SOP outlines the process for designing, reviewing, administering, marking, and moderating assessments to ensure fairness, consistency, and alignment with MQF level descriptors. It ensures academic standards and integrity are maintained across all programmes.
+
+2. Scope
+This procedure applies to all accredited programmes delivered at Advanced Learning. It covers all forms of assessment, including formative and summative assignments, exams, presentations, and practical evaluations.
+
+3. Definitions
+Assessment: Any activity used to evaluate student learning against intended learning outcomes.
+Moderation: A quality control process to ensure assessment tools and marking are fair, valid, reliable, and consistent.
+Internal Moderator: A second marker or QA representative who reviews assessments before and/or after delivery.
+External Moderator: An independent academic or subject matter expert who reviews samples and outcomes post-assessment.
+
+4. Responsibilities
+Academic Staff: Design assessments, mark submissions, apply feedback, and submit grades.
+Internal Moderators: Review assessment design and marking consistency.
+Programme Coordinators: Ensure assessments follow internal timelines and moderation is applied.
+QA Officer: Oversees moderation process, maintains documentation, and liaises with external moderators.
+Academic Board: Reviews overall assessment outcomes and moderation reports.
+
+5. Procedure Steps
+Step 1 – Assessment Design
+Responsible: Tutor / Academic Staff
+Timeline: At least 2 weeks before course start
+Action: Create assessment briefs aligned with programme learning outcomes and MQF level descriptors. Submit to Internal Moderator for review.
+
+Step 2 – Internal Moderation (Pre-Delivery)
+Responsible: Internal Moderator
+Timeline: Before assessments are given to students
+Action: Check assessment briefs for clarity, validity, consistency, and level appropriateness. Return with feedback or approval.
+
+Step 3 – Assessment Delivery
+Responsible: Tutor / Programme Coordinator
+Timeline: According to academic calendar
+Action: Deliver and collect assessments according to published deadlines and procedures.
+
+Step 4 – Marking
+Responsible: Tutor / Academic Staff
+Timeline: Within 10 working days of submission
+Action: Mark assignments using standardised criteria or rubrics. Apply constructive feedback.
+
+Step 5 – Internal Moderation (Post-Marking)
+Responsible: Internal Moderator
+Timeline: Within 5 working days of marking completion
+Action: Review a sample of marked assessments (minimum 10% or 6 scripts). Check for consistency, fairness, and accuracy. Discuss any discrepancies with the original marker.
+
+Step 6 – External Moderation (if applicable)
+Responsible: QA Officer and External Moderator
+Timeline: Annually or as per programme requirement
+Action: External Moderator reviews sample assessments, moderation records, and outcomes. Provides report with findings and recommendations.
+
+Step 7 – Grade Finalisation and Reporting
+Responsible: Programme Coordinator + QA Officer
+Timeline: Upon completion of moderation
+Action: Submit final grades to the Registrar. Log moderation activities and outcomes in the Moderation Record.
+
+6. Assessment Malpractice
+Any evidence of academic misconduct (e.g., plagiarism, cheating) must be reported and handled according to the Academic Integrity Policy. Moderators must flag suspected cases to the QA Team immediately.
+
+7. Documentation and Archiving
+The following records must be kept securely for a minimum of 5 years:
+Assessment briefs and rubrics
+Marked scripts and feedback
+Internal and external moderation forms
+Final grade submissions
+Moderator reports
+
+8. Related Documents
+Assessment and Feedback Policy
+Moderation Form Template
+Sample Grading Rubrics
+Academic Integrity Policy
+Assessment Brief Template
+
+9. Revision History
