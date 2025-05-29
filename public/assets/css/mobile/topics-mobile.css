@@ -45,6 +45,32 @@
     .leadership-role li {
         font-size: 0.95rem;
     }
+
+    /* Program Page Mobile Styles */
+    .program-list,
+    .quality-content,
+    .requirements-content {
+        grid-template-columns: 1fr;
+    }
+
+    .program-category,
+    .quality-item,
+    .requirements-category {
+        padding: 1.5rem;
+    }
+
+    .program-item {
+        padding: 1.2rem;
+    }
+
+    .program-item h4 {
+        font-size: 1.1rem;
+    }
+
+    .overview-text {
+        font-size: var(--text-base);
+        line-height: 1.6;
+    }
 }
 
 /* Small Mobile Devices */
@@ -71,5 +97,28 @@
 
     .leadership-role h3 {
         font-size: 1.2rem;
+    }
+
+    .program-category,
+    .quality-item,
+    .requirements-category {
+        padding: 1rem;
+    }
+
+    .program-item {
+        padding: 1rem;
+    }
+
+    .program-item h4 {
+        font-size: 1rem;
+    }
+
+    .overview-text {
+        font-size: var(--text-sm);
+    }
+
+    .quality-item p,
+    .requirements-category li {
+        font-size: var(--text-sm);
     }
 } 

@@ -182,7 +182,13 @@
 }
 
 .accreditation-info {
-    text-align: center;
+    text-align: justify;
+}
+
+.accreditation-info p {
+    text-align: justify;
+    margin-bottom: 1.5rem;
+    line-height: 1.7;
 }
 
 .accreditation-list {
