@@ -189,7 +189,7 @@ function attachMobileMenuListeners() {
 
     // Close menu when clicking a link
     navMenu.querySelectorAll('a').forEach(link => {
-        link.addEventListener('pointerup', function() {
+        link.addEventListener('click', function() {
             navMenu.classList.remove('active');
         });
     });
