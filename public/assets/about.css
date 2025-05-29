@@ -763,4 +763,44 @@
     .leadership-team {
         grid-template-columns: repeat(2, 1fr);
     }
+}
+
+@media (max-width: 600px) {
+    .leadership-team {
+        gap: 1.2rem;
+        margin: 1.5rem 0;
+    }
+    .team-member {
+        min-width: 0;
+        padding: 1.2rem 0.8rem;
+        border-radius: 12px;
+        box-shadow: 0 2px 10px rgba(84,52,107,0.07);
+        margin: 0 0.2rem;
+    }
+    .member-info h3 {
+        font-size: 1.1rem;
+        margin-bottom: 0.3rem;
+    }
+    .member-info > p {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+    .member-credentials {
+        gap: 0.5rem;
+        font-size: 0.95rem;
+        margin-bottom: 1rem;
+    }
+    .member-credentials span {
+        gap: 0.4rem;
+    }
+    .member-credentials i {
+        font-size: 1.1rem;
+        min-width: 18px;
+    }
+    .member-description {
+        font-size: 0.97rem;
+        padding-top: 0.7rem;
+        margin-top: 0.5rem;
+        border-top: 1px solid var(--snuff);
+    }
 } 
