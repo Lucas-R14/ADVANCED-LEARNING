@@ -71,6 +71,23 @@
         font-size: var(--text-base);
         line-height: 1.6;
     }
+
+    .media-overview,
+    .media-guidelines,
+    .media-management,
+    .media-accessibility,
+    .media-copyright,
+    .media-contact {
+        padding: 1.2rem;
+    }
+
+    .media-types-list {
+        grid-template-columns: 1fr;
+    }
+
+    .media-type-item {
+        padding: 1rem;
+    }
 }
 
 /* Small Mobile Devices */
@@ -119,6 +136,23 @@
 
     .quality-item p,
     .requirements-category li {
+        font-size: var(--text-sm);
+    }
+
+    .media-overview,
+    .media-guidelines,
+    .media-management,
+    .media-accessibility,
+    .media-copyright,
+    .media-contact {
+        padding: 0.7rem;
+    }
+
+    .media-type-item h3 {
+        font-size: 1rem;
+    }
+
+    .media-type-item p {
         font-size: var(--text-sm);
     }
 } 

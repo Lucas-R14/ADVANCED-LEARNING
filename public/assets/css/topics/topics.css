@@ -314,4 +314,107 @@
         margin-bottom: 1rem;
         page-break-inside: avoid;
     }
+}
+
+/* Images & Media Topic Styles */
+.media-overview {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+.media-guidelines {
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+.media-guidelines-list {
+    list-style: disc inside;
+    color: #4A5568;
+    margin-left: 1rem;
+    line-height: 1.7;
+}
+
+.media-types {
+    margin-bottom: 3rem;
+}
+
+.media-types-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+
+.media-type-item {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+    padding: 1.5rem;
+    transition: transform 0.2s ease;
+}
+
+.media-type-item:hover {
+    transform: translateY(-2px);
+}
+
+.media-type-item h3 {
+    color: #2D3748;
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+}
+
+.media-type-item p {
+    color: #4A5568;
+    line-height: 1.6;
+}
+
+.media-management {
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+.media-accessibility {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+.media-accessibility-list {
+    list-style: disc inside;
+    color: #4A5568;
+    margin-left: 1rem;
+    line-height: 1.7;
+}
+
+.media-copyright {
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+.media-contact {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.media-contact a {
+    color: var(--bossanova);
+    text-decoration: underline;
+    font-weight: 500;
 } 
