@@ -34,21 +34,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Animation for sections
+    // Make all animated elements visible by default
     const animatedElements = document.querySelectorAll('.mission-box, .vision-box, .team-member, .pillar, .principle, .benefit');
-    
-    function checkVisibility() {
-        animatedElements.forEach(element => {
-            const rect = element.getBoundingClientRect();
-            const isVisible = (rect.top <= window.innerHeight * 0.8);
-            
-            if (isVisible) {
-                element.classList.add('visible');
-            }
-        });
-    }
-    
-    // Check visibility initially and during scrolling
-    checkVisibility();
-    window.addEventListener('scroll', checkVisibility);
+    animatedElements.forEach(element => {
+        element.classList.add('visible');
+    });
 }); 

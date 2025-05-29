@@ -142,28 +142,9 @@ document.addEventListener('DOMContentLoaded', function() {
         card.classList.add('visible');
     });
     
-    // Add visible class to experience features when they're scrolled into view
+    // Make all experience features visible immediately
     const experienceFeatures = document.querySelectorAll('.experience-feature');
-    
-    function isInViewport(element) {
-        const rect = element.getBoundingClientRect();
-        return (
-            rect.top <= (window.innerHeight || document.documentElement.clientHeight) * 0.9 &&
-            rect.bottom >= 0
-        );
-    }
-    
-    function checkFeaturesVisibility() {
-        experienceFeatures.forEach((feature, index) => {
-            if (isInViewport(feature) && !feature.classList.contains('visible')) {
-                setTimeout(() => {
-                    feature.classList.add('visible');
-                }, index * 150);
-            }
-        });
-    }
-    
-    // Check features visibility on scroll
-    checkFeaturesVisibility();
-    window.addEventListener('scroll', checkFeaturesVisibility);
+    experienceFeatures.forEach(feature => {
+        feature.classList.add('visible');
+    });
 }); 
