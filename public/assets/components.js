@@ -150,5 +150,53 @@ document.addEventListener('componentLoaded', function(e) {
                 // For any other page, hide the banner by default
                 document.querySelector('.page-banner')?.remove();
         }
+
+        // Mobile menu logic for all pages (runs after header is loaded)
+        attachMobileMenuListeners();
     }
+});
+
+function attachMobileMenuListeners() {
+    const mobileMenuBtn = document.querySelector('.main-nav .mobile-menu-btn');
+    const navMenu = document.querySelector('.main-nav ul');
+    if (!mobileMenuBtn || !navMenu) return;
+
+    // Remove previous listeners (by using named handler and removing before adding)
+    mobileMenuBtn.removeEventListener('pointerup', window._menuBtnHandler);
+    navMenu.removeEventListener('pointerup', window._menuMenuHandler);
+    document.removeEventListener('pointerup', window._menuDocHandler);
+
+    // Handler for menu button
+    window._menuBtnHandler = function(e) {
+        e.stopPropagation();
+        navMenu.classList.toggle('active');
+    };
+    mobileMenuBtn.addEventListener('pointerup', window._menuBtnHandler);
+
+    // Prevent menu from closing when tapping inside
+    window._menuMenuHandler = function(e) {
+        e.stopPropagation();
+    };
+    navMenu.addEventListener('pointerup', window._menuMenuHandler);
+
+    // Handler for closing menu when tapping outside
+    window._menuDocHandler = function(e) {
+        if (navMenu.classList.contains('active')) {
+            navMenu.classList.remove('active');
+        }
+    };
+    document.addEventListener('pointerup', window._menuDocHandler);
+
+    // Close menu when clicking a link
+    navMenu.querySelectorAll('a').forEach(link => {
+        link.addEventListener('pointerup', function() {
+            navMenu.classList.remove('active');
+        });
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    attachMobileMenuListeners();
+    // As a fallback, re-attach after a short delay (for slow dynamic loads)
+    setTimeout(attachMobileMenuListeners, 500);
 }); 

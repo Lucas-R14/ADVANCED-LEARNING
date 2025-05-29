@@ -446,26 +446,48 @@ footer {
 .fade-in-element.visible > *:nth-child(9):not(.fade-in-element) { animation-delay: 0s; }
 .fade-in-element.visible > *:nth-child(10):not(.fade-in-element) { animation-delay: 0s; }
 
-/* --- MOBILE MENU FIX: Ensure this is the last CSS block for correct override --- */
+/* --- MOBILE MENU FINAL STYLE: Project colors --- */
 @media (max-width: 768px) {
-    .mobile-menu-btn {
+    .main-nav .mobile-menu-btn {
         display: block;
+        color: var(--gold-sand);
+        background: none;
+        border: none;
+        font-size: 2rem;
+        padding: 0.5rem 1rem;
     }
-    nav ul {
+    .main-nav ul {
         display: none;
         position: absolute;
         top: 100%;
         left: 0;
         right: 0;
         background-color: var(--bossanova);
+        border: none;
         flex-direction: column;
-        padding: 1rem;
-        gap: 1rem;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        z-index: 100;
+        padding: 1.5rem 1rem 1rem 1.5rem;
+        gap: 1.2rem;
+        box-shadow: 0 8px 24px rgba(84, 52, 107, 0.12);
+        z-index: 9999;
+        border-radius: 0 0 18px 18px;
+        animation: slideDownMenu 0.25s ease;
     }
-    nav ul.active {
+    .main-nav ul.active {
         display: flex;
+    }
+    .main-nav ul li a {
+        color: var(--gold-sand);
+        font-size: 1.3rem;
+        font-weight: 600;
+        padding: 0.7rem 0.5rem;
+        border-radius: 8px;
+        transition: background 0.2s, color 0.2s;
+        display: block;
+    }
+    .main-nav ul li a:hover,
+    .main-nav ul li a.active {
+        background: var(--snuff);
+        color: var(--bossanova);
     }
     .section-title {
         font-size: 1.8rem;
@@ -481,4 +503,9 @@ footer {
     .footer-legal {
         justify-content: center;
     }
+}
+
+@keyframes slideDownMenu {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
 }

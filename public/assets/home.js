@@ -1,14 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Mobile menu functionality
-    const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
-    const navMenu = document.querySelector('nav ul');
-    
-    if (mobileMenuBtn) {
-        mobileMenuBtn.addEventListener('click', function() {
-            navMenu.classList.toggle('active');
-        });
-    }
-
     // Close menu when clicking a link
     const navLinks = document.querySelectorAll('nav a');
     navLinks.forEach(link => {
