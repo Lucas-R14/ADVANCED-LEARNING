@@ -1,0 +1,214 @@
+/* Typography System for Topics */
+
+/* Font Family Variables */
+:root {
+    --font-primary: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    --font-secondary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    
+    /* Font Sizes - Desktop */
+    --text-xs: 0.75rem;    /* 12px */
+    --text-sm: 0.875rem;   /* 14px */
+    --text-base: 1rem;     /* 16px */
+    --text-lg: 1.125rem;   /* 18px */
+    --text-xl: 1.25rem;    /* 20px */
+    --text-2xl: 1.5rem;    /* 24px */
+    --text-3xl: 1.875rem;  /* 30px */
+    --text-4xl: 2.25rem;   /* 36px */
+    --text-5xl: 3rem;      /* 48px */
+    
+    /* Line Heights */
+    --leading-none: 1;
+    --leading-tight: 1.25;
+    --leading-snug: 1.375;
+    --leading-normal: 1.5;
+    --leading-relaxed: 1.625;
+    --leading-loose: 2;
+    
+    /* Font Weights */
+    --font-light: 300;
+    --font-regular: 400;
+    --font-medium: 500;
+    --font-semibold: 600;
+    --font-bold: 700;
+    
+    /* Letter Spacing */
+    --tracking-tighter: -0.05em;
+    --tracking-tight: -0.025em;
+    --tracking-normal: 0;
+    --tracking-wide: 0.025em;
+    --tracking-wider: 0.05em;
+    --tracking-widest: 0.1em;
+}
+
+/* Base Typography */
+.topic-container {
+    font-family: var(--font-primary);
+    font-size: var(--text-base);
+    line-height: var(--leading-normal);
+    color: #2D3748;
+}
+
+/* Headings */
+.topic-header h1 {
+    font-family: var(--font-primary);
+    font-size: var(--text-5xl);
+    font-weight: var(--font-bold);
+    line-height: var(--leading-tight);
+    letter-spacing: var(--tracking-tight);
+    color: #1A202C;
+    margin-bottom: 1rem;
+}
+
+.topic-subtitle {
+    font-family: var(--font-secondary);
+    font-size: var(--text-xl);
+    font-weight: var(--font-regular);
+    line-height: var(--leading-relaxed);
+    color: #4A5568;
+}
+
+/* Profile Section Typography */
+.profile-header h2 {
+    font-family: var(--font-primary);
+    font-size: var(--text-4xl);
+    font-weight: var(--font-semibold);
+    line-height: var(--leading-tight);
+    color: #1A202C;
+    margin-bottom: 0.5rem;
+}
+
+.position {
+    font-family: var(--font-secondary);
+    font-size: var(--text-lg);
+    font-weight: var(--font-medium);
+    font-style: italic;
+    color: #4A5568;
+    line-height: var(--leading-snug);
+}
+
+/* Section Headers */
+.education h3, .experience h3, .skills h3 {
+    font-family: var(--font-primary);
+    font-size: var(--text-2xl);
+    font-weight: var(--font-semibold);
+    line-height: var(--leading-snug);
+    color: #2D3748;
+    margin-bottom: 1rem;
+}
+
+/* List Items */
+.education li, .experience li, .skills li {
+    font-family: var(--font-secondary);
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+    color: #4A5568;
+    margin-bottom: 0.8rem;
+}
+
+/* Leadership Structure Typography */
+.leadership-structure h2 {
+    font-family: var(--font-primary);
+    font-size: var(--text-4xl);
+    font-weight: var(--font-semibold);
+    line-height: var(--leading-tight);
+    color: #1A202C;
+    margin-bottom: 2rem;
+}
+
+.leadership-role h3 {
+    font-family: var(--font-primary);
+    font-size: var(--text-2xl);
+    font-weight: var(--font-semibold);
+    line-height: var(--leading-snug);
+    color: #2D3748;
+    margin-bottom: 1rem;
+}
+
+.leadership-role li {
+    font-family: var(--font-secondary);
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+    color: #4A5568;
+    margin-bottom: 0.8rem;
+}
+
+/* Responsive Typography */
+@media (max-width: 1024px) {
+    :root {
+        --text-5xl: 2.5rem;    /* 40px */
+        --text-4xl: 2rem;      /* 32px */
+        --text-3xl: 1.75rem;   /* 28px */
+        --text-2xl: 1.375rem;  /* 22px */
+        --text-xl: 1.125rem;   /* 18px */
+    }
+}
+
+@media (max-width: 768px) {
+    :root {
+        --text-5xl: 2.25rem;   /* 36px */
+        --text-4xl: 1.875rem;  /* 30px */
+        --text-3xl: 1.5rem;    /* 24px */
+        --text-2xl: 1.25rem;   /* 20px */
+        --text-xl: 1.125rem;   /* 18px */
+    }
+    
+    .topic-header h1 {
+        letter-spacing: var(--tracking-normal);
+    }
+    
+    .profile-header h2 {
+        letter-spacing: var(--tracking-normal);
+    }
+}
+
+@media (max-width: 480px) {
+    :root {
+        --text-5xl: 2rem;      /* 32px */
+        --text-4xl: 1.75rem;   /* 28px */
+        --text-3xl: 1.375rem;  /* 22px */
+        --text-2xl: 1.25rem;   /* 20px */
+        --text-xl: 1.125rem;   /* 18px */
+    }
+    
+    .topic-container {
+        font-size: var(--text-sm);
+    }
+    
+    .education li, .experience li, .skills li,
+    .leadership-role li {
+        font-size: var(--text-sm);
+    }
+}
+
+/* Print Typography */
+@media print {
+    .topic-container {
+        font-size: 12pt;
+    }
+    
+    .topic-header h1 {
+        font-size: 24pt;
+    }
+    
+    .topic-subtitle {
+        font-size: 14pt;
+    }
+    
+    .profile-header h2 {
+        font-size: 20pt;
+    }
+    
+    .position {
+        font-size: 12pt;
+    }
+    
+    .education h3, .experience h3, .skills h3,
+    .leadership-role h3 {
+        font-size: 16pt;
+    }
+    
+    .education li, .experience li, .skills li,
+    .leadership-role li {
+        font-size: 11pt;
+    }
+} 

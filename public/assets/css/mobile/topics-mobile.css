@@ -1,0 +1,75 @@
+/* Mobile Styles for Topics */
+@media (max-width: 768px) {
+    .topic-container {
+        padding: 1rem;
+    }
+
+    .topic-header h1 {
+        font-size: 2rem;
+    }
+
+    .profile-content {
+        grid-template-columns: 1fr;
+    }
+
+    .leadership-role {
+        padding: 1rem;
+    }
+
+    /* Additional mobile-specific adjustments */
+    .leadership-profile {
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .profile-header h2 {
+        font-size: 1.8rem;
+    }
+
+    .position {
+        font-size: 1.1rem;
+    }
+
+    .education, .experience, .skills {
+        padding: 1.2rem;
+    }
+
+    .leadership-structure h2 {
+        font-size: 1.8rem;
+    }
+
+    .leadership-role h3 {
+        font-size: 1.3rem;
+    }
+
+    .leadership-role li {
+        font-size: 0.95rem;
+    }
+}
+
+/* Small Mobile Devices */
+@media (max-width: 480px) {
+    .topic-container {
+        padding: 0.8rem;
+    }
+
+    .topic-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .topic-subtitle {
+        font-size: 1rem;
+    }
+
+    .profile-header h2 {
+        font-size: 1.6rem;
+    }
+
+    .leadership-role {
+        padding: 0.8rem;
+    }
+
+    .leadership-role h3 {
+        font-size: 1.2rem;
+    }
+} 
