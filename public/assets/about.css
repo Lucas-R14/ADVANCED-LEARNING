@@ -833,20 +833,20 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    background-color: white;
-    border-radius: 10px;
-    padding: 2rem;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    background: linear-gradient(135deg, #fff 80%, var(--snuff) 100%);
+    border-radius: 18px;
+    padding: 2.5rem 2.2rem 2.2rem 2.2rem;
+    box-shadow: 0 8px 32px rgba(84, 52, 107, 0.10);
     margin-bottom: 1.5rem;
     height: 100%;
     box-sizing: border-box;
     overflow: auto;
-    border-top: none;
+    border-top: 6px solid var(--gold-sand);
     transition: box-shadow 0.2s, transform 0.2s;
 }
 
 .partners-info:hover {
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 16px 40px rgba(84, 52, 107, 0.16);
     transform: translateY(-4px) scale(1.01);
 }
 
@@ -912,45 +912,10 @@
 @media (max-width: 768px) {
     .partners-info {
         padding: 1.5rem 1rem 1.5rem 1rem;
-        border-radius: 10px;
     }
     .partners-icon {
         width: 44px;
         height: 44px;
         font-size: 1.5rem;
     }
-}
-
-@media (prefers-color-scheme: dark) {
-  body, .about, .partnerships, .strategic-plan, .institutional-overview, .accreditation-status, .leadership, .code-of-ethics, .governance {
-    background-color: var(--bossanova) !important;
-    color: var(--snuff) !important;
-  }
-  .partners-info, .pillar, .team-member, .org-box, .ethics-download, .principle, .benefit {
-    background-color: var(--snuff) !important;
-    color: var(--bossanova) !important;
-    box-shadow: 0 4px 16px rgba(231, 221, 236, 0.08);
-  }
-  .partners-icon, .pillar-icon {
-    background: var(--gold-sand) !important;
-    color: var(--bossanova) !important;
-  }
-  .section-title, .section-subtitle, h1, h2, h3, h4, h5, h6 {
-    color: var(--gold-sand) !important;
-  }
-  .divider, .divider.center {
-    background-color: var(--gold-sand) !important;
-  }
-  .breadcrumb, .breadcrumbs a {
-    color: var(--gold-sand) !important;
-  }
-  .btn, .primary-btn, .secondary-btn, .outline-btn {
-    color: var(--bossanova) !important;
-    background-color: var(--gold-sand) !important;
-    border-color: var(--gold-sand) !important;
-  }
-  .btn:hover, .primary-btn:hover, .secondary-btn:hover, .outline-btn:hover {
-    background-color: var(--snuff) !important;
-    color: var(--bossanova) !important;
-  }
 } 

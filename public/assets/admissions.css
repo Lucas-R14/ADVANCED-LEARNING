@@ -258,34 +258,4 @@ body, .admissions-page {
     background-image: linear-gradient(rgba(40, 20, 60, 0.7), rgba(40, 20, 60, 0.7)), url('https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&w=1600&q=80');
     background-size: cover;
     background-position: center;
-}
-
-@media (prefers-color-scheme: dark) {
-  body, .admissions-page, .admission-section, .main-content {
-    background-color: var(--bossanova) !important;
-    color: var(--snuff) !important;
-  }
-  .admission-box, .document-card, .faq-item, .faq-answer, .timeline-item, .programme-detail, .admission-sidebar, .admission-section, .admission-grid, .admission-content, .admission-requirements, .admission-header, .admission-form, .admission-info, .admission-cta, .admission-note {
-    background-color: var(--snuff) !important;
-    color: var(--bossanova) !important;
-    box-shadow: 0 4px 16px rgba(231, 221, 236, 0.08);
-  }
-  .section-title, .section-subtitle, h1, h2, h3, h4, h5, h6 {
-    color: var(--gold-sand) !important;
-  }
-  .divider, .divider.center {
-    background-color: var(--gold-sand) !important;
-  }
-  .btn, .btn-primary, .btn-secondary {
-    color: var(--bossanova) !important;
-    background-color: var(--gold-sand) !important;
-    border-color: var(--gold-sand) !important;
-  }
-  .btn:hover, .btn-primary:hover, .btn-secondary:hover {
-    background-color: var(--snuff) !important;
-    color: var(--bossanova) !important;
-  }
-  .breadcrumbs, .breadcrumbs a {
-    color: var(--gold-sand) !important;
-  }
 } 

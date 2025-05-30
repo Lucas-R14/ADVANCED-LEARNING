@@ -93,6 +93,7 @@ textarea.form-control {
     padding: 2.5rem;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    color: var(--bossanova);
 }
 
 .info-item {
@@ -109,6 +110,10 @@ textarea.form-control {
 }
 
 .info-item h3 i {
+    color: var(--bossanova);
+}
+
+.info-item p, .info-item a {
     color: var(--bossanova);
 }
 

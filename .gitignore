@@ -4,3 +4,4 @@ extract_requirements.py
 extract_requirements_v2.py
 extract_requirements_v3.py
 .windsurf/*
+src/php/contact_mailer.php
